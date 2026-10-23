@@ -1,0 +1,23 @@
+{
+  "name": "helping-hands",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Needs-focused rewards, giving and volunteering on an FIS-style core banking platform.",
+  "workspaces": [
+    "server",
+    "client"
+  ],
+  "scripts": {
+    "dev": "concurrently -n api,web -c yellow,cyan \"npm run dev -w server\" \"npm run dev -w client\"",
+    "seed": "npm run seed -w server",
+    "train": "npm run train -w server",
+    "pull-charities": "npm run pull-charities -w server --",
+    "reset": "npm run reset -w server",
+    "build": "npm run build -w client",
+    "start": "npm run build && npm run start -w server",
+    "test": "npm run test -w server"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "helping-hands-server",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch-path=src src/index.js",
+    "start": "node src/index.js",
+    "seed": "node scripts/seed.js && node scripts/train.js",
+    "train": "node scripts/train.js",
+    "reset": "node scripts/reset.js",
+    "test": "node --test",
+    "pull-charities": "node scripts/pull-charities.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
