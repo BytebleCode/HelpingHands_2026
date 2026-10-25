@@ -20,26 +20,27 @@ export const INSTITUTIONS = [
 export const REWARDS_POOL = { instNbr: '0420', applCde: 'DD', acctNbr: '4200009001', nme: 'Helping Hands Rewards Pool' };
 
 // Partners: merchants that bank on an FIS-core institution and fund offers.
+// Locations are fictional stores placed in real Jacksonville neighborhoods (used for nearby-store nudges).
 export const PARTNERS = [
-  { id: 'harvest-table', name: 'Harvest Table Market', category: 'groceries', mcc: 5411, settleInst: '0315', blurb: 'Neighborhood grocer with fresh produce and pantry staples.' },
-  { id: 'greenleaf', name: 'Greenleaf Grocer', category: 'groceries', mcc: 5411, settleInst: '0533', blurb: 'Value-focused grocery with SNAP-friendly pricing.' },
-  { id: 'crescent-pharmacy', name: 'Crescent Pharmacy', category: 'pharmacy', mcc: 5912, settleInst: '0315', blurb: 'Prescriptions, wellness and everyday health.' },
-  { id: 'coastal-power', name: 'Coastal Power & Light', category: 'utilities', mcc: 4900, settleInst: '0533', payee: 'UTIL', blurb: 'Regional electric and water utility.' },
-  { id: 'first-coast-transit', name: 'First Coast Transit', category: 'transit', mcc: 4111, settleInst: '0533', blurb: 'Buses, the Skyway and on-demand shuttles.' },
-  { id: 'meridian-fuel', name: 'Meridian Fuel', category: 'fuel', mcc: 5541, settleInst: '0315', blurb: 'Fuel and convenience across Duval County.' },
-  { id: 'little-oaks', name: 'Little Oaks Early Learning', category: 'childcare', mcc: 8351, settleInst: '0101', payee: 'CHILDCARE', blurb: 'Licensed early learning and after-school care.' },
-  { id: 'riverside-clinic', name: 'Riverside Family Clinic', category: 'medical', mcc: 8011, settleInst: '0101', blurb: 'Primary and pediatric care, sliding-scale fees.' },
-  { id: 'bridge-wireless', name: 'Bridge Wireless', category: 'telecom', mcc: 4814, settleInst: '0533', payee: 'PHONE', blurb: 'Phone and home internet plans.' },
-  { id: 'ledger-quill', name: 'Ledger & Quill Supply', category: 'school', mcc: 5943, settleInst: '0207', blurb: 'School and office supplies.' },
-  { id: 'mainline-auto', name: 'Mainline Auto Care', category: 'auto', mcc: 7538, settleInst: '0207', blurb: 'Honest repairs, tires and inspections.' },
-  { id: 'threadline', name: 'Threadline Family Outfitters', category: 'clothing', mcc: 5651, settleInst: '0315', blurb: 'Durable everyday clothing for the whole family.' },
-  { id: 'homestead-goods', name: 'Homestead Goods', category: 'household', mcc: 5331, settleInst: '0533', blurb: 'Cleaning, laundry and home essentials.' },
+  { id: 'harvest-table', name: 'Harvest Table Market', category: 'groceries', mcc: 5411, settleInst: '0315', blurb: 'Neighborhood grocer with fresh produce and pantry staples.', location: { lat: 30.3158, lng: -81.6853 } },
+  { id: 'greenleaf', name: 'Greenleaf Grocer', category: 'groceries', mcc: 5411, settleInst: '0533', blurb: 'Value-focused grocery with SNAP-friendly pricing.', location: { lat: 30.3381, lng: -81.5872 } },
+  { id: 'crescent-pharmacy', name: 'Crescent Pharmacy', category: 'pharmacy', mcc: 5912, settleInst: '0315', blurb: 'Prescriptions, wellness and everyday health.', location: { lat: 30.3466, lng: -81.6534 } },
+  { id: 'coastal-power', name: 'Coastal Power & Light', category: 'utilities', mcc: 4900, settleInst: '0533', payee: 'UTIL', blurb: 'Regional electric and water utility.', location: { lat: 30.3262, lng: -81.6588 } },
+  { id: 'first-coast-transit', name: 'First Coast Transit', category: 'transit', mcc: 4111, settleInst: '0533', blurb: 'Buses, the Skyway and on-demand shuttles.', location: { lat: 30.3271, lng: -81.6609 } },
+  { id: 'meridian-fuel', name: 'Meridian Fuel', category: 'fuel', mcc: 5541, settleInst: '0315', blurb: 'Fuel and convenience across Duval County.', location: { lat: 30.2742, lng: -81.7362 } },
+  { id: 'little-oaks', name: 'Little Oaks Early Learning', category: 'childcare', mcc: 8351, settleInst: '0101', payee: 'CHILDCARE', blurb: 'Licensed early learning and after-school care.', location: { lat: 30.3447, lng: -81.5758 } },
+  { id: 'riverside-clinic', name: 'Riverside Family Clinic', category: 'medical', mcc: 8011, settleInst: '0101', blurb: 'Primary and pediatric care, sliding-scale fees.', location: { lat: 30.3124, lng: -81.6902 } },
+  { id: 'bridge-wireless', name: 'Bridge Wireless', category: 'telecom', mcc: 4814, settleInst: '0533', payee: 'PHONE', blurb: 'Phone and home internet plans.', location: { lat: 30.3229, lng: -81.6553 } },
+  { id: 'ledger-quill', name: 'Ledger & Quill Supply', category: 'school', mcc: 5943, settleInst: '0207', blurb: 'School and office supplies.', location: { lat: 30.1652, lng: -81.6378 } },
+  { id: 'mainline-auto', name: 'Mainline Auto Care', category: 'auto', mcc: 7538, settleInst: '0207', blurb: 'Honest repairs, tires and inspections.', location: { lat: 30.2793, lng: -81.7446 } },
+  { id: 'threadline', name: 'Threadline Family Outfitters', category: 'clothing', mcc: 5651, settleInst: '0315', blurb: 'Durable everyday clothing for the whole family.', location: { lat: 30.2561, lng: -81.5868 } },
+  { id: 'homestead-goods', name: 'Homestead Goods', category: 'household', mcc: 5331, settleInst: '0533', blurb: 'Cleaning, laundry and home essentials.', location: { lat: 30.3334, lng: -81.5829 } },
   // Discretionary partners. Their offers exist in the catalog but are withheld by the needs filter.
-  { id: 'lumiere', name: 'Lumière Brasserie', category: 'dining', mcc: 5812, settleInst: '0315', blurb: 'French brasserie.' },
-  { id: 'aurelia', name: 'Aurelia Jewelers', category: 'luxury', mcc: 5944, settleInst: '0533', blurb: 'Fine jewelry.' },
-  { id: 'starlight', name: 'Starlight Cinema', category: 'entertainment', mcc: 7832, settleInst: '0533', blurb: 'Luxury recliner cinema.' },
-  { id: 'jetcoast', name: 'JetCoast Airways', category: 'travel', mcc: 4511, settleInst: '0315', blurb: 'Regional airline.' },
-  { id: 'velvet-room', name: 'The Velvet Room', category: 'bars', mcc: 5813, settleInst: '0101', blurb: 'Cocktail lounge.' },
+  { id: 'lumiere', name: 'Lumière Brasserie', category: 'dining', mcc: 5812, settleInst: '0315', blurb: 'French brasserie.', location: { lat: 30.3058, lng: -81.6536 } },
+  { id: 'aurelia', name: 'Aurelia Jewelers', category: 'luxury', mcc: 5944, settleInst: '0533', blurb: 'Fine jewelry.', location: { lat: 30.3049, lng: -81.6561 } },
+  { id: 'starlight', name: 'Starlight Cinema', category: 'entertainment', mcc: 7832, settleInst: '0533', blurb: 'Luxury recliner cinema.', location: { lat: 30.2556, lng: -81.5826 } },
+  { id: 'jetcoast', name: 'JetCoast Airways', category: 'travel', mcc: 4511, settleInst: '0315', blurb: 'Regional airline.', location: { lat: 30.4941, lng: -81.6879 } },
+  { id: 'velvet-room', name: 'The Velvet Room', category: 'bars', mcc: 5813, settleInst: '0101', blurb: 'Cocktail lounge.', location: { lat: 30.3165, lng: -81.688 } },
 ];
 
 // Non-partner merchants so transaction history looks real.

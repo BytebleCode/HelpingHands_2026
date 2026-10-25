@@ -3,6 +3,7 @@ import { Link, useNavigate } from 'react-router-dom';
 import { Copy, Plus, ArrowUpRight, ArrowDownRight, Landmark, ShieldCheck, LogOut, Eye, EyeOff, Wand2, FlaskConical } from 'lucide-react';
 import { Hero, SectionHead, Modal, PageLoading, PageError, Notice, Skeleton } from '../components/ui.jsx';
 import { ActivityList } from './Home.jsx';
+import { MomentSettings } from '../components/Nudge.jsx';
 import { api, useApi } from '../lib/api.js';
 import { useSession, useToast } from '../lib/session.jsx';
 import { money, money2, pct, ordinal, shortDate, featureValue } from '../lib/format.js';
@@ -188,6 +189,12 @@ export default function Account() {
             ))}
           </div>
           <div className="mt-4"><Notice icon={ShieldCheck}>Helping Hands reads balances and transactions through the FIS core with your permission, and never sees full credentials. Rewards are paid by FIS transfer.</Notice></div>
+        </section>
+
+        {/* Settings the member can change any time (moment nudges can be switched back on here). */}
+        <section className="section">
+          <SectionHead label="Preferences" title="Nudges and location" />
+          <MomentSettings />
         </section>
 
         <section className="section">

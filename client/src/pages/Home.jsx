@@ -1,15 +1,16 @@
 import { useState } from 'react';
 import { Link } from 'react-router-dom';
-import { ArrowRight, CalendarDays, MapPin, Flame, Gift, Ticket, HeartHandshake, ArrowDownLeft, HandHelping, Landmark, Users } from 'lucide-react';
+import { ArrowRight, CalendarDays, MapPin, Flame, Gift, Ticket, HeartHandshake, ArrowDownLeft, HandHelping, Landmark, Users, CreditCard } from 'lucide-react';
 import { Hero, SectionHead, Progress, Img, PageLoading, PageError } from '../components/ui.jsx';
 import { OfferCard, OfferModal, useOfferActions } from '../components/Offers.jsx';
 import { NeighborGiftModal, NeedList } from '../components/Neighbors.jsx';
+import { MomentOptIn, RecentNudges } from '../components/Nudge.jsx';
 import { CharityCard, DonateModal } from './Give.jsx';
 import { useApi } from '../lib/api.js';
 import { useSession } from '../lib/session.jsx';
 import { greeting, pts, money, money2, longDate, shortDate, time12, relTime, plural, pct } from '../lib/format.js';
 
-const LEDGER_ICON = { everyday: Ticket, offer: Gift, donation: HeartHandshake, cashout: Landmark, volunteer: HandHelping, 'neighbor-gift': Users };
+const LEDGER_ICON = { everyday: Ticket, offer: Gift, donation: HeartHandshake, cashout: Landmark, volunteer: HandHelping, 'neighbor-gift': Users, 'pay-with-points': CreditCard };
 
 export function ActivityList({ items }) {
   if (!items?.length) return <div className="empty small">No activity yet.</div>;
@@ -201,7 +202,12 @@ export default function Home() {
   return (
     <div className="page">
       {hero}
-      <div className="container">{layouts[mode].filter(Boolean)}</div>
+      <div className="container">
+        {/* Moment-of-intent nudges: location opt-in, then any nudges from the last week. */}
+        <MomentOptIn />
+        <RecentNudges />
+        {layouts[mode].filter(Boolean)}
+      </div>
       <OfferModal offer={selected} onClose={() => setSelectedId(null)} onActivate={activate} busy={busy} />
       {neighborArea && neighbors.data && <NeighborGiftModal neighbors={neighbors.data} balance={me.points} initialAreaId={neighborArea} onClose={() => setNeighborArea(null)} onDone={done} />}
       {donateTo && <DonateModal charity={donateTo} balance={me.points} campaigns={data.campaigns} onClose={() => setDonateTo(null)} onDone={done} />}

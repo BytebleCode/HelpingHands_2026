@@ -4,6 +4,7 @@ import { House, Ticket, HeartHandshake, HandHelping, CircleUserRound, LogOut, Fl
 import { BrandMark, Progress } from './ui.jsx';
 import { useSession } from '../lib/session.jsx';
 import { pts, money2 } from '../lib/format.js';
+import { NudgeBanner } from './Nudge.jsx';
 
 const NAV_ITEMS = {
   home: { to: '/', label: 'Home', icon: House, end: true },
@@ -81,6 +82,8 @@ export default function Shell() {
           <NavLink key={to} to={to} end={end}><Icon />{label}</NavLink>
         ))}
       </nav>
+      {/* Moment-of-intent pop-up; hidden until a page calls useNudge().show(). */}
+      <NudgeBanner />
     </div>
   );
 }

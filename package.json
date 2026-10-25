@@ -11,6 +11,7 @@
     "dev": "concurrently -n api,web -c yellow,cyan \"npm run dev -w server\" \"npm run dev -w client\"",
     "seed": "npm run seed -w server",
     "train": "npm run train -w server",
+    "train-intent": "npm run train-intent -w server",
     "pull-charities": "npm run pull-charities -w server --",
     "reset": "npm run reset -w server",
     "build": "npm run build -w client",

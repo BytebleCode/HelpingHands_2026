@@ -189,3 +189,28 @@ export async function cashOut(ctx, { points, linkId }) {
   store.save();
   return { entry, transfer, balance: store.state.points[ctx.hhid].balance };
 }
+
+/**
+ * Pay with points at a partner (Premium Payback style): points become a statement credit on the
+ * member's checking account, posted through the FIS core, labeled with the merchant.
+ */
+export async function payWithPoints(ctx, { partnerId, points }) {
+  const partner = partnerById[partnerId];
+  if (!partner) throw new HttpError(404, 'Partner not found');
+  if (!isOfferable(partner.category)) throw new HttpError(422, 'Helping Hands only rewards essential needs');
+  const bal = store.state.points[ctx.hhid].balance;
+  points = Math.floor(Number(points ?? bal));
+  if (!(points >= POINTS_PER_DOLLAR)) throw new HttpError(400, 'Apply at least 100 points ($1)');
+  if (points > bal) throw new HttpError(422, 'Not enough points');
+  const link = ctx.person.links.find((l) => l.applCde === 'DD');
+  if (!link) throw new HttpError(400, 'Link a checking account first');
+  const dollars = points / POINTS_PER_DOLLAR;
+  const name = partner.name.toUpperCase();
+  const transfer = await fis.transfer({
+    fromAcct: catalog.rewardsPool, toAcct: link, tranAmt: dollars, memo: `PWP ${ctx.hhid}`,
+    creditTranCde: 'MEMO', creditDesc: `PAY WITH POINTS ${name}`, debitDesc: `PAY WITH POINTS ${ctx.hhid} ${name}`,
+  });
+  const entry = store.addPoints(ctx.hhid, { type: 'pay-with-points', points: -points, desc: `Paid with points at ${partner.name}`, ref: transfer.tranRefNbr });
+  store.save();
+  return { entry, transfer, partner: partner.name, dollars, account: mask(link.acctNbr), balance: store.state.points[ctx.hhid].balance };
+}

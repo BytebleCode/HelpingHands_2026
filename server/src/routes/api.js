@@ -4,7 +4,8 @@ import { loadContext, HttpError, mask } from '../lib/context.js';
 import { fis } from '../lib/fisClient.js';
 import { CATEGORIES, categoryOf, OFFER_NEED_THRESHOLD } from '../lib/mcc.js';
 import { TIERS } from '../lib/incomeModel.js';
-import { recommend, activate, sync, cashOut, POINTS_PER_DOLLAR, EVERYDAY_PTS_PER_DOLLAR } from '../lib/rewards.js';
+import { recommend, activate, sync, cashOut, payWithPoints, POINTS_PER_DOLLAR, EVERYDAY_PTS_PER_DOLLAR } from '../lib/rewards.js';
+import { checkNudge, weekView, placesFor, recentNudges } from '../lib/nudge.js';
 import { journey, campaigns, community, donate } from '../lib/giving.js';
 import { listVolunteer, signup, cancel, checkIn, haversineMiles, originFor } from '../lib/volunteer.js';
 import { experienceFor } from '../lib/experience.js';
@@ -174,6 +175,20 @@ router.get('/rewards', member(async (req, res) => {
 router.post('/rewards/sync', member(async (req, res) => res.json(await sync(req.ctx))));
 router.post('/rewards/:offerId/activate', member(async (req, res) => res.json(await activate(req.ctx, req.params.offerId))));
 router.post('/rewards/cashout', member(async (req, res) => res.json(await cashOut(req.ctx, req.body || {}))));
+// Pay with points at a partner (Premium Payback style): { partnerId, points } -> statement credit via the FIS core.
+router.post('/rewards/pay-with-points', member(async (req, res) => res.json(await payWithPoints(req.ctx, req.body || {}))));
+
+// ------------------------------------------------------------------ moment-of-intent nudges
+// See lib/nudge.js for how decisions are made. Location in these requests is used for the decision
+// only and is never stored.
+// POST /nudges/check   { date, time, lat?, lng?, record?, ignoreLimits? } -> decision + nudge (or why not)
+// GET  /nudges/recent  nudges shown in the last week, so a member can reopen one any time
+// GET  /nudges/week    the intent model's next 7 days (demo heatmap) + model test scores
+// GET  /nudges/places  home + partner stores the demo simulator can place the member at
+router.post('/nudges/check', member(async (req, res) => res.json(checkNudge(req.ctx, req.body || {}))));
+router.get('/nudges/recent', member(async (req, res) => res.json(recentNudges(req.ctx))));
+router.get('/nudges/week', member(async (req, res) => res.json(weekView(req.ctx))));
+router.get('/nudges/places', member(async (req, res) => res.json(placesFor(req.ctx))));
 
 // ------------------------------------------------------------------ giving
 router.get('/giving', member(async (req, res) => {

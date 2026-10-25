@@ -41,6 +41,126 @@ export function makeRandom(seed) {
 const clamp = (x, lo, hi) => Math.min(hi, Math.max(lo, x));
 const round2 = (x) => Math.round(x * 100) / 100;
 
+// ---------- shopping habits ----------
+// Real households shop on routines: a usual grocery day, a fuel stop every week or so, monthly refills,
+// a usual time of day, a bigger run right after payday. The intent model learns to predict these
+// routines, so the generator has to produce them (pure day-by-day dice rolls have no pattern to learn).
+const HABIT_KIND = {
+  groceries: 'weekly', household: 'weekly',
+  fuel: 'interval', pharmacy: 'interval', medical: 'interval', auto: 'interval', school: 'interval', clothing: 'interval',
+  transit: 'commute',
+};
+// Usual hour options per category: [mean hour, spread]. Each household settles on one.
+const HOUR_OPTIONS = {
+  groceries: [[10, 1.2], [18, 1]], household: [[11, 1.5], [18, 1]], fuel: [[7.5, 0.7], [17.5, 0.8]],
+  pharmacy: [[13, 1.5], [17.5, 1]], medical: [[10, 1.5], [14, 1.5]], auto: [[9, 1], [13, 1.5]],
+  school: [[16, 1.5]], clothing: [[14, 2]], transit: [[7.5, 0.6], [16.5, 0.8]],
+  fastfood: [[12.5, 0.8], [18.5, 1]], dining: [[19, 0.8]], bars: [[21.5, 0.8]], entertainment: [[19.5, 1.2]],
+  electronics: [[15, 2]], rideshare: [[21, 2]], travel: [[11, 3]], luxury: [[14, 2]], altfinance: [[12, 2]],
+};
+// Wants lean toward the weekend.
+const WEEKEND_LEANING = new Set(['dining', 'bars', 'entertainment', 'fastfood']);
+const DOW_WEIGHT = [1.2, 0.75, 0.75, 0.75, 0.75, 1.6, 1.6]; // Sun..Sat
+
+const clampHour = (h) => clamp(h, 6, 22.9);
+const fmtTime = (hour) => {
+  const mins = Math.round(clampHour(hour) * 60);
+  return `${String(Math.floor(mins / 60)).padStart(2, '0')}:${String(mins % 60).padStart(2, '0')}:00`;
+};
+
+function gammaGap(hr, mean, shape = 6) {
+  let s = 0;
+  for (let i = 0; i < shape; i++) s -= Math.log(1 - hr.next());
+  return Math.max(1, Math.round((s * mean) / shape));
+}
+
+// Move a day to the household's usual weekday when it is within maxShift days.
+function snapToDow(d, dow, maxShift = 2) {
+  const fwd = (dow - dayOfWeek(d) + 7) % 7;
+  const shift = fwd > 3 ? fwd - 7 : fwd;
+  return Math.abs(shift) <= maxShift ? d + shift : d;
+}
+
+/** Each household's routines: usual day(s), usual hour and trip rhythm per category. Profiles may override. */
+function buildHabits(p, B, hr) {
+  const habits = {};
+  for (const [cat, monthly] of Object.entries(B.pos)) {
+    if (monthly <= 0) continue;
+    const opts = HOUR_OPTIONS[cat] || [[13, 2]];
+    const [mean, spread] = hr.pick(opts);
+    const hour = clampHour(mean + hr.normal() * spread * 0.6);
+    const morning = hour < 12.5;
+    // Weekend-morning shoppers mostly pick Saturday or Sunday; evening shoppers mostly pick a weekday.
+    const dow = morning ? (hr.chance(0.75) ? hr.pick([0, 6]) : hr.int(1, 5)) : (hr.chance(0.75) ? hr.int(1, 5) : hr.pick([0, 6]));
+    const dow2 = (dow + 3 + hr.int(0, 1)) % 7;
+    habits[cat] = { kind: HABIT_KIND[cat] || 'random', hour, dow, dow2, tripsPerMonth: monthly / ticketFor(cat, p), ...(p.habits?.[cat] || {}) };
+  }
+  // Home essentials usually ride along on the grocery trip.
+  if (habits.household && habits.groceries) {
+    habits.household = { ...habits.household, dow: habits.groceries.dow, hour: habits.groceries.hour, ...(p.habits?.household || {}) };
+  }
+  return habits;
+}
+
+/** Trip days for one routine category: [{ d, weight }], weight scales the ticket. */
+function scheduleTrips(h, { startDay, endDay, paydays, stockUpAfterPay }, hr) {
+  const trips = [];
+  const inRange = (d) => d >= startDay && d <= endDay;
+  let kind = h.kind;
+  if (kind === 'weekly' && h.tripsPerMonth < 2.2) kind = 'interval';
+
+  if (kind === 'weekly') {
+    const twice = h.tripsPerMonth >= 7;
+    const anchors = twice ? [[h.dow, 1], [h.dow2, 0.55]] : [[h.dow, 1]];
+    for (const [dow, weight] of anchors) {
+      for (let a = startDay - dayOfWeek(startDay) + dow; a <= endDay + 3; a += 7) {
+        const r = hr.next();
+        if (r < (weight < 1 ? 0.2 : 0.06)) continue; // skipped this week
+        let d = a;
+        if (r < 0.22) d += hr.pick([-1, 1]); // slipped a day
+        else if (r < 0.3) d += hr.int(-3, 3); // off-routine week
+        // Lower-income households often do the big run right after payday.
+        if (weight === 1 && stockUpAfterPay) {
+          const pd = paydays.find((x) => x >= a - 6 && x < a - 1);
+          if (pd !== undefined && hr.chance(0.45)) d = pd + hr.int(0, 1);
+        }
+        if (inRange(d)) trips.push({ d, weight });
+      }
+    }
+    const routineUnits = 4.35 * (twice ? 0.94 + 0.55 * 0.8 : 0.94);
+    const extraPerMonth = Math.max(0, h.tripsPerMonth - (twice ? 4.35 * 1.74 : 4.35 * 0.94));
+    for (let d = startDay; d <= endDay; d++) {
+      const n = hr.poisson(extraPerMonth / 30.4);
+      for (let i = 0; i < n; i++) trips.push({ d, weight: 0.4, random: true });
+    }
+    return { trips, units: routineUnits + extraPerMonth * 0.4 };
+  }
+
+  if (kind === 'interval') {
+    const gap = 30.4 / Math.max(0.2, h.tripsPerMonth);
+    let d = startDay - hr.int(0, Math.max(1, Math.round(gap)));
+    while (d <= endDay) {
+      d += gammaGap(hr, gap);
+      const day = hr.chance(0.5) ? snapToDow(d, h.dow) : d;
+      if (inRange(day)) trips.push({ d: day, weight: 1 });
+    }
+    return { trips, units: h.tripsPerMonth };
+  }
+
+  if (kind === 'commute') {
+    const pWeekday = Math.min(0.95, h.tripsPerMonth / 21.7);
+    let expected = 0;
+    for (let d = startDay; d <= endDay; d++) {
+      const weekday = dayOfWeek(d) >= 1 && dayOfWeek(d) <= 5;
+      const pr = weekday ? pWeekday : pWeekday * 0.15;
+      expected += pr;
+      if (hr.chance(pr)) trips.push({ d, weight: 1 });
+    }
+    return { trips, units: (expected / (endDay - startDay + 1)) * 30.4 || 1 };
+  }
+  return null;
+}
+
 // ---------- merchant registry ----------
 export const PARTNER_MERCHANT_IDS = Object.fromEntries(
   PARTNERS.map((p, i) => [p.id, `4451${String(i + 1).padStart(11, '0')}`]),
@@ -147,6 +267,8 @@ export function generateHousehold(profile, { seed, endDay, days = 180 }) {
   const p = { hhSize: 1, kids: 0, youngKids: 0, hasCar: true, partnerAffinity: 0.35, observedShare: 1, ...profile };
   const startDay = endDay - days + 1;
   const B = monthlyBudgets(p, rnd);
+  const hr = makeRandom((seed ^ 0x2545f491) >>> 0); // separate stream for routines and times of day
+  const habits = buildHabits(p, B, hr);
   const events = [];
   const add = (e) => events.push(e);
   const observe = () => p.observedShare >= 1 || rnd.chance(p.observedShare);
@@ -224,21 +346,35 @@ export function generateHousehold(profile, { seed, endDay, days = 180 }) {
       add({ d, kind: 'D', tranCde: 'POS', merchant: m, amt: B.bills.streaming, essential: false });
     }
 
-    // Card purchases.
-    for (const [cat, monthly] of Object.entries(B.pos)) {
-      if (monthly <= 0) continue;
-      const n = rnd.poisson(monthly / ticketFor(cat, p) / 30.4);
-      for (let i = 0; i < n; i++) {
-        if (!observe()) continue;
-        const m = merchantFor(cat);
-        const amt = ticketFor(cat, p) * rnd.lognormal(-0.08, 0.4);
-        add({ d, kind: 'D', tranCde: 'POS', merchant: m, amt, essential: !['dining', 'bars', 'entertainment', 'travel', 'luxury', 'electronics', 'fastfood', 'rideshare'].includes(cat) });
-      }
-    }
-    if (rnd.chance(B.atmMonthly / 60 / 30.4) && observe()) add({ d, kind: 'D', tranCde: 'ATMW', desc: 'ATM WITHDRAWAL', amt: rnd.pick([40, 60, 80, 100]), essential: false });
+    if (rnd.chance(B.atmMonthly / 60 / 30.4) && observe()) add({ d, kind: 'D', tranCde: 'ATMW', desc: 'ATM WITHDRAWAL', amt: rnd.pick([40, 60, 80, 100]), essential: false, hour: 9 + hr.next() * 12 });
 
     // Monthly savings sweep for households that save.
     if (dom === 2 && B.spendRatio < 0.97) add({ d, kind: 'X', amt: (1 - B.spendRatio) * net * 0.8 });
+  }
+
+  // Card purchases. Routine categories follow each household's habits; the rest arrive at random,
+  // with wants leaning toward the weekend. Every purchase gets a time of day near the household's usual hour.
+  const paydays = events.filter((e) => e.kind === 'C').map((e) => e.d).sort((a, b) => a - b);
+  const NON_ESSENTIAL = ['dining', 'bars', 'entertainment', 'travel', 'luxury', 'electronics', 'fastfood', 'rideshare'];
+  const purchase = (d, cat, amt) => {
+    if (!observe()) return;
+    const h = habits[cat];
+    const hour = hr.chance(0.12) ? 8 + hr.next() * 13 : h.hour + hr.normal() * 0.75;
+    add({ d, kind: 'D', tranCde: 'POS', merchant: merchantFor(cat), amt, essential: !NON_ESSENTIAL.includes(cat), hour });
+  };
+  for (const [cat, monthly] of Object.entries(B.pos)) {
+    if (monthly <= 0) continue;
+    const plan = HABIT_KIND[cat] && scheduleTrips(habits[cat], { startDay, endDay, paydays, stockUpAfterPay: p.income < 45000 && !p.isRetiree }, hr);
+    if (plan) {
+      const ticket = monthly / Math.max(0.5, plan.units);
+      for (const t of plan.trips) purchase(t.d, cat, ticket * t.weight * hr.lognormal(-0.03, 0.25));
+      continue;
+    }
+    const rate = monthly / ticketFor(cat, p) / 30.4;
+    for (let d = startDay; d <= endDay; d++) {
+      const n = rnd.poisson(rate * (WEEKEND_LEANING.has(cat) ? DOW_WEIGHT[dayOfWeek(d)] : 1));
+      for (let i = 0; i < n; i++) purchase(d, cat, ticketFor(cat, p) * rnd.lognormal(-0.08, 0.4));
+    }
   }
 
   return simulate(events, p, rnd, { startDay, endDay, B });
@@ -266,10 +402,12 @@ function simulate(events, p, rnd, { startDay, endDay, B }) {
   const post = (a, d, t) => {
     const signed = t.drCrCde === 'C' ? t.tranAmt : -t.tranAmt;
     a.bal = round2(a.bal + signed);
-    a.txns.push({ seqNbr: ++a.seq, postDt: fromDay(d), effDt: fromDay(d), ...t, runBal: a.bal });
+    a.txns.push({ seqNbr: ++a.seq, postDt: fromDay(d), effDt: fromDay(d), tranTm: t.tranTm ?? '06:30:00', ...t, runBal: a.bal });
   };
 
-  events.sort((x, y) => x.d - y.d || (x.kind === 'C' ? -1 : 1) - (y.kind === 'C' ? -1 : 1));
+  // Posting times: ACH settles early morning, card purchases and ATM at their time of day, fees overnight.
+  const hourOf = (e) => e.hour ?? (e.kind === 'C' ? 6 : e.kind === 'X' ? 7 : 6.5);
+  events.sort((x, y) => x.d - y.d || (x.kind === 'C' ? -1 : 1) - (y.kind === 'C' ? -1 : 1) || hourOf(x) - hourOf(y));
   for (const e of events) {
     const amt = round2(e.amt);
     if (amt <= 0) continue;
@@ -277,20 +415,20 @@ function simulate(events, p, rnd, { startDay, endDay, B }) {
       const split = routing.depositSplit || { [routing.primary]: 1 };
       for (const [key, share] of Object.entries(split)) {
         const a = accts[key];
-        post(a, e.d, { tranCde: e.tranCde, tranDesc: e.desc, drCrCde: 'C', tranAmt: round2(amt * share), achCoNme: e.achCoNme, achSecCde: 'PPD' });
+        post(a, e.d, { tranCde: e.tranCde, tranDesc: e.desc, drCrCde: 'C', tranAmt: round2(amt * share), achCoNme: e.achCoNme, achSecCde: 'PPD', tranTm: '06:00:00' });
       }
       continue;
     }
     if (e.kind === 'X') {
       if (!savings || primary.bal < amt + 200) continue;
-      post(primary, e.d, { tranCde: 'XFRO', tranDesc: `TRANSFER TO ${savings.label || 'SAVINGS'}`, drCrCde: 'D', tranAmt: amt });
-      post(savings, e.d, { tranCde: 'XFRI', tranDesc: `TRANSFER FROM ${primary.label || 'CHECKING'}`, drCrCde: 'C', tranAmt: amt });
+      post(primary, e.d, { tranCde: 'XFRO', tranDesc: `TRANSFER TO ${savings.label || 'SAVINGS'}`, drCrCde: 'D', tranAmt: amt, tranTm: '07:00:00' });
+      post(savings, e.d, { tranCde: 'XFRI', tranDesc: `TRANSFER FROM ${primary.label || 'CHECKING'}`, drCrCde: 'C', tranAmt: amt, tranTm: '07:00:00' });
       continue;
     }
     const cat = e.merchant ? e.merchant.category : e.payeeCatCde ? categoryOf({ payeeCatCde: e.payeeCatCde }) : 'other';
     const a = accts[pickKey(routing.spendRoute?.[cat])] || primary;
     if (!e.essential && a.bal < 25) continue; // households cut back on wants when money is tight
-    const t = { tranCde: e.tranCde, drCrCde: 'D', tranAmt: amt };
+    const t = { tranCde: e.tranCde, drCrCde: 'D', tranAmt: amt, tranTm: fmtTime(hourOf(e)) };
     if (e.merchant) {
       Object.assign(t, {
         tranDesc: `POS PURCHASE ${e.merchant.mrchNme}`, mrchNme: e.merchant.mrchNme, mrchId: e.merchant.mrchId,
@@ -304,13 +442,13 @@ function simulate(events, p, rnd, { startDay, endDay, B }) {
     post(a, e.d, t);
     if (a.bal < 0 && a.lastOdDay !== e.d && rnd.chance(overdraftProb)) {
       a.lastOdDay = e.d;
-      post(a, e.d, { tranCde: 'FEE', tranDesc: 'OVERDRAFT ITEM FEE', drCrCde: 'D', tranAmt: 35 });
+      post(a, e.d, { tranCde: 'FEE', tranDesc: 'OVERDRAFT ITEM FEE', drCrCde: 'D', tranAmt: 35, tranTm: '23:30:00' });
     }
   }
   // Monthly interest on savings.
   if (savings) {
     for (let d = startDay; d <= endDay; d++) {
-      if (dayOfMonth(d) === 28 && savings.bal > 0) post(savings, d, { tranCde: 'INT', tranDesc: 'INTEREST PAID', drCrCde: 'C', tranAmt: round2(savings.bal * 0.035 / 12) });
+      if (dayOfMonth(d) === 28 && savings.bal > 0) post(savings, d, { tranCde: 'INT', tranDesc: 'INTEREST PAID', drCrCde: 'C', tranAmt: round2(savings.bal * 0.035 / 12), tranTm: '23:00:00' });
     }
     savings.txns.sort((x, y) => x.postDt.localeCompare(y.postDt) || x.seqNbr - y.seqNbr);
     savings.txns.forEach((t, i) => { t.seqNbr = i + 1; });

@@ -37,21 +37,27 @@ Open http://localhost:5173 and pick a demo member.
 
 | Script | What it does |
 |---|---|
-| `npm run seed` | Regenerates the static DB and retrains the income model (deterministic) |
+| `npm run seed` | Regenerates the static DB and retrains the income and intent models (deterministic) |
 | `npm run train` | Retrains the income model only |
+| `npm run train-intent` | Retrains the intent model only and prints its test scores |
 | `npm run pull-charities -- jacksonville-fl` | Refreshes a market's real charities from IRS data (ProPublica) and geocodes them (US Census) |
 | `npm run reset` | Clears demo activity (points, offers, gifts, FIS postings) |
-| `npm test` | Checks the static DB, model, needs filter, charity data and FIS API contract |
+| `npm test` | Checks the static DB, both models, the nudge engine, needs filter, charity data and FIS API contract |
+
+**Nudge settings** (environment variables, optional): `NUDGE_MAX_PER_DAY` (default 2 pop-ups a day), `NUDGE_COOLDOWN_HOURS` (default 48 before the same offer pops up again), `DEMO_MODE=false` to remove the simulator's *Ignore pop-up limits* option.
+
+**Testing location on a phone:** browsers only share location with secure pages (https or localhost), so `http://<laptop-ip>:5173` can't use it. Run `npm start`, then open a temporary https tunnel to the laptop with `npx cloudflared tunnel --url http://localhost:4000` and use the https link it prints on the phone. Anyone with that link can open the demo while the tunnel runs; stop it with Ctrl+C.
 
 ## Demo walkthrough (about 4 minutes)
 
-1. **Demo tab:** start here. The income spectrum puts the five members on one line, from Maya (8th percentile) to Priya (99th). The comparison table shows what changes: multiplier, offer values, and whether the site leads with savings or giving.
+1. **Demo tab:** start here. The income spectrum puts the five members on one line, from Maya (lowest) to Priya (99th percentile). The comparison table shows what changes: multiplier, offer values, and whether the site leads with savings or giving.
 2. **Priya** (Summit, 1×, *giving first*): her Home leads with model-detected need. Springfield is 91% lower-income. Use *Give to neighbors*, pick **Arlington**, and her points are split among 10 lower-income households. She never sees who they are.
 3. Switch to **Maya** in the Demo tab (Cornerstone, 3×, *savings first*). Her Home shows the gift from the Arlington Neighbor Fund. Maya was one of the 10.
 4. **Rewards:** activate *Greenleaf Grocer*. It matches a grocery run she made last week (coupons are retroactive), and the partner settles through an FIS transfer. Wants are withheld.
 5. **Give:** give to **Feeding Northeast Florida**, a real food bank with its IRS EIN shown. Harvest Table matches it 1:1.
 6. **Volunteer:** sign up for a shift near Arlington and check in. Each hour adds 500 impact.
-7. **Demo tab again:** *How the model reads Maya* shows each spending signal pushing her estimate, where she lands in the community, the actual-vs-predicted scatter, need by neighborhood, the raw FIS API explorer, and the purchase simulator.
+7. **Moment of intent (Demo tab, as Maya):** the heatmap shows when she usually shops for groceries (Sunday mornings stand out). Press *Likeliest moment*: the simulator puts her at Greenleaf Grocer that morning and a nudge pops up with *Why?* reasons and two actions: activate the offer or pay with points (posted through FIS). Press *Check this moment* again: no new pop-up (no repeats within 48 hours), but *Open it again* brings the earlier nudge back, and Home's *Your nudges* list keeps every nudge for 7 days. Move *Where* to Meridian Fuel and press *Best time here* to see her best fill-up time. Try Tuesday 8 PM at the same store: no nudge, 1% chance.
+8. **Demo tab again:** *How the model reads Maya* shows each spending signal pushing her estimate, where she lands in the community, the actual-vs-predicted scatter, need by neighborhood, the raw FIS API explorer, and the purchase simulator.
 
 ## How it works
 
@@ -64,9 +70,12 @@ React PWA ──/api──▶ Helping Hands API ──fisClient (HTTP)──▶ 
 
 - **Fake FIS core** (`server/src/fis`): FIS IBS-style addressing (`instNbr`/`applCde`/`acctNbr`), abbreviated fields (`tranCde`, `drCrCde`, `postDt`, `mrchCatCde`, …), a metadata/status envelope, and `organization-id` + `x-api-key` headers. It's modeled on public conventions, not the licensed spec. All money movement is a posting in the core.
 - **Swap in a real core:** `server/src/lib/fisClient.js` is the only code that talks to the core. Point `FIS_BASE_URL` at a gateway and remap fields there.
-- **Static DB** (`server/data/seed`): 5 fictional FIS institutions, 5 demo members, and 264 synthetic households across 12 Jacksonville neighborhoods. The synthetic households are stored as deterministic recipes and expanded into about 62,000 transactions when the core starts. Dates slide forward on load, so the data is always current.
+- **Static DB** (`server/data/seed`): 5 fictional FIS institutions, 5 demo members, and 264 synthetic households across 12 Jacksonville neighborhoods. The synthetic households are stored as deterministic recipes and expanded into about 62,000 transactions when the core starts. Dates slide forward on load in whole weeks, so the data is always current and weekday routines stay on the right weekday.
 - **Real charities, by market:** `server/scripts/markets/jacksonville-fl.js` lists 16 Jacksonville nonprofits by EIN. `pull-charities` fetches their legal names and IRS addresses and geocodes them. Jacksonville is the first market; adding a city means adding a market file.
 - **Income model:** ridge regression on log income over 12 spending features. It's sign-constrained so every explanation reads intuitively. Trained on 2,000 synthetic households from the same generator, it scores R² 0.93 on a holdout, with 99% of predictions within one tier. Percentiles map to tiers worth **3× / 2.25× / 1.6× / 1.25× / 1×**.
+- **Shopping routines:** the generator gives every household habits: a usual grocery day and time, fuel and prescription refills on a rhythm, a bigger grocery run after payday for lower-income households, and about 1 in 8 trips off-routine. Every purchase carries a `tranTm` time.
+- **Intent model:** logistic regression that estimates the chance a member buys groceries, fuel, pharmacy, home essentials or transit in a given time block (morning, midday, afternoon, evening). Clues: how often they buy, usual weekday, usual time, whether a routine is due, whether they just bought, payday timing, days of money left and spending pace. Trained on 320 synthetic households and tested on 80 households it never saw over 30 days it never saw: AUC 0.91 (frequency alone: 0.73), and its top 3 time slots of the week catch a real trip 80% of the time (hand-written rule of thumb: 72%, chance: 19%). Every score comes with plain-English reasons. Location is not a training input: the nudge engine (next step) applies it live at the moment of intent and never stores it.
+- **Nudge engine:** combines the intent model's timing, live distance to a partner store (a strong boost at the door that fades by a mile), and the offer's value on the member's typical purchase. It sends a nudge only for a partner store within a mile of the member, when the live chance is at least 50% and the reward is worth $1 or more, at most 2 pop-ups a day and never the same offer within 48 hours, and returns the reasoning either way. The limits only control interruptions: every nudge stays in *Your nudges* on Home for 7 days. Location is used inside the request and never stored; nudge history keeps only the offer and time. On Home, moment nudges are opt-in. *Pay with points* turns points into a statement credit posted through the core (Premium Payback style).
 - **Experience modes:** Cornerstone and Foundation members get *savings first* (boosted offers lead). Keystone gets *save & give*. Pillar and Summit get *giving first*: Neighbor Funds, matches and charities lead, offers move down, and the nav puts Give ahead of Rewards.
 - **Neighbor Funds:** a scoring job runs the model over every household through the FIS adapter. Donors pick an area (a neighborhood or the whole city) and a group (lower-income or lowest-income tiers), and points are split evenly. Groups under 10 households can't be targeted, and donors only see totals.
 - **Coupons are backwards compatible:** they're card-linked (no new POS hardware), purchases from the 30 days *before* activation count, and a Code 39 barcode covers legacy registers.

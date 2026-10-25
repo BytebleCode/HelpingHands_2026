@@ -70,6 +70,7 @@ const PERSONAS = [
     profile: {
       income: 28500, hhSize: 3, kids: 2, youngKids: 1, hasCar: true, payFreq: 'biweekly', employer: 'PALMETTO HOME SUPPLY',
       benefitMonthly: 180, benefitSource: 'STATE FAMILY ASSIST', altFinance: false, partnerAffinity: 0.8, overdraftProb: 0.35,
+      habits: { groceries: { dow: 0, hour: 10 }, pharmacy: { dow: 3, hour: 17.5 } }, // Sunday-morning grocery run
       routing: { primary: 'fc', savings: 'rb', depositSplit: { fc: 0.78, hs: 0.22 }, spendRoute: { groceries: { hs: 0.4 }, pharmacy: { hs: 0.4 }, childcare: { hs: 1 } } },
     },
   },
@@ -84,6 +85,7 @@ const PERSONAS = [
     profile: {
       income: 38000, hhSize: 2, kids: 0, hasCar: true, isGig: true, altFinance: true, partnerAffinity: 0.7,
       taste: { fuel: 1.3, auto: 1.4 },
+      habits: { fuel: { dow: 4, hour: 7.5 }, groceries: { dow: 2, hour: 19 } },
       routing: { primary: 'rb', savings: 'fc' },
     },
   },
@@ -98,6 +100,7 @@ const PERSONAS = [
     profile: {
       income: 22000, hhSize: 1, isRetiree: true, hasCar: false, ownsHome: false, partnerAffinity: 0.8,
       taste: { pharmacy: 1.3, medical: 1.2 },
+      habits: { pharmacy: { dow: 2, hour: 11 }, groceries: { dow: 4, hour: 10.5 } },
       routing: { primary: 'sj', savings: 'sv' },
     },
   },
@@ -111,6 +114,7 @@ const PERSONAS = [
     ],
     profile: {
       income: 64000, hhSize: 4, kids: 2, hasCar: true, payFreq: 'semimonthly', employer: 'DUVAL SCHOOLS', partnerAffinity: 0.55,
+      habits: { groceries: { dow: 6, hour: 9.5 }, fuel: { dow: 1, hour: 17.5 } },
       routing: { primary: 'fc', savings: 'sv' },
     },
   },
@@ -125,6 +129,7 @@ const PERSONAS = [
     profile: {
       income: 210000, hhSize: 1, hasCar: true, payFreq: 'monthly', employer: 'BAYMEADOWS TECH', partnerAffinity: 0.3,
       taste: { travel: 1.4, dining: 1.3, luxury: 1.5 },
+      habits: { groceries: { dow: 3, hour: 19 } },
       routing: { primary: 'hs', savings: 'sv' },
     },
   },
@@ -176,7 +181,7 @@ const partners = PARTNERS.map((p) => {
   const acct = addAccount({ instNbr: p.settleInst, applCde: 'DD', acctNbr: nextAcct(p.settleInst), custNbr: cust.custNbr, curBal: rnd.uniform(80_000, 600_000), biz: true });
   return {
     id: p.id, name: p.name, category: p.category, categoryLabel: CATEGORIES[p.category].label, mcc: p.mcc, blurb: p.blurb,
-    mrchId: PARTNER_MERCHANT_IDS[p.id], payeeCatCde: p.payee || null,
+    mrchId: PARTNER_MERCHANT_IDS[p.id], payeeCatCde: p.payee || null, location: p.location || null,
     settlement: { instNbr: acct.instNbr, applCde: acct.applCde, acctNbr: acct.acctNbr, rtnNbr: acct.rtnNbr },
     image: `cat-${p.category === 'household' ? 'home' : p.category}`,
   };

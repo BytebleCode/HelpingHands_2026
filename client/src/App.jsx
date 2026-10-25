@@ -1,5 +1,6 @@
 import { Navigate, Route, Routes, useLocation } from 'react-router-dom';
 import Shell from './components/Shell.jsx';
+import { NudgeProvider } from './components/Nudge.jsx';
 import { useSession } from './lib/session.jsx';
 import Welcome from './pages/Welcome.jsx';
 import Home from './pages/Home.jsx';
@@ -21,7 +22,8 @@ export default function App() {
   return (
     <Routes>
       <Route path="/welcome" element={<Welcome />} />
-      <Route element={<RequireMember><Shell /></RequireMember>}>
+      {/* NudgeProvider lets any page (Home, Demo) pop the moment-of-intent banner rendered by the Shell. */}
+      <Route element={<RequireMember><NudgeProvider><Shell /></NudgeProvider></RequireMember>}>
         <Route index element={<Home />} />
         <Route path="rewards" element={<Rewards />} />
         <Route path="give" element={<Give />} />

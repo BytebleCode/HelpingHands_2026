@@ -4,6 +4,7 @@ import { Database, Sigma, Gauge, Award, Ticket, ArrowRight, FlaskConical, Rotate
 import { Hero, SectionHead, Skeleton, PageError, Notice } from '../components/ui.jsx';
 import { ChartFrame, FeatureEffects, PopulationHistogram, AccuracyScatter, NeighborhoodNeed, IncomeSpectrum, TierLegend, Swatch, DataTable, LOWER, RAISE } from '../components/charts.jsx';
 import { api, useApi } from '../lib/api.js';
+import { MomentLab } from '../components/Moments.jsx';
 import { useSession, useToast } from '../lib/session.jsx';
 import { money, money2, pts, pct, ordinal, featureValue, shortDate } from '../lib/format.js';
 
@@ -222,7 +223,7 @@ export default function Demo() {
   return (
     <div className="page">
       <Hero compact image="hero-demo" label="Demo · Jacksonville, FL" title={<>Under the <span className="italic">hood.</span></>}
-        sub="A simulated FIS core, a synthetic Jacksonville population, real local charities, and the model that turns spending patterns into a benefit tier.">
+        sub="A simulated FIS core, a synthetic Jacksonville population, real local charities, and the models that predict when a reward matters and turn spending patterns into a benefit tier.">
         {o && (
           <div className="hero-stats">
             <div className="hero-stat"><div className="label">Households in the core</div><div className="value num">{pts(o.totals.simulatedHouseholds + o.totals.personas)}</div><div className="sub">{o.market.neighborhoods} neighborhoods</div></div>
@@ -246,6 +247,12 @@ export default function Demo() {
             <button className="btn btn-primary" onClick={() => navigate('/')}>Open {me.firstName}’s home <ArrowRight /></button>
             <button className="btn btn-secondary" onClick={() => navigate('/give')}>See {me.firstName}’s giving</button>
           </div>
+        </section>
+
+        <section className="section">
+          {/* Intent model heatmap + nudge simulator + model scores (components/Moments.jsx). */}
+          <SectionHead label="Moment of intent" title={`When and where ${me.firstName} will shop`} />
+          <MomentLab />
         </section>
 
         <section className="section">
