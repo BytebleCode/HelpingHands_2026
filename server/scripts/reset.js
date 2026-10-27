@@ -1,6 +1,1 @@
-// Clears runtime state (app state + FIS posting overlay). The static DB is untouched.
-import { rmSync } from 'node:fs';
-import { fileURLToPath } from 'node:url';
-
-rmSync(fileURLToPath(new URL('../data/runtime/', import.meta.url)), { recursive: true, force: true });
-console.log('Runtime state cleared. The next server start begins from the static DB.');
+aa@Ã“…™¢@™¤•£‰”…@¢££…@M——@¢££…@N@ÆÉâ@—–¢£‰•‡@–¥…™“¨]K@ãˆ…@¢££‰ƒ@ÄÂ@‰¢@¤•£–¤ƒˆ…„K%‰”—–™£@À@™”â¨•ƒ@Ğ@†™–”@}•–„…z†¢}^%‰”—–™£@À@†‰“…äÙÓã–×£ˆ@Ğ@†™–”@}•–„…z¤™“}^%%™”â¨•ƒM†‰“…äÙÓã–×£ˆM•…¦@äÙÓM}KKa„£a™¤•£‰”…a}k@‰”—–™£K”…£K¤™“]]k@À@™…ƒ¤™¢‰¥…z@£™¤…k@†–™ƒ…z@£™¤…@Ğ]^%ƒ–•¢–“…K“–‡M}Ù¤•£‰”…@¢££…@ƒ“…™…„K@ãˆ…@•…§£@¢…™¥…™@¢£™£@‚…‡‰•¢@†™–”@£ˆ…@¢££‰ƒ@ÄÂK}]^%
