@@ -1,1 +1,6 @@
-•–„…m”–„¤“…¢a%„‰¢£a%¢…™¥…™a„£a™¤•£‰”…a%KÄâmâ£–™…%\K“–‡%K…•¥%
+node_modules/
+dist/
+server/data/runtime/
+.DS_Store
+*.log
+.env

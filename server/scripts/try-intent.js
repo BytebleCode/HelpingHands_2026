@@ -1,1 +1,32 @@
-aa@ã™¨@£ˆ…@‰•£…•£@”–„…“@–•@@„…”–@—…™¢–•z@—™‰•£¢@£ˆ…@£–—@‡¤…¢¢…¢@†–™@…ƒˆ@”–™•‰•‡@•„@…¥…•‰•‡@–†%aa@£ˆ…@•…§£@÷@„¨¢k@¦‰£ˆ@£ˆ…@”–„…“}¢@™…¢–•¢K@ä¢‡…z@•–„…@¢ƒ™‰—£¢a£™¨`‰•£…•£K‘¢@Ô¨%‰”—–™£@À@™…„Æ‰“…â¨•ƒ@Ð@†™–”@}•–„…z†¢}^%‰”—–™£@À@ƒ–™…@Ð@†™–”@}KKa¢™ƒa†‰¢a¢£–™…K‘¢}^%‰”—–™£@À@‚¤‰“„É•„…§k@ÂÓÖÃÒâk@æÅÅÒÄÁèâ@Ð@†™–”@}KKa¢™ƒa“‰‚a‰•£…•£Æ…£¤™…¢K‘¢}^%‰”—–™£@À@¢ƒ–™…Ô–”…•£@Ð@†™–”@}KKa¢™ƒa“‰‚a‰•£…•£Ô–„…“K‘¢}^%‰”—–™£@À@£–„¨Ä¨k@„¨Ö†æ……’@Ð@†™–”@}KKa¢™ƒa“‰‚a„£…¢K‘¢}^%%ƒ–•¢£@¢……„@~@M†]@~n@ÑâÖÕK—™¢…M™…„Æ‰“…â¨•ƒM•…¦@äÙÓMyKKa„£a¢……„a[À†Ðyk@‰”—–™£K”…£K¤™“]k@}¤£†ø}]]^%ƒ–•¢£@”–„…“@~@¢……„M}‰•£…•£`”–„…“K‘¢–•}]^%ƒ–•¢£@À@‰„…•£‰£‰…¢@Ð@~@¢……„M}‰„…•£‰£‰…¢K‘¢–•}]^%ƒ–•¢£@•”…@~@M—™–ƒ…¢¢K™‡¥­ò½@OO@}Ô¨}]K£–Ó–¦…™Ã¢…M]^%ƒ–•¢£@—…™¢–•@~@‰„…•£‰£‰…¢K†‰•„MM‰]@~n@‰K†‰™¢£Õ”…K£–Ó–¦…™Ã¢…M]@~~~@•”…]^%‰†@MZ—…™¢–•]@À%@@ƒ–•¢–“…K“–‡MyÕ–@—…™¢–•@•”…„@[À—™–ƒ…¢¢K™‡¥­ò½ÐK@ã™¨z@[À‰„…•£‰£‰…¢K”—MM‰]@~n@‰K†‰™¢£Õ”…]K‘–‰•M}k@}]Ðy]^%@@—™–ƒ…¢¢K…§‰£Mñ]^%Ð%%ƒ–•¢£@‰•„…§@~@‚¤‰“„É•„…§M—…™¢–•K“‰•’¢K”—MM“]@~n@MÀ@——“Ã„…z@“K——“Ã„…k@£§•¢z@ƒ–™…Kˆ‰¢£–™¨M“K‰•¢£Õ‚™k@“K——“Ã„…k@“Kƒƒ£Õ‚™]@Ð]]]^%ƒ–•¢£@£–„¨@~@£–„¨Ä¨M]^%ƒ–•¢£@—ƒ£@~@M—]@~n@y[ÀÔ£ˆK™–¤•„M—@\@ñðð]ÐlyK—„â£™£Mô]^%ƒ–•¢–“…K“–‡Myà•[À—…™¢–•K†‰™¢£Õ”…Ð@[À—…™¢–•K“¢£Õ”…Ðz@£–—@‡¤…¢¢…¢@†–™@£ˆ…@•…§£@÷@„¨¢à•y]^%†–™@M“…£@„¨@~@£–„¨@N@ñ^@„¨@L~@£–„¨@N@÷^@„¨NN]@À%@@†–™@Mƒ–•¢£@‚“–ƒ’@–†@­ðk@ó½]@À%@@@@ƒ–•¢£@­†‰™¢£k@¢…ƒ–•„½@~@¢ƒ–™…Ô–”…•£M”–„…“k@‰•„…§k@À@„¨k@‚“–ƒ’@Ð]^%@@@@ƒ–•¢£@¦ˆ…•@~@y[ÀæÅÅÒÄÁèâ­„¨Ö†æ……’M„¨]½K¢“‰ƒ…Mðk@ó]Ð@[ÀÂÓÖÃÒâ­‚“–ƒ’½K’…¨ÐyK—„Å•„Mñô]^%@@@@ƒ–•¢–“…K“–‡My[À¦ˆ…•Ð@[À†‰™¢£K“‚…“K—„Å•„Mñö]Ð@[À—ƒ£M†‰™¢£K—™–‚‚‰“‰£¨]Ð@@@•…§£z@[À¢…ƒ–•„K“‚…“Ð@[À—ƒ£M¢…ƒ–•„K—™–‚‚‰“‰£¨]K£™‰”M]Ðy]^%@@@@‰†@M†‰™¢£K—™–‚‚‰“‰£¨@n~@ðKñõ@PP@†‰™¢£K™…¢–•¢K“…•‡£ˆ]@ƒ–•¢–“…K“–‡My[À}@}K™…—…£Mñõ]Ð¦ˆ¨z@[À†‰™¢£K™…¢–•¢K‘–‰•M}^@}]Ðy]^%@@Ð%Ð%ƒ–•¢£@”@~@”–„…“K”…£™‰ƒ¢^%ƒ–•¢–“…K“–‡Myà•Ô–„…“@£…¢£@¢ƒ–™…¢z@ÁäÃ@[À”K¤ƒm”–„…“Ð@M†™…˜¤…•ƒ¨@–•“¨@[À”K¤ƒm†™…˜¤…•ƒ¨Ð]k@¦……’“¨@£–—`ó@ˆ‰£@[ÀÔ£ˆK™–¤•„M”K¦……’“¨ã–—óm”–„…“@\@ñðð]Ðl@M™¤“…@[ÀÔ£ˆK™–¤•„M”K¦……’“¨ã–—óm™¤“…@\@ñðð]Ðlk@ƒˆ•ƒ…@[ÀÔ£ˆK™–¤•„M”K¦……’“¨ã–—ómƒˆ•ƒ…@\@ñðð]Ðl]à•y]^%
+// Try the intent model on a demo persona: prints the top guesses for each morning and evening of
+// the next 7 days, with the model's reasons. Usage: node scripts/try-intent.js Maya
+import { readFileSync } from 'node:fs';
+import { core } from '../src/fis/store.js';
+import { buildIndex, BLOCKS, WEEKDAYS } from '../src/lib/intentFeatures.js';
+import { scoreMoment } from '../src/lib/intentModel.js';
+import { todayDay, dayOfWeek } from '../src/lib/dates.js';
+
+const seed = (f) => JSON.parse(readFileSync(new URL(`../data/seed/${f}`, import.meta.url), 'utf8'));
+const model = seed('intent-model.json');
+const { identities } = seed('identities.json');
+const name = (process.argv[2] || 'Maya').toLowerCase();
+const person = identities.find((i) => i.firstName.toLowerCase() === name);
+if (!person) {
+  console.log(`No persona named "${process.argv[2]}". Try: ${identities.map((i) => i.firstName).join(', ')}`);
+  process.exit(1);
+}
+
+const index = buildIndex(person.links.map((l) => ({ applCde: l.applCde, txns: core.history(l.instNbr, l.applCde, l.acctNbr) })));
+const today = todayDay();
+const pct = (p) => `${Math.round(p * 100)}%`.padStart(4);
+console.log(`\n${person.firstName} ${person.lastName}: top guesses for the next 7 days\n`);
+for (let day = today + 1; day <= today + 7; day++) {
+  for (const block of [0, 3]) {
+    const [first, second] = scoreMoment(model, index, { day, block });
+    const when = `${WEEKDAYS[dayOfWeek(day)].slice(0, 3)} ${BLOCKS[block].key}`.padEnd(14);
+    console.log(`${when} ${first.label.padEnd(16)} ${pct(first.probability)}   next: ${second.label} ${pct(second.probability).trim()}`);
+    if (first.probability >= 0.15 && first.reasons.length) console.log(`${' '.repeat(15)}why: ${first.reasons.join('; ')}`);
+  }
+}
+const m = model.metrics;
+console.log(`\nModel test scores: AUC ${m.auc_model} (frequency only ${m.auc_frequency}), weekly top-3 hit ${Math.round(m.weeklyTop3_model * 100)}% (rule ${Math.round(m.weeklyTop3_rule * 100)}%, chance ${Math.round(m.weeklyTop3_chance * 100)}%)\n`);

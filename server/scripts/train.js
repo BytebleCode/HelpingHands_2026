@@ -1,1 +1,67 @@
-aa@ã™‰•¢@£ˆ…@‰•ƒ–”…@”–„…“@–•@¢¨•£ˆ…£‰ƒ@ˆ–¤¢…ˆ–“„¢@‚¤‰“£@‚¨@£ˆ…@¢”…@‡…•…™£–™@¢@£ˆ…@„…”–@—…™¢–•¢K%‰”—–™£@À@¦™‰£…Æ‰“…â¨•ƒ@Ð@†™–”@}•–„…z†¢}^%‰”—–™£@À@†‰“…äÙÓã–×£ˆ@Ð@†™–”@}•–„…z¤™“}^%‰”—–™£@À@”’…Ù•„–”k@‡…•…™£…È–¤¢…ˆ–“„k@™•„–”×™–†‰“…@Ð@†™–”@}Ka‡…•…™£–™K‘¢}^%‰”—–™£@À@¢¤””™‰©…@Ð@†™–”@}KKa¢™ƒa“‰‚a†…£¤™…¢K‘¢}^%‰”—–™£@À@†‰£Ù‰„‡…k@—™…„‰ƒ£Ó–‡k@£‰…™Æ–™×…™ƒ…•£‰“…k@—…™ƒ…•£‰“…Ö†@Ð@†™–”@}KKa¢™ƒa“‰‚a‰•ƒ–”…Ô–„…“K‘¢}^%‰”—–™£@À@£–Ä¨@Ð@†™–”@}KKa¢™ƒa“‰‚a„£…¢K‘¢}^%%ƒ–•¢£@Õ@~@Õ¤”‚…™M—™–ƒ…¢¢K…•¥KãÙÁÉÕmÕ@OO@òððð]^%ƒ–•¢£@ÅÕÄmÄÁè@~@£–Ä¨M}òðòö`ðö`óð}]^@aa@†…£¤™…¢@™…@„£…`‡•–¢£‰ƒk@•¨@•ƒˆ–™@¦–™’¢%ƒ–•¢£@–¤£@~@†‰“…äÙÓã–×£ˆM•…¦@äÙÓM}KKa„£a¢……„a‰•ƒ–”…`”–„…“K‘¢–•}k@‰”—–™£K”…£K¤™“]]^%%ƒ–•¢£@™•„@~@”’…Ù•„–”Mòðòöñðòó]^%ƒ–•¢£@™–¦¢@~@­½^%ƒ–•¢£@£ð@~@Ä£…K•–¦M]^%†–™@M“…£@‰@~@ð^@‰@L@Õ^@‰NN]@À%@@ƒ–•¢£@—™–†‰“…@~@™•„–”×™–†‰“…M™•„]^%@@ƒ–•¢£@ƒƒ–¤•£¢@~@‡…•…™£…È–¤¢…ˆ–“„M—™–†‰“…k@À@¢……„z@ñððð@N@‰k@…•„Ä¨z@ÅÕÄmÄÁèk@„¨¢z@ñòð@Ð]^%@@™–¦¢K—¤¢ˆMÀ@‰•ƒ–”…z@—™–†‰“…K‰•ƒ–”…k@†…£¤™…¢z@¢¤””™‰©…Mƒƒ–¤•£¢k@À@…•„Ä¨z@ÅÕÄmÄÁèk@¦‰•„–¦Ä¨¢z@ùð@Ð]K†…£¤™…¢@Ð]^%Ð%%ƒ–•¢£@¢—“‰£@~@Ô£ˆK†“––™MÕ@\@ðKø]^%ƒ–•¢£@£™‰•@~@™–¦¢K¢“‰ƒ…Mðk@¢—“‰£]^%ƒ–•¢£@£…¢£@~@™–¦¢K¢“‰ƒ…M¢—“‰£]^%ƒ–•¢£@”–„…“@~@†‰£Ù‰„‡…M£™‰•k@òðð]^%%ƒ–•¢£@¨ã…¢£@~@£…¢£K”—MM™]@~n@Ô£ˆK“–‡M™K‰•ƒ–”…]]^%ƒ–•¢£@—ã…¢£@~@£…¢£K”—MM™]@~n@—™…„‰ƒ£Ó–‡M”–„…“k@™K†…£¤™…¢]K“–‡É•ƒ–”…]^%ƒ–•¢£@¨Ô…•@~@¨ã…¢£K™…„¤ƒ…MMk@‚]@~n@@N@‚k@ð]@a@¨ã…¢£K“…•‡£ˆ^%ƒ–•¢£@¢¢Ù…¢@~@¨ã…¢£K™…„¤ƒ…MMk@¨k@‰]@~n@@N@M¨@`@—ã…¢£­‰½]@\\@òk@ð]^%ƒ–•¢£@¢¢ã–£@~@¨ã…¢£K™…„¤ƒ…MMk@¨]@~n@@N@M¨@`@¨Ô…•]@\\@òk@ð]^%ƒ–•¢£@™ò@~@ñ@`@¢¢Ù…¢@a@¢¢ã–£^%ƒ–•¢£@”—…@~@£…¢£K™…„¤ƒ…MMk@™k@‰]@~n@@N@Ô£ˆK‚¢MÔ£ˆK…§—M—ã…¢£­‰½]@`@™K‰•ƒ–”…]@a@™K‰•ƒ–”…k@ð]@a@£…¢£K“…•‡£ˆ^%%aa@Ù…†…™…•ƒ…@„‰¢£™‰‚¤£‰–•@–†@—™…„‰ƒ£‰–•¢@à¤òñùò@—…™ƒ…•£‰“…@™•’‰•‡K%ƒ–•¢£@““×™…„@~@™–¦¢K”—MM™]@~n@—™…„‰ƒ£Ó–‡M”–„…“k@™K†…£¤™…¢]K“–‡É•ƒ–”…]K¢–™£MMk@‚]@~n@@`@‚]^%”–„…“K—–—¤“£‰–•Ø¤•£‰“…¢@~@Á™™¨K†™–”MÀ@“…•‡£ˆz@ñðñ@Ðk@Mmk@˜]@~n@““×™…„­Ô£ˆK”‰•M““×™…„K“…•‡£ˆ@`@ñk@Ô£ˆK™–¤•„MM˜@a@ñðð]@\@M““×™…„K“…•‡£ˆ@`@ñ]]]½]^%%aa@ã‰…™@‡™……”…•£@–•@ˆ–“„–¤£z@—™…„‰ƒ£…„@£‰…™@¥¢@£‰…™@†™–”@£™¤…@‰•ƒ–”…@—…™ƒ…•£‰“…K%ƒ–•¢£@£™¤…â–™£…„@~@™–¦¢K”—MM™]@~n@™K‰•ƒ–”…]K¢–™£MMk@‚]@~n@@`@‚]^%ƒ–•¢£@£™¤…×ƒ£@~@M‰•ƒ]@~n@M£™¤…â–™£…„K†‰•„É•„…§MM§]@~n@§@n~@‰•ƒ]@a@£™¤…â–™£…„K“…•‡£ˆ]@\@ñðð^%“…£@…§ƒ£@~@ðk@¦‰£ˆ‰•ñ@~@ð^%ƒ–•¢£@£‰…™É„§@~@M—ƒ£]@~n@­}ƒ–™•…™¢£–•…}k@}†–¤•„£‰–•}k@}’…¨¢£–•…}k@}—‰““™}k@}¢¤””‰£}½K‰•„…§Ö†M£‰…™Æ–™×…™ƒ…•£‰“…M—ƒ£]K’…¨]^%£…¢£K†–™ÅƒˆMM™k@‰]@~n@À%@@ƒ–•¢£@@~@£‰…™É„§M£™¤…×ƒ£M™K‰•ƒ–”…]]^%@@ƒ–•¢£@‚@~@£‰…™É„§M—…™ƒ…•£‰“…Ö†M”–„…“k@—ã…¢£­‰½]]^%@@‰†@M@~~~@‚]@…§ƒ£NN^%@@‰†@MÔ£ˆK‚¢M@`@‚]@L~@ñ]@¦‰£ˆ‰•ñNN^%Ð]^%%”–„…“K”…£™‰ƒ¢@~@À%@@•z@Õk@£™‰•Õz@£™‰•K“…•‡£ˆk@£…¢£Õz@£…¢£K“…•‡£ˆk%@@™òz@Ô£ˆK™–¤•„M™ò@\@ñððð]@a@ñðððk%@@”—…z@Ô£ˆK™–¤•„M”—…@\@ñððð]@a@ñðððk%@@£‰…™Å§ƒ£z@Ô£ˆK™–¤•„MM…§ƒ£@a@£…¢£K“…•‡£ˆ]@\@ñððð]@a@ñðððk%@@£‰…™æ‰£ˆ‰•Ö•…z@Ô£ˆK™–¤•„MM¦‰£ˆ‰•ñ@a@£…¢£K“…•‡£ˆ]@\@ñððð]@a@ñðððk%@@£™‰•…„Á£z@•…¦@Ä£…M]K£–ÉâÖâ£™‰•‡M]k%Ð^%¦™‰£…Æ‰“…â¨•ƒM–¤£k@ÑâÖÕK¢£™‰•‡‰†¨M”–„…“k@•¤““k@ò]]^%%ƒ–•¢–“…K“–‡MyÉ•ƒ–”…@”–„…“@£™‰•…„@–•@[ÀÕÐ@¢¨•£ˆ…£‰ƒ@ˆ–¤¢…ˆ–“„¢@‰•@[ÀMMÄ£…K•–¦M]@`@£ð]@a@ñððð]K£–Æ‰§…„Mñ]Ð¢y]^%ƒ–•¢–“…K“–‡My@@ˆ–“„–¤£@Ùà¤ðð‚ò@M“–‡@‰•ƒ–”…]z@[À”–„…“K”…£™‰ƒ¢K™òÐ@@@ÔÁ×Åz@[ÀM”–„…“K”…£™‰ƒ¢K”—…@\@ñðð]K£–Æ‰§…„Mñ]Ðly]^%ƒ–•¢–“…K“–‡My@@‚…•…†‰£@£‰…™@…§ƒ£z@[ÀM”–„…“K”…£™‰ƒ¢K£‰…™Å§ƒ£@\@ñðð]K£–Æ‰§…„Mñ]Ðl@@@¦‰£ˆ‰•@–•…@£‰…™z@[ÀM”–„…“K”…£™‰ƒ¢K£‰…™æ‰£ˆ‰•Ö•…@\@ñðð]K£–Æ‰§…„Mñ]Ðly]^%ƒ–•¢–“…K“–‡M}@@¦…‰‡ˆ£¢@M¢£•„™„‰©…„]z}]^%†–™@Mƒ–•¢£@†@–†@­KKK”–„…“K†…£¤™…¢½K¢–™£MMk@‚]@~n@Ô£ˆK‚¢M‚K¦…‰‡ˆ£]@`@Ô£ˆK‚¢MK¦…‰‡ˆ£]]]@À%@@ƒ–•¢–“…K“–‡My@@@@[À†K’…¨K—„Å•„Mòð]Ð@[À†K¦…‰‡ˆ£@n~@ð@o@}N}@z@}}Ð[À†K¦…‰‡ˆ£K£–Æ‰§…„Mó]Ðy]^%Ð%
+// Trains the income model on synthetic households built by the same generator as the demo personas.
+import { writeFileSync } from 'node:fs';
+import { fileURLToPath } from 'node:url';
+import { makeRandom, generateHousehold, randomProfile } from './generator.js';
+import { summarize } from '../src/lib/features.js';
+import { fitRidge, predictLog, tierForPercentile, percentileOf } from '../src/lib/incomeModel.js';
+import { toDay } from '../src/lib/dates.js';
+
+const N = Number(process.env.TRAIN_N || 2000);
+const END_DAY = toDay('2026-06-30'); // features are date-agnostic, any anchor works
+const out = fileURLToPath(new URL('../data/seed/income-model.json', import.meta.url));
+
+const rnd = makeRandom(20261023);
+const rows = [];
+const t0 = Date.now();
+for (let i = 0; i < N; i++) {
+  const profile = randomProfile(rnd);
+  const accounts = generateHousehold(profile, { seed: 1000 + i, endDay: END_DAY, days: 120 });
+  rows.push({ income: profile.income, features: summarize(accounts, { endDay: END_DAY, windowDays: 90 }).features });
+}
+
+const split = Math.floor(N * 0.8);
+const train = rows.slice(0, split);
+const test = rows.slice(split);
+const model = fitRidge(train, 200);
+
+const yTest = test.map((r) => Math.log(r.income));
+const pTest = test.map((r) => predictLog(model, r.features).logIncome);
+const yMean = yTest.reduce((a, b) => a + b, 0) / yTest.length;
+const ssRes = yTest.reduce((a, y, i) => a + (y - pTest[i]) ** 2, 0);
+const ssTot = yTest.reduce((a, y) => a + (y - yMean) ** 2, 0);
+const r2 = 1 - ssRes / ssTot;
+const mape = test.reduce((a, r, i) => a + Math.abs(Math.exp(pTest[i]) - r.income) / r.income, 0) / test.length;
+
+// Reference distribution of predictions \u2192 percentile ranking.
+const allPred = rows.map((r) => predictLog(model, r.features).logIncome).sort((a, b) => a - b);
+model.populationQuantiles = Array.from({ length: 101 }, (_, q) => allPred[Math.min(allPred.length - 1, Math.round((q / 100) * (allPred.length - 1)))]);
+
+// Tier agreement on holdout: predicted tier vs tier from true income percentile.
+const trueSorted = rows.map((r) => r.income).sort((a, b) => a - b);
+const truePct = (inc) => (trueSorted.findIndex((x) => x >= inc) / trueSorted.length) * 100;
+let exact = 0, within1 = 0;
+const tierIdx = (pct) => ['cornerstone', 'foundation', 'keystone', 'pillar', 'summit'].indexOf(tierForPercentile(pct).key);
+test.forEach((r, i) => {
+  const a = tierIdx(truePct(r.income));
+  const b = tierIdx(percentileOf(model, pTest[i]));
+  if (a === b) exact++;
+  if (Math.abs(a - b) <= 1) within1++;
+});
+
+model.metrics = {
+  n: N, trainN: train.length, testN: test.length,
+  r2: Math.round(r2 * 1000) / 1000,
+  mape: Math.round(mape * 1000) / 1000,
+  tierExact: Math.round((exact / test.length) * 1000) / 1000,
+  tierWithinOne: Math.round((within1 / test.length) * 1000) / 1000,
+  trainedAt: new Date().toISOString(),
+};
+writeFileSync(out, JSON.stringify(model, null, 2));
+
+console.log(`Income model trained on ${N} synthetic households in ${((Date.now() - t0) / 1000).toFixed(1)}s`);
+console.log(`  holdout R\u00b2 (log income): ${model.metrics.r2}   MAPE: ${(model.metrics.mape * 100).toFixed(1)}%`);
+console.log(`  benefit tier exact: ${(model.metrics.tierExact * 100).toFixed(1)}%   within one tier: ${(model.metrics.tierWithinOne * 100).toFixed(1)}%`);
+console.log('  weights (standardized):');
+for (const f of [...model.features].sort((a, b) => Math.abs(b.weight) - Math.abs(a.weight))) {
+  console.log(`    ${f.key.padEnd(20)} ${f.weight >= 0 ? '+' : ''}${f.weight.toFixed(3)}`);
+}

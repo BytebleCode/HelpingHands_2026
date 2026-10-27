@@ -1,1 +1,19 @@
-À%@@•”…z@ˆ…“—‰•‡`ˆ•„¢`¢…™¥…™k%@@—™‰¥£…z@£™¤…k%@@¥…™¢‰–•z@ğKñKğk%@@£¨—…z@”–„¤“…k%@@¢ƒ™‰—£¢z@À%@@@@„…¥z@•–„…@``¦£ƒˆ`—£ˆ~¢™ƒ@¢™ƒa‰•„…§K‘¢k%@@@@¢£™£z@•–„…@¢™ƒa‰•„…§K‘¢k%@@@@¢……„z@•–„…@¢ƒ™‰—£¢a¢……„K‘¢@PP@•–„…@¢ƒ™‰—£¢a£™‰•K‘¢@PP@•–„…@¢ƒ™‰—£¢a£™‰•`‰•£…•£K‘¢k%@@@@£™‰•z@•–„…@¢ƒ™‰—£¢a£™‰•K‘¢k%@@@@£™‰•`‰•£…•£z@•–„…@¢ƒ™‰—£¢a£™‰•`‰•£…•£K‘¢k%@@@@™…¢…£z@•–„…@¢ƒ™‰—£¢a™…¢…£K‘¢k%@@@@£…¢£z@•–„…@``£…¢£k%@@@@—¤““`ƒˆ™‰£‰…¢z@•–„…@¢ƒ™‰—£¢a—¤““`ƒˆ™‰£‰…¢K‘¢%@@Ğk%@@„…—…•„…•ƒ‰…¢z@À%@@@@…§—™…¢¢z@_ôKòñKò%@@Ğ%Ğ%
+{
+  "name": "helping-hands-server",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch-path=src src/index.js",
+    "start": "node src/index.js",
+    "seed": "node scripts/seed.js && node scripts/train.js && node scripts/train-intent.js",
+    "train": "node scripts/train.js",
+    "train-intent": "node scripts/train-intent.js",
+    "reset": "node scripts/reset.js",
+    "test": "node --test",
+    "pull-charities": "node scripts/pull-charities.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}

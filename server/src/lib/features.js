@@ -1,1 +1,111 @@
-aa@ã¤™•¢@ÆÉâ`†–™”£@ƒƒ–¤•£@ˆ‰¢£–™‰…¢@‰•£–@¢—…•„‰•‡@¢¤””™‰…¢@•„@‰•ƒ–”…`”–„…“@†…£¤™…¢K%aa@ä¢…„@‚–£ˆ@‚¨@¢ƒ™‰—£¢a£™‰•K‘¢@M¢¨•£ˆ…£‰ƒ@ˆ–¤¢…ˆ–“„¢]@•„@£@™¤•£‰”…@M“‰•’…„@ƒƒ–¤•£¢]K%‰”—–™£@À@ƒ£…‡–™¨Ö†k@ÃÁãÅÇÖÙÉÅâk@ÄÉâÃÙÅãÉÖÕÁÙèk@ãÙÁåÅÓmÓäçäÙè@Ð@†™–”@}Ka”ƒƒK‘¢}^%‰”—–™£@À@£–Ä¨@Ð@†™–”@}Ka„£…¢K‘¢}^%%…§—–™£@ƒ–•¢£@ÇÖåÅÙÕÔÅÕãmÖÙÉÇÉÕÁãÖÙâ@~@­}ââÁ@ãÙÅÁâ@óñð}k@}âãÁãÅ@ÙÅÅÔ×ÓÖè@ÂÅÕÅÆÉã}k@}âãÁãÅ@ÆÁÔÉÓè@ÁââÉâã}½^%ƒ–•¢£@ÉÕÃÖÔÅmÃÖÄÅâ@~@•…¦@â…£M­}ÁÃÈÃ}k@}ÄÅ×}½]^%ƒ–•¢£@â×ÅÕÄmÃÖÄÅâ@~@•…¦@â…£M­}×Öâ}k@}ÁÃÈÄ}k@}ÃÃ×}½]^%%…§—–™£@ƒ–•¢£@ÆÅÁãäÙÅâ@~@­%@@À@’…¨z@}“–‡É•†“–¦}k@“‚…“z@}Ô–•£ˆ“¨@„…—–¢‰£¢}k@†”£z@}”–•…¨}k@™¦z@}”–•£ˆ“¨É•†“–¦}@Ðk%@@À@’…¨z@}“–‡â—…•„}k@“‚…“z@}Ô–•£ˆ“¨@¢—…•„‰•‡}k@†”£z@}”–•…¨}k@™¦z@}”–•£ˆ“¨â—…•„}@Ðk%@@À@’…¨z@}…¢¢…•£‰“âˆ™…}k@“‚…“z@}âˆ™…@–†@¢—…•„‰•‡@–•@…¢¢…•£‰“¢}k@†”£z@}—ƒ£}@Ðk%@@À@’…¨z@}„‰¢ƒ™…£‰–•™¨âˆ™…}k@“‚…“z@}âˆ™…@–†@¢—…•„‰•‡@–•@„‰¢ƒ™…£‰–•™¨@‰£…”¢}k@†”£z@}—ƒ£}@Ðk%@@À@’…¨z@}“–‡ã‰ƒ’…£}k@“‚…“z@}Á¥…™‡…@—¤™ƒˆ¢…@¢‰©…}k@†”£z@}”–•…¨}k@™¦z@}¥‡ã‰ƒ’…£}@Ðk%@@À@’…¨z@}‰•ƒ–”…å–“£‰“‰£¨}k@“‚…“z@}å™‰‚‰“‰£¨@–†@„…—–¢‰£¢}k@†”£z@}™£‰–}@Ðk%@@À@’…¨z@}‚…•…†‰£Ä…—–¢‰£¢}k@“‚…“z@}Ç–¥…™•”…•£@‚…•…†‰£@„…—–¢‰£¢}k@†”£z@}‚––“}@Ðk%@@À@’…¨z@}†……Ù£…}k@“‚…“z@}Ö¥…™„™†£@†……¢@—…™@”–•£ˆ}k@†”£z@}•¤”}@Ðk%@@À@’…¨z@}“–‡Á¥‡Â“•ƒ…}k@“‚…“z@}Á¥…™‡…@ƒ–”‚‰•…„@‚“•ƒ…}k@†”£z@}”–•…¨}k@™¦z@}¥‡Â“•ƒ…}@Ðk%@@À@’…¨z@}“–‡Á“£Æ‰••ƒ…}k@“‚…“z@}Ãˆ…ƒ’@ƒ¢ˆ‰•‡@P@—¦•@¢—…•„‰•‡}k@†”£z@}”–•…¨}k@™¦z@}”–•£ˆ“¨Á“£Æ‰••ƒ…}@Ðk%@@À@’…¨z@}£™¥…“Ó¤§¤™¨âˆ™…}k@“‚…“z@}âˆ™…@–•@£™¥…“@P@“¤§¤™¨}k@†”£z@}—ƒ£}@Ðk%@@À@’…¨z@}ƒ¢ˆâˆ™…}k@“‚…“z@}âˆ™…@¦‰£ˆ„™¦•@¢@ƒ¢ˆ}k@†”£z@}—ƒ£}@Ðk%½^%%†¤•ƒ£‰–•@¥‡Ä‰“¨Â“•ƒ…Mƒƒ£k@¢£™£k@…•„]@À%@@ƒ–•¢£@£§•¢@~@ƒƒ£K£§•¢K†‰“£…™MM£]@~n@£–Ä¨M£K—–¢£Ä£]@L~@…•„]K¢–™£MMk@‚]@~n@K—–¢£Ä£K“–ƒ“…Ã–”—™…M‚K—–¢£Ä£]@OO@K¢…˜Õ‚™@`@‚K¢…˜Õ‚™]^%@@‰†@MZ£§•¢K“…•‡£ˆ]@™…£¤™•@ƒƒ£Kƒ¤™Â“@oo@ð^%@@“…£@‰@~@ð^%@@ƒ–•¢£@†‰™¢£@~@£§•¢K†‰•„MM£]@~n@£–Ä¨M£K—–¢£Ä£]@n~@¢£™£]@OO@£§•¢­£§•¢K“…•‡£ˆ@`@ñ½^%@@“…£@‚“@~@†‰™¢£K™¤•Â“@`@M†‰™¢£K„™Ã™Ã„…@~~~@}Ã}@o@†‰™¢£K£™•Á”£@z@`†‰™¢£K£™•Á”£]^%@@aa@ä¢…@£ˆ…@“¢£@‚“•ƒ…@‚…†–™…@£ˆ…@¦‰•„–¦@¦ˆ…•@‰£@…§‰¢£¢K%@@¦ˆ‰“…@M‰@L@£§•¢K“…•‡£ˆ@PP@£–Ä¨M£§•¢­‰½K—–¢£Ä£]@L@¢£™£]@‚“@~@£§•¢­‰NN½K™¤•Â“^%@@“…£@¢¤”@~@ð^%@@†–™@M“…£@„@~@¢£™£^@„@L~@…•„^@„NN]@À%@@@@¦ˆ‰“…@M‰@L@£§•¢K“…•‡£ˆ@PP@£–Ä¨M£§•¢­‰½K—–¢£Ä£]@L~@„]@‚“@~@£§•¢­‰NN½K™¤•Â“^%@@@@¢¤”@N~@‚“^%@@Ð%@@™…£¤™•@¢¤”@a@M…•„@`@¢£™£@N@ñ]^%Ð%%a\\@ƒƒ–¤•£¢z@­À@——“Ã„…k@ƒ¤™Â“k@£§•¢z@ÆÉâ@£™•¢ƒ£‰–•¢@Ð½@\a%…§—–™£@†¤•ƒ£‰–•@¢¤””™‰©…Mƒƒ–¤•£¢k@À@…•„Ä¨k@¦‰•„–¦Ä¨¢@~@ùð@Ð]@À%@@ƒ–•¢£@¢£™£@~@…•„Ä¨@`@¦‰•„–¦Ä¨¢@N@ñ^%@@ƒ–•¢£@”–•£ˆ¢@~@¦‰•„–¦Ä¨¢@a@óðKô^%@@ƒ–•¢£@‚¨Ã£…‡–™¨@~@ÀÐ^%@@ƒ–•¢£@„…—–¢‰£¢@~@­½^%@@“…£@‰•†“–¦@~@ðk@¢—…•„@~@ðk@ƒ¢ˆ@~@ðk@†……¢@~@ðk@—–¢Ã–¤•£@~@ðk@—–¢ã–£“@~@ðk@‚…•…†‰£@~@†“¢…^%@@“…£@•……„@~@ðk@„‰¢ƒ@~@ðk@£™¥…“Ó¤§@~@ðk@“£@~@ð^%%@@†–™@Mƒ–•¢£@ƒƒ£@–†@ƒƒ–¤•£¢]@À%@@@@†–™@Mƒ–•¢£@£@–†@ƒƒ£K£§•¢]@À%@@@@@@ƒ–•¢£@„@~@£–Ä¨M£K—–¢£Ä£]^%@@@@@@‰†@M„@L@¢£™£@OO@„@n@…•„Ä¨]@ƒ–•£‰•¤…^%@@@@@@‰†@M£K„™Ã™Ã„…@~~~@}Ã}]@À%@@@@@@@@‰†@MÉÕÃÖÔÅmÃÖÄÅâKˆ¢M£K£™•Ã„…]]@À%@@@@@@@@@@‰•†“–¦@N~@£K£™•Á”£^%@@@@@@@@@@„…—–¢‰£¢K—¤¢ˆM£K£™•Á”£]^%@@@@@@@@@@‰†@M£KƒˆÃ–Õ”…@PP@ÇÖåÅÙÕÔÅÕãmÖÙÉÇÉÕÁãÖÙâK‰•ƒ“¤„…¢M£KƒˆÃ–Õ”…]]@‚…•…†‰£@~@£™¤…^%@@@@@@@@Ð%@@@@@@@@ƒ–•£‰•¤…^%@@@@@@Ð%@@@@@@‰†@M£K£™•Ã„…@~~~@}ÆÅÅ}]@À@†……¢NN^@ƒ–•£‰•¤…^@Ð%@@@@@@‰†@M£K£™•Ã„…@~~~@}ÁãÔæ}]@À@ƒ¢ˆ@N~@£K£™•Á”£^@ƒ–•£‰•¤…^@Ð%@@@@@@‰†@MZâ×ÅÕÄmÃÖÄÅâKˆ¢M£K£™•Ã„…]]@ƒ–•£‰•¤…^%@@@@@@ƒ–•¢£@ƒ£@~@ƒ£…‡–™¨Ö†M£]^%@@@@@@ƒ–•¢£@ƒ@~@M‚¨Ã£…‡–™¨­ƒ£½@OO~@À@ƒ£…‡–™¨z@ƒ£k@£–£“z@ðk@ƒ–¤•£z@ðk@“¢£Ä£z@•¤““k@”…™ƒˆ•£¢z@ÀÐ@Ð]^%@@@@@@ƒK£–£“@N~@£K£™•Á”£^%@@@@@@ƒKƒ–¤•£NN^%@@@@@@‰†@MZƒK“¢£Ä£@OO@£K—–¢£Ä£@n@ƒK“¢£Ä£]@ƒK“¢£Ä£@~@£K—–¢£Ä£^%@@@@@@‰†@M£K”™ƒˆÕ”…]@ƒK”…™ƒˆ•£¢­£K”™ƒˆÕ”…½@~@MƒK”…™ƒˆ•£¢­£K”™ƒˆÕ”…½@OO@ð]@N@£K£™•Á”£^%@@@@@@¢—…•„@N~@£K£™•Á”£^%@@@@@@‰†@MÃÁãÅÇÖÙÉÅâ­ƒ£½oK‡™–¤—@~~~@}•……„}]@•……„@N~@£K£™•Á”£^%@@@@@@‰†@MÄÉâÃÙÅãÉÖÕÁÙèKˆ¢Mƒ£]]@„‰¢ƒ@N~@£K£™•Á”£^%@@@@@@‰†@MãÙÁåÅÓmÓäçäÙèKˆ¢Mƒ£]]@£™¥…“Ó¤§@N~@£K£™•Á”£^%@@@@@@‰†@Mƒ£@~~~@}“£†‰••ƒ…}]@“£@N~@£K£™•Á”£^%@@@@@@‰†@M£K£™•Ã„…@~~~@}×Öâ}]@À@—–¢Ã–¤•£NN^@—–¢ã–£“@N~@£K£™•Á”£^@Ð%@@@@Ð%@@Ð%%@@ƒ–•¢£@”…•@~@„…—–¢‰£¢K™…„¤ƒ…MMk@‚]@~n@@N@‚k@ð]@a@M„…—–¢‰£¢K“…•‡£ˆ@OO@ñ]^%@@ƒ–•¢£@¢„@~@Ô£ˆK¢˜™£M„…—–¢‰£¢K™…„¤ƒ…MMk@‚]@~n@@N@M‚@`@”…•]@\\@òk@ð]@a@M„…—–¢‰£¢K“…•‡£ˆ@OO@ñ]]^%@@ƒ–•¢£@¥‡Â“•ƒ…@~@ƒƒ–¤•£¢K™…„¤ƒ…MMk@ƒƒ£]@~n@@N@¥‡Ä‰“¨Â“•ƒ…Mƒƒ£k@¢£™£k@…•„Ä¨]k@ð]^%%@@ƒ–•¢£@™¦@~@À%@@@@”–•£ˆ“¨É•†“–¦z@‰•†“–¦@a@”–•£ˆ¢k%@@@@”–•£ˆ“¨â—…•„z@¢—…•„@a@”–•£ˆ¢k%@@@@¥‡ã‰ƒ’…£z@—–¢Ã–¤•£@o@—–¢ã–£“@a@—–¢Ã–¤•£@z@ðk%@@@@¥‡Â“•ƒ…k%@@@@”–•£ˆ“¨Á“£Æ‰••ƒ…z@“£@a@”–•£ˆ¢k%@@Ð^%@@ƒ–•¢£@†…£¤™…¢@~@À%@@@@“–‡É•†“–¦z@Ô£ˆK“–‡ñ—M™¦K”–•£ˆ“¨É•†“–¦]k%@@@@“–‡â—…•„z@Ô£ˆK“–‡ñ—M™¦K”–•£ˆ“¨â—…•„]k%@@@@…¢¢…•£‰“âˆ™…z@¢—…•„@o@•……„@a@¢—…•„@z@ðk%@@@@„‰¢ƒ™…£‰–•™¨âˆ™…z@¢—…•„@o@„‰¢ƒ@a@¢—…•„@z@ðk%@@@@“–‡ã‰ƒ’…£z@Ô£ˆK“–‡ñ—M™¦K¥‡ã‰ƒ’…£]k%@@@@‰•ƒ–”…å–“£‰“‰£¨z@”…•@o@¢„@a@”…•@z@ðk%@@@@‚…•…†‰£Ä…—–¢‰£¢z@‚…•…†‰£@o@ñ@z@ðk%@@@@†……Ù£…z@†……¢@a@”–•£ˆ¢k%@@@@“–‡Á¥‡Â“•ƒ…z@Ô£ˆK¢‰‡•M¥‡Â“•ƒ…]@\@Ô£ˆK“–‡ñ—MÔ£ˆK‚¢M¥‡Â“•ƒ…]]k%@@@@“–‡Á“£Æ‰••ƒ…z@Ô£ˆK“–‡ñ—M™¦K”–•£ˆ“¨Á“£Æ‰••ƒ…]k%@@@@£™¥…“Ó¤§¤™¨âˆ™…z@¢—…•„@o@£™¥…“Ó¤§@a@¢—…•„@z@ðk%@@@@ƒ¢ˆâˆ™…z@¢—…•„@N@ƒ¢ˆ@o@ƒ¢ˆ@a@M¢—…•„@N@ƒ¢ˆ]@z@ðk%@@Ð^%@@†–™@Mƒ–•¢£@ƒ@–†@Ö‚‘…ƒ£K¥“¤…¢M‚¨Ã£…‡–™¨]]@À%@@@@ƒK¢ˆ™…@~@¢—…•„@o@ƒK£–£“@a@¢—…•„@z@ð^%@@@@ƒK£–—Ô…™ƒˆ•£@~@Ö‚‘…ƒ£K…•£™‰…¢MƒK”…™ƒˆ•£¢]K¢–™£MMk@‚]@~n@‚­ñ½@`@­ñ½]­ð½oK­ð½@oo@•¤““^%@@@@„…“…£…@ƒK”…™ƒˆ•£¢^%@@Ð%@@™…£¤™•@À@¦‰•„–¦Ä¨¢k@¢£™£k@…•„Ä¨k@†…£¤™…¢k@™¦k@‚¨Ã£…‡–™¨k@£–£“¢z@À@‰•†“–¦k@¢—…•„k@•……„k@„‰¢ƒ™…£‰–•™¨z@„‰¢ƒk@ƒ¢ˆk@†……¢@Ð@Ð^%Ð%
+// Turns FIS-format account histories into spending summaries and income-model features.
+// Used both by scripts/train.js (synthetic households) and at runtime (linked accounts).
+import { categoryOf, CATEGORIES, DISCRETIONARY, TRAVEL_LUXURY } from './mcc.js';
+import { toDay } from './dates.js';
+
+export const GOVERNMENT_ORIGINATORS = ['SSA TREAS 310', 'STATE REEMPLOY BENEFIT', 'STATE FAMILY ASSIST'];
+const INCOME_CODES = new Set(['ACHC', 'DEP']);
+const SPEND_CODES = new Set(['POS', 'ACHD', 'CCP']);
+
+export const FEATURES = [
+  { key: 'logInflow', label: 'Monthly deposits', fmt: 'money', raw: 'monthlyInflow' },
+  { key: 'logSpend', label: 'Monthly spending', fmt: 'money', raw: 'monthlySpend' },
+  { key: 'essentialShare', label: 'Share of spending on essentials', fmt: 'pct' },
+  { key: 'discretionaryShare', label: 'Share of spending on discretionary items', fmt: 'pct' },
+  { key: 'logTicket', label: 'Average purchase size', fmt: 'money', raw: 'avgTicket' },
+  { key: 'incomeVolatility', label: 'Variability of deposits', fmt: 'ratio' },
+  { key: 'benefitDeposits', label: 'Government benefit deposits', fmt: 'bool' },
+  { key: 'feeRate', label: 'Overdraft fees per month', fmt: 'num' },
+  { key: 'logAvgBalance', label: 'Average combined balance', fmt: 'money', raw: 'avgBalance' },
+  { key: 'logAltFinance', label: 'Check cashing & pawn spending', fmt: 'money', raw: 'monthlyAltFinance' },
+  { key: 'travelLuxuryShare', label: 'Share on travel & luxury', fmt: 'pct' },
+  { key: 'cashShare', label: 'Share withdrawn as cash', fmt: 'pct' },
+];
+
+function avgDailyBalance(acct, start, end) {
+  const txns = acct.txns.filter((t) => toDay(t.postDt) <= end).sort((a, b) => a.postDt.localeCompare(b.postDt) || a.seqNbr - b.seqNbr);
+  if (!txns.length) return acct.curBal ?? 0;
+  let i = 0;
+  const first = txns.find((t) => toDay(t.postDt) >= start) || txns[txns.length - 1];
+  let bal = first.runBal - (first.drCrCde === 'C' ? first.tranAmt : -first.tranAmt);
+  // Use the last balance before the window when it exists.
+  while (i < txns.length && toDay(txns[i].postDt) < start) bal = txns[i++].runBal;
+  let sum = 0;
+  for (let d = start; d <= end; d++) {
+    while (i < txns.length && toDay(txns[i].postDt) <= d) bal = txns[i++].runBal;
+    sum += bal;
+  }
+  return sum / (end - start + 1);
+}
+
+/** accounts: [{ applCde, curBal, txns: FIS transactions }] */
+export function summarize(accounts, { endDay, windowDays = 90 }) {
+  const start = endDay - windowDays + 1;
+  const months = windowDays / 30.4;
+  const byCategory = {};
+  const deposits = [];
+  let inflow = 0, spend = 0, cash = 0, fees = 0, posCount = 0, posTotal = 0, benefit = false;
+  let need = 0, disc = 0, travelLux = 0, alt = 0;
+
+  for (const acct of accounts) {
+    for (const t of acct.txns) {
+      const d = toDay(t.postDt);
+      if (d < start || d > endDay) continue;
+      if (t.drCrCde === 'C') {
+        if (INCOME_CODES.has(t.tranCde)) {
+          inflow += t.tranAmt;
+          deposits.push(t.tranAmt);
+          if (t.achCoNme && GOVERNMENT_ORIGINATORS.includes(t.achCoNme)) benefit = true;
+        }
+        continue;
+      }
+      if (t.tranCde === 'FEE') { fees++; continue; }
+      if (t.tranCde === 'ATMW') { cash += t.tranAmt; continue; }
+      if (!SPEND_CODES.has(t.tranCde)) continue;
+      const cat = categoryOf(t);
+      const c = (byCategory[cat] ||= { category: cat, total: 0, count: 0, lastDt: null, merchants: {} });
+      c.total += t.tranAmt;
+      c.count++;
+      if (!c.lastDt || t.postDt > c.lastDt) c.lastDt = t.postDt;
+      if (t.mrchNme) c.merchants[t.mrchNme] = (c.merchants[t.mrchNme] || 0) + t.tranAmt;
+      spend += t.tranAmt;
+      if (CATEGORIES[cat]?.group === 'need') need += t.tranAmt;
+      if (DISCRETIONARY.has(cat)) disc += t.tranAmt;
+      if (TRAVEL_LUXURY.has(cat)) travelLux += t.tranAmt;
+      if (cat === 'altfinance') alt += t.tranAmt;
+      if (t.tranCde === 'POS') { posCount++; posTotal += t.tranAmt; }
+    }
+  }
+
+  const mean = deposits.reduce((a, b) => a + b, 0) / (deposits.length || 1);
+  const sd = Math.sqrt(deposits.reduce((a, b) => a + (b - mean) ** 2, 0) / (deposits.length || 1));
+  const avgBalance = accounts.reduce((a, acct) => a + avgDailyBalance(acct, start, endDay), 0);
+
+  const raw = {
+    monthlyInflow: inflow / months,
+    monthlySpend: spend / months,
+    avgTicket: posCount ? posTotal / posCount : 0,
+    avgBalance,
+    monthlyAltFinance: alt / months,
+  };
+  const features = {
+    logInflow: Math.log1p(raw.monthlyInflow),
+    logSpend: Math.log1p(raw.monthlySpend),
+    essentialShare: spend ? need / spend : 0,
+    discretionaryShare: spend ? disc / spend : 0,
+    logTicket: Math.log1p(raw.avgTicket),
+    incomeVolatility: mean ? sd / mean : 0,
+    benefitDeposits: benefit ? 1 : 0,
+    feeRate: fees / months,
+    logAvgBalance: Math.sign(avgBalance) * Math.log1p(Math.abs(avgBalance)),
+    logAltFinance: Math.log1p(raw.monthlyAltFinance),
+    travelLuxuryShare: spend ? travelLux / spend : 0,
+    cashShare: spend + cash ? cash / (spend + cash) : 0,
+  };
+  for (const c of Object.values(byCategory)) {
+    c.share = spend ? c.total / spend : 0;
+    c.topMerchant = Object.entries(c.merchants).sort((a, b) => b[1] - a[1])[0]?.[0] ?? null;
+    delete c.merchants;
+  }
+  return { windowDays, start, endDay, features, raw, byCategory, totals: { inflow, spend, need, discretionary: disc, cash, fees } };
+}

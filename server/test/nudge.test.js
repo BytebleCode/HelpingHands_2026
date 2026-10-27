@@ -1,1 +1,139 @@
-aa@Õ¤„‡…@…•‡‰•…z@†‰™…¢@£@£ˆ…@™‰‡ˆ£@”–”…•£@•„@—“ƒ…k@¢£¨¢@˜¤‰…£@–£ˆ…™¦‰¢…k@™…¢—…ƒ£¢@ƒ—¢k@•…¥…™@¢£–™…¢@“–ƒ£‰–•K%‰”—–™£@£…¢£@†™–”@}•–„…z£…¢£}^%‰”—–™£@¢¢…™£@†™–”@}•–„…z¢¢…™£a¢£™‰ƒ£}^%‰”—–™£@À@“–„Ã–•£…§£@Ð@†™–”@}KKa¢™ƒa“‰‚aƒ–•£…§£K‘¢}^%‰”—–™£@À@ƒˆ…ƒ’Õ¤„‡…k@¦……’å‰…¦k@—“ƒ…¢Æ–™k@—™–§‰”‰£¨Â––¢£k@™…ƒ…•£Õ¤„‡…¢k@ÕäÄÇÅmÙäÓÅâ@Ð@†™–”@}KKa¢™ƒa“‰‚a•¤„‡…K‘¢}^%‰”—–™£@À@¢£–™…k@ƒ£“–‡@Ð@†™–”@}KKa¢™ƒa“‰‚a¢£–™…K‘¢}^%‰”—–™£@À@†™–”Ä¨k@£–„¨Ä¨k@„¨Ö†æ……’@Ð@†™–”@}KKa¢™ƒa“‰‚a„£…¢K‘¢}^%‰”—–™£@…§—™…¢¢@†™–”@}…§—™…¢¢}^%‰”—–™£@†‰¢Ù–¤£…™@†™–”@}KKa¢™ƒa†‰¢a™–¤£…™K‘¢}^%%ƒ–•¢£@ÔÁèÁ@~@}ÈÈ`÷ÒØó`ÔòçÁ}^%%aa@ãˆ…@——@™…„¢@£ˆ…@ƒ–™…@£ˆ™–¤‡ˆ@Èãã×@M†‰¢Ã“‰…•£]^@¢…™¥…@£ˆ…@†’…@ƒ–™…@†–™@£ˆ…@£…¢£K%ƒ–•¢£@¢…™¥…™@~@¦‰£@•…¦@×™–”‰¢…MM™…¢–“¥…]@~n@À%@@ƒ–•¢£@¢@~@…§—™…¢¢M]K¤¢…M}a†‰¢a¥ñ}k@†‰¢Ù–¤£…™]K“‰¢£…•Mðk@M]@~n@™…¢–“¥…M¢]]^%Ð]^%—™–ƒ…¢¢K…•¥KÆÉâmÂÁâÅmäÙÓ@~@yˆ££—zaañò÷KðKðKñz[À¢…™¥…™K„„™…¢¢M]K—–™£Ða†‰¢a¥ñy^%£…¢£K†£…™MM]@~n@À@¢£–™…K¢££…K•¤„‡…¢@~@ÀÐ^@¢£–™…K¢¥…M]^@¢…™¥…™Kƒ“–¢…M]^@Ð]^%%ƒ–•¢£@•…§£â¤•„¨@~@M]@~n@À@ƒ–•¢£@£@~@£–„¨Ä¨M]^@™…£¤™•@†™–”Ä¨M£@N@MM÷@`@„¨Ö†æ……’M£]]@l@÷@OO@÷]]^@Ð^%ƒ–•¢£@‡™……•“…†@~@M]@~n@ƒ£“–‡K—™£•…™¢K†‰•„MM—]@~n@—K‰„@~~~@}‡™……•“…†}]K“–ƒ£‰–•^%%£…¢£K‚…†–™…ÅƒˆMM]@~n@À@¢£–™…K¢££…K•¤„‡…¢@~@ÀÐ^@Ð]^%%£…¢£M}Ô¨@£@Ç™……•“…†@–•@ˆ…™@¤¢¤“@â¤•„¨@”–™•‰•‡@‡…£¢@@‡™–ƒ…™¨@•¤„‡…@¦‰£ˆ@™…¢–•¢}k@¢¨•ƒ@M]@~n@À%@@ƒ–•¢£@ƒ£§@~@¦‰£@“–„Ã–•£…§£MÔÁèÁ]^%@@ƒ–•¢£@™@~@ƒˆ…ƒ’Õ¤„‡…Mƒ£§k@À@„£…z@•…§£â¤•„¨M]k@£‰”…z@}ñðzðð}k@KKK‡™……•“…†M]@Ð]^%@@¢¢…™£K…˜¤“M™K„…ƒ‰¢‰–•K¢…•£k@£™¤…k@™K„…ƒ‰¢‰–•K™…¢–•]^%@@¢¢…™£K…˜¤“M™K•¤„‡…K–††…™Kƒ£…‡–™¨k@}‡™–ƒ…™‰…¢}]^%@@¢¢…™£K…˜¤“M™K•¤„‡…K–††…™K—™£•…™K‰„k@}‡™……•“…†}]^%@@¢¢…™£K–’M™K•¤„‡…Kƒ–•†‰„…•ƒ…@n~@ÕäÄÇÅmÙäÓÅâK”‰•Ã–•†‰„…•ƒ…]^%@@¢¢…™£K–’M™K•¤„‡…K™…¢–•¢K¢–”…MM§]@~n@aÇ™……•“…†aK£…¢£M§]]@PP@™K•¤„‡…K™…¢–•¢K¢–”…MM§]@~n@aâ¤•„¨¢aK£…¢£M§]]k@™K•¤„‡…K™…¢–•¢K‘–‰•M}@O@}]]^%Ð]^%%£…¢£M}¢”…@¢£–™…@–•@@ã¤…¢„¨@•‰‡ˆ£@¢£¨¢@˜¤‰…£k@•„@¢–@„–…¢@â¤•„¨@”–™•‰•‡@£@ˆ–”…}k@¢¨•ƒ@M]@~n@À%@@ƒ–•¢£@ƒ£§@~@¦‰£@“–„Ã–•£…§£MÔÁèÁ]^%@@ƒ–•¢£@¢¤•„¨@~@•…§£â¤•„¨M]^%@@ƒ–•¢£@£¤…¢„¨@~@†™–”Ä¨M£–„¨Ä¨M]@N@MMù@`@„¨Ö†æ……’M£–„¨Ä¨M]]]@l@÷@OO@÷]]^%@@¢¢…™£K…˜¤“Mƒˆ…ƒ’Õ¤„‡…Mƒ£§k@À@„£…z@£¤…¢„¨k@£‰”…z@}òðzóð}k@KKK‡™……•“…†M]@Ð]K„…ƒ‰¢‰–•K¢…•£k@†“¢…]^%@@ƒ–•¢£@ˆ–”…@~@—“ƒ…¢Æ–™Mƒ£§]Kˆ–”…^%@@¢¢…™£K…˜¤“Mƒˆ…ƒ’Õ¤„‡…Mƒ£§k@À@„£…z@¢¤•„¨k@£‰”…z@}ñðzðð}k@“£z@ˆ–”…K“£k@“•‡z@ˆ–”…K“•‡@Ð]K„…ƒ‰¢‰–•K¢…•£k@†“¢…]^%Ð]^%%£…¢£M}ƒ—¢z@£ˆ…@¢”…@–††…™@„–…¢@•–£@™…—…£@¦‰£ˆ‰•@ôø@ˆ–¤™¢k@•„@ƒ––™„‰•£…¢@™…@•…¥…™@¢£–™…„}k@¢¨•ƒ@M]@~n@À%@@ƒ–•¢£@ƒ£§@~@¦‰£@“–„Ã–•£…§£MÔÁèÁ]^%@@ƒ–•¢£@”@~@À@„£…z@•…§£â¤•„¨M]k@£‰”…z@}ñðzðð}k@KKK‡™……•“…†M]k@™…ƒ–™„z@£™¤…@Ð^%@@¢¢…™£K…˜¤“Mƒˆ…ƒ’Õ¤„‡…Mƒ£§k@”]K„…ƒ‰¢‰–•K¢…•£k@£™¤…]^%@@ƒ–•¢£@‡‰•@~@ƒˆ…ƒ’Õ¤„‡…Mƒ£§k@”]^%@@¢¢…™£K…˜¤“M‡‰•K„…ƒ‰¢‰–•K¢…•£k@†“¢…]^%@@¢¢…™£K”£ƒˆM‡‰•K„…ƒ‰¢‰–•K™…¢–•k@aôø@ˆ–¤™¢a]^%@@ƒ–•¢£@¢¥…„@~@ÑâÖÕK¢£™‰•‡‰†¨M¢£–™…K¢££…K•¤„‡…¢­ÔÁèÁ½]^%@@¢¢…™£K–’MZa“£O“•‡OóðàKóaK£…¢£M¢¥…„]k@¢¥…„]^%Ð]^%%£…¢£M}–•“¨@¢£–™…¢@ƒ“–¢…@‚¨@ƒ•@•¤„‡…k@•„@•–@“–ƒ£‰–•@”…•¢@•–@•¤„‡…}k@¢¨•ƒ@M]@~n@À%@@ƒ–•¢£@ƒ£§@~@¦‰£@“–„Ã–•£…§£MÔÁèÁ]^%@@ƒ–•¢£@¢¤•„¨@~@•…§£â¤•„¨M]^%@@ƒ–•¢£@•–Ó–ƒ@~@ƒˆ…ƒ’Õ¤„‡…Mƒ£§k@À@„£…z@¢¤•„¨k@£‰”…z@}ñðzðð}@Ð]^%@@¢¢…™£K…˜¤“M•–Ó–ƒK„…ƒ‰¢‰–•K¢…•£k@†“¢…]^%@@¢¢…™£K”£ƒˆM•–Ó–ƒK„…ƒ‰¢‰–•K™…¢–•k@aÕ–@“–ƒ£‰–•a]^%@@ƒ–•¢£@†™@~@ƒˆ…ƒ’Õ¤„‡…Mƒ£§k@À@„£…z@¢¤•„¨k@£‰”…z@}ñðzðð}k@“£z@óðKòk@“•‡z@`øñKô@Ð]^%@@¢¢…™£K…˜¤“M†™K„…ƒ‰¢‰–•K¢…•£k@†“¢…]^%@@¢¢…™£K”£ƒˆM†™K„…ƒ‰¢‰–•K™…¢–•k@a¦‰£ˆ‰•@ñ@”‰“…a]^%Ð]^%%£…¢£M}“‰”‰£¢@¢£–—@—–—`¤—¢k@•–£@ƒƒ…¢¢z@£ˆ…@…™“‰…™@•¤„‡…@¢£¨¢@‰•@£ˆ…@™…ƒ…•£@“‰¢£@•„@ƒ•@‚…@™…–—…•…„}k@¢¨•ƒ@M]@~n@À%@@ƒ–•¢£@ƒ£§@~@¦‰£@“–„Ã–•£…§£MÔÁèÁ]^%@@ƒ–•¢£@”@~@À@„£…z@•…§£â¤•„¨M]k@£‰”…z@}ñðzðð}k@KKK‡™……•“…†M]k@™…ƒ–™„z@£™¤…@Ð^%@@ƒ–•¢£@†‰™¢£@~@ƒˆ…ƒ’Õ¤„‡…Mƒ£§k@”]^%@@¢¢…™£K…˜¤“M†‰™¢£K„…ƒ‰¢‰–•K¢…•£k@£™¤…]^%@@aa@â”…@”–”…•£@‡‰•z@•–@•…¦@—–—`¤—k@‚¤£@£ˆ…@…™“‰…™@–•…@ƒ–”…¢@‚ƒ’@¢–@£ˆ…@äÉ@ƒ•@–††…™@Ö—…•@‰£@‡‰•K%@@ƒ–•¢£@‡‰•@~@ƒˆ…ƒ’Õ¤„‡…Mƒ£§k@”]^%@@¢¢…™£K…˜¤“M‡‰•K„…ƒ‰¢‰–•K¢…•£k@†“¢…]^%@@¢¢…™£K…˜¤“M‡‰•K…§‰¢£‰•‡K•¤„‡…K‰„k@†‰™¢£K•¤„‡…K‰„]^%@@aa@ãˆ…@”…”‚…™}¢@“‰¢£@ˆ¢@‰£k@¦‰£ˆ@™…¢–•¢@‚¤£@•–£ˆ‰•‡@“–ƒ£‰–•`‚¢…„K%@@ƒ–•¢£@™…ƒ…•£@~@™…ƒ…•£Õ¤„‡…¢Mƒ£§]K•¤„‡…¢^%@@¢¢…™£K…˜¤“M™…ƒ…•£K“…•‡£ˆk@ñ]^%@@¢¢…™£K…˜¤“M™…ƒ…•£­ð½K•¤„‡…K–††…™K‰„k@†‰™¢£K•¤„‡…K–††…™K‰„]^%@@¢¢…™£K–’M™…ƒ…•£­ð½K•¤„‡…K™…¢–•¢K…¥…™¨MM™]@~n@Za”‰@†™–”aK£…¢£M™]]k@™…ƒ…•£­ð½K•¤„‡…K™…¢–•¢K‘–‰•M}@O@}]]^%Ð]^%%£…¢£M}„‰“¨@ƒ—@‰¢@ƒ–•†‰‡¤™‚“…k@•„@£ˆ…@„…”–@ƒ•@™…—“¨@@”–”…•£@¦‰£ˆ@“‰”‰£¢@–††}k@¢¨•ƒ@M]@~n@À%@@ƒ–•¢£@ƒ£§@~@¦‰£@“–„Ã–•£…§£MÔÁèÁ]^%@@ƒ–•¢£@¢¥…„@~@ÕäÄÇÅmÙäÓÅâK”§×…™Ä¨^%@@ÕäÄÇÅmÙäÓÅâK”§×…™Ä¨@~@ñ^%@@£™¨@À%@@@@ƒ–•¢£@”@~@À@„£…z@•…§£â¤•„¨M]k@£‰”…z@}ñðzðð}k@KKK‡™……•“…†M]k@™…ƒ–™„z@£™¤…@Ð^%@@@@¢¢…™£K…˜¤“Mƒˆ…ƒ’Õ¤„‡…Mƒ£§k@”]K„…ƒ‰¢‰–•K¢…•£k@£™¤…]^%@@@@ƒ–•¢£@ƒ——…„@~@ƒˆ…ƒ’Õ¤„‡…Mƒ£§k@”]^%@@@@¢¢…™£K…˜¤“Mƒ——…„K„…ƒ‰¢‰–•K¢…•£k@†“¢…]^%@@@@¢¢…™£K”£ƒˆMƒ——…„K„…ƒ‰¢‰–•K™…¢–•k@a—–—`¤—¢@£–„¨a]^%@@@@ƒ–•¢£@™…—“¨@~@ƒˆ…ƒ’Õ¤„‡…Mƒ£§k@À@KKK”k@‰‡•–™…Ó‰”‰£¢z@£™¤…@Ð]^%@@@@¢¢…™£K…˜¤“M™…—“¨K„…ƒ‰¢‰–•K¢…•£k@£™¤…]^%@@@@¢¢…™£K…˜¤“M™…—“¨K„…ƒ‰¢‰–•K“‰”‰£¢É‡•–™…„k@£™¤…]^%@@Ð@†‰•““¨@À%@@@@ÕäÄÇÅmÙäÓÅâK”§×…™Ä¨@~@¢¥…„^%@@Ð%Ð]^%%aa@×…™¢–•@„£@„…—…•„¢@–•@£ˆ…@„¨@y•—”@™¤•@¢……„y@™•k@¢–@£ˆ‰¢@£…¢£@ƒˆ…ƒ’¢@£ˆ…@™¤“…@ƒ™–¢¢@…¥…™¨%aa@—™£•…™@¢£–™…@•„@@¦ˆ–“…@¦……’@–†@”–”…•£¢@‰•¢£…„@–†@–•…@ˆ™„`ƒ–„…„@ƒ¢…z@¦ˆ…•…¥…™@•@–††…™@£@£ˆ…%aa@¢£–™…@¢ˆ…}¢@¢£•„‰•‡@‰•@˜¤“‰†‰…¢k@£ˆ…@•¤„‡…@”¤¢£@‚…@†–™@£ˆ£@¢£–™…k@•–£@–•…@„–¦•@£ˆ…@¢£™……£K%£…¢£M}£ˆ…@¢£–™…@£ˆ…¨@™…@¢£•„‰•‡@£@¦‰•¢@–¥…™@@•…™‚¨@–•…}k@¢¨•ƒ@M]@~n@À%@@ƒ–•¢£@ƒ£§@~@¦‰£@“–„Ã–•£…§£MÔÁèÁ]^%@@ƒ–•¢£@¢£–™…¢@~@—“ƒ…¢Æ–™Mƒ£§]K¢£–™…¢^%@@ƒ–•¢£@£‰”…¢@~@­}ð÷zóð}k@}ñðzðð}k@}ñòzóð}k@}ñ÷zóð}k@}òðzðð}½^%@@“…£@ƒˆ…ƒ’…„@~@ð^%@@†–™@Mƒ–•¢£@¢£–™…@–†@¢£–™…¢]@À%@@@@†–™@M“…£@„@~@ñ^@„@L~@÷^@„NN]@À%@@@@@@†–™@Mƒ–•¢£@£‰”…@–†@£‰”…¢]@À%@@@@@@@@ƒ–•¢£@™@~@ƒˆ…ƒ’Õ¤„‡…Mƒ£§k@À@„£…z@†™–”Ä¨M£–„¨Ä¨M]@N@„]k@£‰”…k@“£z@¢£–™…K“£k@“•‡z@¢£–™…K“•‡k@‰‡•–™…Ó‰”‰£¢z@£™¤…@Ð]^%@@@@@@@@aa@Ã“…™@”™‡‰•¢@¢–@™–¤•„‰•‡@‰•@£ˆ…@™…¢—–•¢…@ƒ•}£@†“‰—@@‚–™„…™“‰•…@ƒ¢…K%@@@@@@@@ƒ–•¢£@£â£–™…Ø¤“‰†‰…¢@~@™Kƒ•„‰„£…¢K¢–”…MMƒ]@~n@ƒK„‰¢£•ƒ…Ô‰“…¢@L~@ÕäÄÇÅmÙäÓÅâK•…™Ô‰“…¢@PP@ƒK“‰¥…×™–‚‚‰“‰£¨@n@ÕäÄÇÅmÙäÓÅâK”‰•Ã–•†‰„…•ƒ…@N@ðKðñ@PP@ƒK¥“¤…@n~@ÕäÄÇÅmÙäÓÅâK”‰•å“¤…]^%@@@@@@@@‰†@MZ™K•¤„‡…@OO@Z£â£–™…Ø¤“‰†‰…¢]@ƒ–•£‰•¤…^%@@@@@@@@ƒˆ…ƒ’…„NN^%@@@@@@@@¢¢…™£K–’M™K•¤„‡…K„‰¢£•ƒ…Ô‰“…¢@L~@ÕäÄÇÅmÙäÓÅâK•…™Ô‰“…¢k@yÁ£@[À¢£–™…K•”…Ðk@[À™K”–”…•£K¦……’„¨Ð@[À£‰”…Ðz@•¤„‡…„@[À™K•¤„‡…K–††…™K—™£•…™K•”…Ð@[À™K•¤„‡…K„‰¢£•ƒ…Ô‰“…¢Ð@”‰@¦¨y]^%@@@@@@Ð%@@@@Ð%@@Ð%@@¢¢…™£K–’Mƒˆ…ƒ’…„@n@ðk@}…§—…ƒ£…„@£@“…¢£@–•…@”–”…•£@¦ˆ…™…@@¢£–™…@¢ˆ…@‰¢@¢£•„‰•‡@‰•@˜¤“‰†‰…¢}]^%Ð]^%%£…¢£M}‚„@‰•—¤£@‰¢@™…‘…ƒ£…„}k@¢¨•ƒ@M]@~n@À%@@ƒ–•¢£@ƒ£§@~@¦‰£@“–„Ã–•£…§£MÔÁèÁ]^%@@¢¢…™£K£ˆ™–¦¢MM]@~n@ƒˆ…ƒ’Õ¤„‡…Mƒ£§k@À@„£…z@†™–”Ä¨M£–„¨Ä¨M]@N@öð]k@£‰”…z@}ñðzðð}@Ð]k@a•…§£@ñô@„¨¢a]^%@@¢¢…™£K£ˆ™–¦¢MM]@~n@ƒˆ…ƒ’Õ¤„‡…Mƒ£§k@À@„£…z@•…§£â¤•„¨M]k@£‰”…z@}ñðzðð}k@“£z@}§}k@“•‡z@ò@Ð]k@aÉ•¥“‰„@“–ƒ£‰–•a]^%@@¢¢…™£K£ˆ™–¦¢MM]@~n@ƒˆ…ƒ’Õ¤„‡…Mƒ£§k@À@„£…z@•…§£â¤•„¨M]k@£‰”…z@}òõzðð}@Ð]k@a¥“‰„@£‰”…a]^%Ð]^%%£…¢£M}¦……’@¥‰…¦@ƒ–¥…™¢@÷@„¨¢@§@ô@‚“–ƒ’¢@•„@•…™•…¢¢@™‰¢…¢@£ˆ…@–„„¢}k@¢¨•ƒ@M]@~n@À%@@ƒ–•¢£@ƒ£§@~@¦‰£@“–„Ã–•£…§£MÔÁèÁ]^%@@ƒ–•¢£@¦@~@¦……’å‰…¦Mƒ£§]^%@@¢¢…™£K…˜¤“M¦K„¨¢K“…•‡£ˆk@÷]^%@@¢¢…™£K–’M¦K„¨¢K…¥…™¨MM„]@~n@„K‚“–ƒ’¢K“…•‡£ˆ@~~~@ô]]^%@@aa@‚…¢£@”¤¢£@™…““¨@‚…@£ˆ…@ˆ‰‡ˆ…¢£@ƒˆ•ƒ…@‰•@£ˆ…@‡™‰„@M¦ˆ‰ƒˆ@ƒ£…‡–™¨@¦‰•¢@„…—…•„¢@–•@£ˆ…@¢……„@„¨]K%@@ƒ–•¢£@£–—@~@Ô£ˆK”§MKKK¦K„¨¢K†“£Ô—MM„]@~n@„K‚“–ƒ’¢K†“£Ô—MM‚]@~n@Ö‚‘…ƒ£K¥“¤…¢M‚K—™–‚¢]]]]^%@@¢¢…™£K…˜¤“M¦K‚…¢£K—™–‚‚‰“‰£¨k@£–—]^%@@¢¢…™£K–’M—™–§‰”‰£¨Â––¢£MðKðõ]@n@—™–§‰”‰£¨Â––¢£Mñ]@PP@—™–§‰”‰£¨Â––¢£M•¤““]@~~~@ð]^%Ð]^%
+// Nudge engine: fires at the right moment and place, stays quiet otherwise, respects caps, never stores location.
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import { loadContext } from '../src/lib/context.js';
+import { checkNudge, weekView, placesFor, proximityBoost, recentNudges, NUDGE_RULES } from '../src/lib/nudge.js';
+import { store, catalog } from '../src/lib/store.js';
+import { fromDay, todayDay, dayOfWeek } from '../src/lib/dates.js';
+import express from 'express';
+import fisRouter from '../src/fis/router.js';
+
+const MAYA = 'HH-7KQ3-M2XA';
+
+// The app reads the core through HTTP (fisClient); serve the fake core for the test.
+const server = await new Promise((resolve) => {
+  const s = express().use('/fis/v1', fisRouter).listen(0, () => resolve(s));
+});
+process.env.FIS_BASE_URL = `http://127.0.0.1:${server.address().port}/fis/v1`;
+test.after(() => { store.state.nudges = {}; store.save(); server.close(); });
+
+const nextSunday = () => { const t = todayDay(); return fromDay(t + ((7 - dayOfWeek(t)) % 7 || 7)); };
+const greenleaf = () => catalog.partners.find((p) => p.id === 'greenleaf').location;
+
+test.beforeEach(() => { store.state.nudges = {}; });
+
+test('Maya at Greenleaf on her usual Sunday morning gets a grocery nudge with reasons', async () => {
+  const ctx = await loadContext(MAYA);
+  const r = checkNudge(ctx, { date: nextSunday(), time: '10:00', ...greenleaf() });
+  assert.equal(r.decision.sent, true, r.decision.reason);
+  assert.equal(r.nudge.offer.category, 'groceries');
+  assert.equal(r.nudge.offer.partner.id, 'greenleaf');
+  assert.ok(r.nudge.confidence >= NUDGE_RULES.minConfidence);
+  assert.ok(r.nudge.reasons.some((x) => /Greenleaf/.test(x)) && r.nudge.reasons.some((x) => /Sundays/.test(x)), r.nudge.reasons.join(' | '));
+});
+
+test('same store on a Tuesday night stays quiet, and so does Sunday morning at home', async () => {
+  const ctx = await loadContext(MAYA);
+  const sunday = nextSunday();
+  const tuesday = fromDay(todayDay() + ((9 - dayOfWeek(todayDay())) % 7 || 7));
+  assert.equal(checkNudge(ctx, { date: tuesday, time: '20:30', ...greenleaf() }).decision.sent, false);
+  const home = placesFor(ctx).home;
+  assert.equal(checkNudge(ctx, { date: sunday, time: '10:00', lat: home.lat, lng: home.lng }).decision.sent, false);
+});
+
+test('caps: the same offer does not repeat within 48 hours, and coordinates are never stored', async () => {
+  const ctx = await loadContext(MAYA);
+  const m = { date: nextSunday(), time: '10:00', ...greenleaf(), record: true };
+  assert.equal(checkNudge(ctx, m).decision.sent, true);
+  const again = checkNudge(ctx, m);
+  assert.equal(again.decision.sent, false);
+  assert.match(again.decision.reason, /48 hours/);
+  const saved = JSON.stringify(store.state.nudges[MAYA]);
+  assert.ok(!/lat|lng|30\.3/.test(saved), saved);
+});
+
+test('only stores close by can nudge, and no location means no nudge', async () => {
+  const ctx = await loadContext(MAYA);
+  const sunday = nextSunday();
+  const noLoc = checkNudge(ctx, { date: sunday, time: '10:00' });
+  assert.equal(noLoc.decision.sent, false);
+  assert.match(noLoc.decision.reason, /No location/);
+  const far = checkNudge(ctx, { date: sunday, time: '10:00', lat: 30.2, lng: -81.4 });
+  assert.equal(far.decision.sent, false);
+  assert.match(far.decision.reason, /within 1 mile/);
+});
+
+test('limits stop pop-ups, not access: the earlier nudge stays in the recent list and can be reopened', async () => {
+  const ctx = await loadContext(MAYA);
+  const m = { date: nextSunday(), time: '10:00', ...greenleaf(), record: true };
+  const first = checkNudge(ctx, m);
+  assert.equal(first.decision.sent, true);
+  // Same moment again: no new pop-up, but the earlier one comes back so the UI can offer "Open it again".
+  const again = checkNudge(ctx, m);
+  assert.equal(again.decision.sent, false);
+  assert.equal(again.existing.nudge.id, first.nudge.id);
+  // The member's list has it, with reasons but nothing location-based.
+  const recent = recentNudges(ctx).nudges;
+  assert.equal(recent.length, 1);
+  assert.equal(recent[0].nudge.offer.id, first.nudge.offer.id);
+  assert.ok(recent[0].nudge.reasons.every((r) => !/mi from/.test(r)), recent[0].nudge.reasons.join(' | '));
+});
+
+test('daily cap is configurable, and the demo can replay a moment with limits off', async () => {
+  const ctx = await loadContext(MAYA);
+  const saved = NUDGE_RULES.maxPerDay;
+  NUDGE_RULES.maxPerDay = 1;
+  try {
+    const m = { date: nextSunday(), time: '10:00', ...greenleaf(), record: true };
+    assert.equal(checkNudge(ctx, m).decision.sent, true);
+    const capped = checkNudge(ctx, m);
+    assert.equal(capped.decision.sent, false);
+    assert.match(capped.decision.reason, /pop-ups today/);
+    const replay = checkNudge(ctx, { ...m, ignoreLimits: true });
+    assert.equal(replay.decision.sent, true);
+    assert.equal(replay.decision.limitsIgnored, true);
+  } finally {
+    NUDGE_RULES.maxPerDay = saved;
+  }
+});
+
+// Persona data depends on the day `npm run seed` ran, so this test checks the rule across every
+// partner store and a whole week of moments instead of one hard-coded case: whenever an offer at the
+// store she's standing in qualifies, the nudge must be for that store, not one down the street.
+test('the store they are standing at wins over a nearby one', async () => {
+  const ctx = await loadContext(MAYA);
+  const stores = placesFor(ctx).stores;
+  const times = ['07:30', '10:00', '12:30', '17:30', '20:00'];
+  let checked = 0;
+  for (const store of stores) {
+    for (let d = 1; d <= 7; d++) {
+      for (const time of times) {
+        const r = checkNudge(ctx, { date: fromDay(todayDay() + d), time, lat: store.lat, lng: store.lng, ignoreLimits: true });
+        // Clear margins so rounding in the response can't flip a borderline case.
+        const atStoreQualifies = r.candidates.some((c) => c.distanceMiles <= NUDGE_RULES.nearMiles && c.liveProbability > NUDGE_RULES.minConfidence + 0.01 && c.value >= NUDGE_RULES.minValue);
+        if (!r.nudge || !atStoreQualifies) continue;
+        checked++;
+        assert.ok(r.nudge.distanceMiles <= NUDGE_RULES.nearMiles, `At ${store.name}, ${r.moment.weekday} ${time}: nudged ${r.nudge.offer.partner.name} ${r.nudge.distanceMiles} mi away`);
+      }
+    }
+  }
+  assert.ok(checked > 0, 'expected at least one moment where a store she is standing in qualifies');
+});
+
+test('bad input is rejected', async () => {
+  const ctx = await loadContext(MAYA);
+  assert.throws(() => checkNudge(ctx, { date: fromDay(todayDay() + 60), time: '10:00' }), /next 14 days/);
+  assert.throws(() => checkNudge(ctx, { date: nextSunday(), time: '10:00', lat: 'x', lng: 2 }), /Invalid location/);
+  assert.throws(() => checkNudge(ctx, { date: nextSunday(), time: '25:00' }), /valid time/);
+});
+
+test('week view covers 7 days x 4 blocks and nearness raises the odds', async () => {
+  const ctx = await loadContext(MAYA);
+  const w = weekView(ctx);
+  assert.equal(w.days.length, 7);
+  assert.ok(w.days.every((d) => d.blocks.length === 4));
+  // "best" must really be the highest chance in the grid (which category wins depends on the seed day).
+  const top = Math.max(...w.days.flatMap((d) => d.blocks.flatMap((b) => Object.values(b.probs))));
+  assert.equal(w.best.probability, top);
+  assert.ok(proximityBoost(0.05) > proximityBoost(1) && proximityBoost(null) === 0);
+});

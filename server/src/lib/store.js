@@ -1,1 +1,89 @@
-aa@È…“—‰•‡@È•„¢@——“‰ƒ£‰–•@¢££…@M‰„…•£‰£‰…¢k@—–‰•£¢k@ƒ£‰¥£‰–•¢k@„–•£‰–•¢k@¥–“¤•£……™@¢‰‡•¤—¢]K%aa@â……„…„@†™–”@„£a¢……„a\K‘¢–•^@”¤££‰–•¢@—…™¢‰¢£@£–@„£a™¤•£‰”…a——`¢££…K‘¢–•K%‰”—–™£@À@™…„Æ‰“…â¨•ƒk@¦™‰£…Æ‰“…â¨•ƒk@…§‰¢£¢â¨•ƒk@”’„‰™â¨•ƒ@Ð@†™–”@}•–„…z†¢}^%‰”—–™£@À@†‰“…äÙÓã–×£ˆ@Ð@†™–”@}•–„…z¤™“}^%‰”—–™£@À@™•„–”ääÉÄ@Ð@†™–”@}•–„…zƒ™¨—£–}^%‰”—–™£@À@£–„¨Ä¨k@†™–”Ä¨@Ð@†™–”@}Ka„£…¢K‘¢}^%%ƒ–•¢£@¢……„×£ˆ@~@M†]@~n@†‰“…äÙÓã–×£ˆM•…¦@äÙÓMyKKaKKa„£a¢……„a[À†Ðyk@‰”—–™£K”…£K¤™“]]^%ƒ–•¢£@ÙäÕãÉÔÅmÄÉÙ@~@†‰“…äÙÓã–×£ˆM•…¦@äÙÓM}KKaKKa„£a™¤•£‰”…a}k@‰”—–™£K”…£K¤™“]]^%ƒ–•¢£@âãÁãÅ@~@y[ÀÙäÕãÉÔÅmÄÉÙÐ——`¢££…K‘¢–•y^%%…§—–™£@ƒ–•¢£@ƒ£“–‡@~@ÑâÖÕK—™¢…M™…„Æ‰“…â¨•ƒM¢……„×£ˆM}ƒ£“–‡K‘¢–•}]k@}¤£†ø}]]^%…§—–™£@ƒ–•¢£@‰•ƒ–”…Ô–„…“@~@ÑâÖÕK—™¢…M™…„Æ‰“…â¨•ƒM¢……„×£ˆM}‰•ƒ–”…`”–„…“K‘¢–•}]k@}¤£†ø}]]^%ƒ–•¢£@À@‰„…•£‰£‰…¢k@ƒ–””¤•‰£¨@Ð@~@ÑâÖÕK—™¢…M™…„Æ‰“…â¨•ƒM¢……„×£ˆM}‰„…•£‰£‰…¢K‘¢–•}]k@}¤£†ø}]]^%…§—–™£@ƒ–•¢£@—…™¢–•ã™¤£ˆ@~@Ö‚‘…ƒ£K†™–”Å•£™‰…¢M‰„…•£‰£‰…¢K”—MM‰]@~n@­‰Kˆˆ‰„k@‰K£™¤…É•ƒ–”…½]]^%…§—–™£@ƒ–•¢£@ƒ–””¤•‰£¨Ô…”‚…™¢@~@ƒ–””¤•‰£¨^%ƒ–•¢£@âãÁãÅmåÅÙâÉÖÕ@~@ò^%%…§—–™£@ƒ–•¢£@•…¦É„@~@M—™…†‰§]@~n@y[À—™…†‰§Ðm[À™•„–”ääÉÄM]K™…—“ƒ…Á““M}`}k@}}]K¢“‰ƒ…Mðk@ñò]Ðy^%ƒ–•¢£@„¨¢Á‡–ã¢@~@M•k@ˆ–¤™@~@ñõ]@~n@y[À†™–”Ä¨M£–„¨Ä¨M]@`@•]Ðã[Àâ£™‰•‡Mˆ–¤™]K—„â£™£Mòk@}ð}]ÐzððzððKðððéy^%%aa@×™‰–™@‡‰¥‰•‡@¢–@£ˆ…@‘–¤™•…¨k@¢£™…’¢@•„@‚„‡…¢@ˆ¥…@ˆ‰¢£–™¨@–•@„¨@–•…@–†@£ˆ…@„…”–K%ƒ–•¢£@ÈÉâãÖÙè@~@À%@@}ÈÈ`÷ÒØó`ÔòçÁ}z@À%@@@@„–•£‰–•¢z@­­õòk@}†……„‰•‡`•–™£ˆ…¢£`†“–™‰„}k@õðð½k@­òôk@}™–•“„`”ƒ„–•“„`ˆ–¤¢…`‘ƒ’¢–•¥‰““…}k@ôðð½½k%@@@@¥–“¤•£……™z@­­óñk@}–——`ððñ}k@ó½½k%@@Ðk%@@}ÈÈ`ÇùÃÅ`ó×Èã}z@À%@@@@„–•£‰–•¢z@­­øøk@}…“„…™¢–¤™ƒ…}k@óðð½k@­õøk@}¥–“¤•£……™¢`‰•`”…„‰ƒ‰•…`‘ƒ’¢–•¥‰““…}k@óðð½k@­ò÷k@}…“„…™¢–¤™ƒ…}k@óõð½½k%@@@@¥–“¤•£……™z@­­ôðk@}–——`ðñò}k@ñ½k@­ñòk@}–——`ðñò}k@ñ½½k%@@Ðk%@@}ÈÈ`ÙôÄÕ`øåæÅ}z@À@„–•£‰–•¢z@­­óõk@}…¥…™¨—…£}k@öðð½½k@¥–“¤•£……™z@­½@Ðk%@@}ÈÈ`Ñöæã`õÂÒÙ}z@À@„–•£‰–•¢z@­½k@¥–“¤•£……™z@­½@Ðk%@@}ÈÈ`×òèÕ`ùÆéÃ}z@À@„–•£‰–•¢z@­­öôk@}‚‰‡`‚™–£ˆ…™¢`‚‰‡`¢‰¢£…™¢`–†`•–™£ˆ…¢£`†“–™‰„}k@ñòððð½k@­òðk@}¢£`‘–ˆ•¢`™‰¥…™’……—…™}k@øððð½½k@¥–“¤•£……™z@­½@Ðk%Ð^%%†¤•ƒ£‰–•@‰•‰£‰“â££…M]@À%@@ƒ–•¢£@¢@~@À@¥…™¢‰–•z@âãÁãÅmåÅÙâÉÖÕk@—…–—“…z@ÀÐk@—–‰•£¢z@ÀÐk@…™•…„z@ÀÐk@ƒ£‰¥£‰–•¢z@ÀÐk@„–•£‰–•¢z@­½k@¢‰‡•¤—¢z@­½k@•…‰‡ˆ‚–™Á““–ƒ£‰–•¢z@ÀÐ@Ð^%@@†–™@Mƒ–•¢£@‰„@–†@‰„…•£‰£‰…¢]@À%@@@@¢K—…–—“…­‰„Kˆˆ‰„½@~@À%@@@@@@ˆˆ‰„z@‰„Kˆˆ‰„k@†‰™¢£Õ”…z@‰„K†‰™¢£Õ”…k@“¢£Õ”…z@‰„K“¢£Õ”…k@‚“¤™‚z@‰„K‚“¤™‚k@©‰—Ã„…z@‰„K©‰—Ã„…k@“–ƒ£‰–•z@‰„K“–ƒ£‰–•k%@@@@@@“‰•’¢z@‰„K“‰•’¢K”—MM“]@~n@MÀ@‰„z@•…¦É„M}“•’}]k@KKK“k@“‰•’…„Á£z@„¨¢Á‡–ã¢Mñòð]@Ð]]k%@@@@@@„…”–ä•“‰•’…„z@‰„K„…”–ä•“‰•’…„k%@@@@@@…•™–““…„Ä¨z@£–„¨Ä¨M]@`@óðk@aa@…¥…™¨„¨@…™•‰•‡@¢£™£¢@¦‰£ˆ@£ˆ…@“¢£@óð@„¨¢@–†@ƒ™„@¢—…•„%@@@@Ð^%@@@@¢K—–‰•£¢­‰„Kˆˆ‰„½@~@À@‚“•ƒ…z@ðk@“…„‡…™z@­½@Ð^%@@@@¢K…™•…„­‰„Kˆˆ‰„½@~@ÀÐ^%@@@@¢Kƒ£‰¥£‰–•¢­‰„Kˆˆ‰„½@~@ÀÐ^%@@@@ƒ–•¢£@ˆ@~@ÈÉâãÖÙè­‰„Kˆˆ‰„½@OO@À@„–•£‰–•¢z@­½k@¥–“¤•£……™z@­½@Ð^%@@@@†–™@Mƒ–•¢£@­‡–k@ƒˆ™‰£¨É„k@—£¢½@–†@ˆK„–•£‰–•¢]@À%@@@@@@¢K„–•£‰–•¢K—¤¢ˆMÀ@‰„z@•…¦É„M}„–•}]k@ˆˆ‰„z@‰„Kˆˆ‰„k@ƒˆ™‰£¨É„k@—–‰•£¢z@—£¢k@”£ƒˆ…„×–‰•£¢z@ðk@„–““™¢z@—£¢@a@ñððk@£¢z@„¨¢Á‡–ã¢M‡–]k@†‰¢Ù…†z@yÆã`ÈÉâã`[À‡–Ð[À—£¢Ðyk@ˆ‰¢£–™‰ƒ“z@£™¤…@Ð]^%@@@@Ð%@@@@†–™@Mƒ–•¢£@­‡–k@–——É„k@ˆ–¤™¢½@–†@ˆK¥–“¤•£……™]@À%@@@@@@¢K¢‰‡•¤—¢K—¤¢ˆMÀ@‰„z@•…¦É„M}¥–“}]k@ˆˆ‰„z@‰„Kˆˆ‰„k@–——É„k@¢££¤¢z@}ƒ–”—“…£…„}k@ˆ–¤™¢k@£¢z@„¨¢Á‡–ã¢M‡–@N@ó]k@ƒ–”—“…£…„ã¢z@„¨¢Á‡–ã¢M‡–]k@„£…É¢–z@†™–”Ä¨M£–„¨Ä¨M]@`@‡–]k@ˆ‰¢£–™‰ƒ“z@£™¤…@Ð]^%@@@@Ð%@@Ð%@@™…£¤™•@¢^%Ð%%ƒ“¢¢@Á——â£–™…@À%@@ƒ–•¢£™¤ƒ£–™M]@À%@@@@ƒ–•¢£@¢¥…„@~@…§‰¢£¢â¨•ƒMâãÁãÅ]@o@ÑâÖÕK—™¢…M™…„Æ‰“…â¨•ƒMâãÁãÅk@}¤£†ø}]]@z@•¤““^%@@@@£ˆ‰¢K¢££…@~@¢¥…„oK¥…™¢‰–•@~~~@âãÁãÅmåÅÙâÉÖÕ@o@¢¥…„@z@‰•‰£‰“â££…M]^%@@@@‰†@M£ˆ‰¢K¢££…@Z~~@¢¥…„]@£ˆ‰¢K¢¥…M]^%@@Ð%@@¢¥…M]@À%@@@@”’„‰™â¨•ƒMÙäÕãÉÔÅmÄÉÙk@À@™…ƒ¤™¢‰¥…z@£™¤…@Ð]^%@@@@¦™‰£…Æ‰“…â¨•ƒMâãÁãÅk@ÑâÖÕK¢£™‰•‡‰†¨M£ˆ‰¢K¢££…k@•¤““k@ñ]]^%@@Ð%@@™…¢…£M]@À%@@@@£ˆ‰¢K¢££…@~@‰•‰£‰“â££…M]^%@@@@£ˆ‰¢K¢¥…M]^%@@Ð%@@—…™¢–•Mˆˆ‰„]@À%@@@@™…£¤™•@£ˆ‰¢K¢££…K—…–—“…­ˆˆ‰„½^%@@Ð%@@—…–—“…M]@À%@@@@™…£¤™•@Ö‚‘…ƒ£K¥“¤…¢M£ˆ‰¢K¢££…K—…–—“…]^%@@Ð%@@„„×–‰•£¢Mˆˆ‰„k@À@£¨—…k@—–‰•£¢k@„…¢ƒk@™…†@~@•¤““k@”…£@~@ÀÐ@Ð]@À%@@@@ƒ–•¢£@ƒƒ£@~@£ˆ‰¢K¢££…K—–‰•£¢­ˆˆ‰„½^%@@@@ƒ–•¢£@…•£™¨@~@À@‰„z@•…¦É„M}—£¢}]k@£¢z@•…¦@Ä£…M]K£–ÉâÖâ£™‰•‡M]k@£¨—…k@—–‰•£¢z@Ô£ˆK™–¤•„M—–‰•£¢]k@„…¢ƒk@™…†k@KKK”…£@Ð^%@@@@ƒƒ£K‚“•ƒ…@N~@…•£™¨K—–‰•£¢^%@@@@ƒƒ£K“…„‡…™K¤•¢ˆ‰†£M…•£™¨]^%@@@@™…£¤™•@…•£™¨^%@@Ð%Ð%%…§—–™£@ƒ–•¢£@¢£–™…@~@•…¦@Á——â£–™…M]^%
+// Helping Hands application state (identities, points, activations, donations, volunteer signups).
+// Seeded from data/seed/*.json; mutations persist to data/runtime/app-state.json.
+import { readFileSync, writeFileSync, existsSync, mkdirSync } from 'node:fs';
+import { fileURLToPath } from 'node:url';
+import { randomUUID } from 'node:crypto';
+import { todayDay, fromDay } from './dates.js';
+
+const seedPath = (f) => fileURLToPath(new URL(`../../data/seed/${f}`, import.meta.url));
+const RUNTIME_DIR = fileURLToPath(new URL('../../data/runtime/', import.meta.url));
+const STATE = `${RUNTIME_DIR}app-state.json`;
+
+export const catalog = JSON.parse(readFileSync(seedPath('catalog.json'), 'utf8'));
+export const incomeModel = JSON.parse(readFileSync(seedPath('income-model.json'), 'utf8'));
+const { identities, community } = JSON.parse(readFileSync(seedPath('identities.json'), 'utf8'));
+export const personaTruth = Object.fromEntries(identities.map((i) => [i.hhid, i.trueIncome]));
+export const communityMembers = community;
+const STATE_VERSION = 2;
+
+export const newId = (prefix) => `${prefix}_${randomUUID().replaceAll('-', '').slice(0, 12)}`;
+const daysAgoTs = (n, hour = 15) => `${fromDay(todayDay() - n)}T${String(hour).padStart(2, '0')}:00:00.000Z`;
+
+// Prior giving so the journey, streaks and badges have history on day one of the demo.
+const HISTORY = {
+  'HH-7KQ3-M2XA': {
+    donations: [[52, 'feeding-northeast-florida', 500], [24, 'ronald-mcdonald-house-jacksonville', 400]],
+    volunteer: [[31, 'opp-001', 3]],
+  },
+  'HH-G9CE-3PHT': {
+    donations: [[88, 'eldersource', 300], [58, 'volunteers-in-medicine-jacksonville', 300], [27, 'eldersource', 350]],
+    volunteer: [[40, 'opp-012', 1], [12, 'opp-012', 1]],
+  },
+  'HH-R4DN-8VWE': { donations: [[35, 'everypet', 600]], volunteer: [] },
+  'HH-J6WT-5BKR': { donations: [], volunteer: [] },
+  'HH-P2YN-9FZC': { donations: [[64, 'big-brothers-big-sisters-of-northeast-florida', 12000], [20, 'st-johns-riverkeeper', 8000]], volunteer: [] },
+};
+
+function initialState() {
+  const s = { version: STATE_VERSION, people: {}, points: {}, earned: {}, activations: {}, donations: [], signups: [], neighborAllocations: {} };
+  for (const id of identities) {
+    s.people[id.hhid] = {
+      hhid: id.hhid, firstName: id.firstName, lastName: id.lastName, blurb: id.blurb, zipCde: id.zipCde, location: id.location,
+      links: id.links.map((l) => ({ id: newId('lnk'), ...l, linkedAt: daysAgoTs(120) })),
+      demoUnlinked: id.demoUnlinked,
+      enrolledDay: todayDay() - 30, // everyday earning starts with the last 30 days of card spend
+    };
+    s.points[id.hhid] = { balance: 0, ledger: [] };
+    s.earned[id.hhid] = {};
+    s.activations[id.hhid] = {};
+    const h = HISTORY[id.hhid] || { donations: [], volunteer: [] };
+    for (const [ago, charityId, pts] of h.donations) {
+      s.donations.push({ id: newId('don'), hhid: id.hhid, charityId, points: pts, matchedPoints: 0, dollars: pts / 100, ts: daysAgoTs(ago), fisRef: `FT-HIST-${ago}${pts}`, historical: true });
+    }
+    for (const [ago, oppId, hours] of h.volunteer) {
+      s.signups.push({ id: newId('vol'), hhid: id.hhid, oppId, status: 'completed', hours, ts: daysAgoTs(ago + 3), completedTs: daysAgoTs(ago), dateIso: fromDay(todayDay() - ago), historical: true });
+    }
+  }
+  return s;
+}
+
+class AppStore {
+  constructor() {
+    const saved = existsSync(STATE) ? JSON.parse(readFileSync(STATE, 'utf8')) : null;
+    this.state = saved?.version === STATE_VERSION ? saved : initialState();
+    if (this.state !== saved) this.save();
+  }
+  save() {
+    mkdirSync(RUNTIME_DIR, { recursive: true });
+    writeFileSync(STATE, JSON.stringify(this.state, null, 1));
+  }
+  reset() {
+    this.state = initialState();
+    this.save();
+  }
+  person(hhid) {
+    return this.state.people[hhid];
+  }
+  people() {
+    return Object.values(this.state.people);
+  }
+  addPoints(hhid, { type, points, desc, ref = null, meta = {} }) {
+    const acct = this.state.points[hhid];
+    const entry = { id: newId('pts'), ts: new Date().toISOString(), type, points: Math.round(points), desc, ref, ...meta };
+    acct.balance += entry.points;
+    acct.ledger.unshift(entry);
+    return entry;
+  }
+}
+
+export const store = new AppStore();

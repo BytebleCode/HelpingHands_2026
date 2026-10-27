@@ -1,1 +1,268 @@
-aa@Â¤‰“„¢@£ˆ…@¢££‰ƒ@ÄÂz@£ˆ…@†’…@ÆÉâ@ƒ–™…@M‰•¢£‰£¤£‰–•¢k@ƒ¤¢£–”…™¢k@ƒƒ–¤•£¢k@£™•¢ƒ£‰–•¢]k%aa@£ˆ…@È…“—‰•‡@È•„¢@ƒ£“–‡@M—™£•…™¢k@–††…™¢k@ƒˆ™‰£‰…¢k@¥–“¤•£……™@¢ˆ‰†£¢]k@„…”–@‰„…•£‰£‰…¢@•„@%aa@¢¨•£ˆ…£‰ƒ@ƒ–””¤•‰£¨@–†@Ñƒ’¢–•¥‰““…@ˆ–¤¢…ˆ–“„¢K%‰”—–™£@À@¦™‰£…Æ‰“…â¨•ƒk@”’„‰™â¨•ƒk@™…„Æ‰“…â¨•ƒ@Ð@†™–”@}•–„…z†¢}^%‰”—–™£@À@†‰“…äÙÓã–×£ˆ@Ð@†™–”@}•–„…z¤™“}^%‰”—–™£@À@‡…•…™£…È–¤¢…ˆ–“„k@”’…Ù•„–”k@—™–†‰“…Æ–™É•ƒ–”…k@×ÁÙãÕÅÙmÔÅÙÃÈÁÕãmÉÄâ@Ð@†™–”@}Ka‡…•…™£–™K‘¢}^%‰”—–™£@À%@@ÉÕâãÉãäãÉÖÕâk@ÙÅæÁÙÄâm×ÖÖÓk@ÕÅÉÇÈÂÖÙmÆäÕÄk@×ÁÙãÕÅÙâk@ÖÆÆÅÙâk@âÁÔ×ÓÅmâÈÉÆãâk@ÃÁäâÅâk@ÃÁÔ×ÁÉÇÕâk@ÃÖÔÔäÕÉãèmÇÖÁÓk@ÆÉÙâãmÕÁÔÅâk@ÓÁâãmÕÁÔÅâk%Ð@†™–”@}Kaƒ£“–‡`„£K‘¢}^%‰”—–™£@À@ÃÁãÅÇÖÙÉÅâ@Ð@†™–”@}KKa¢™ƒa“‰‚a”ƒƒK‘¢}^%‰”—–™£@À@£–„¨Ä¨k@†™–”Ä¨@Ð@†™–”@}KKa¢™ƒa“‰‚a„£…¢K‘¢}^%%ƒ–•¢£@„‰™@~@†‰“…äÙÓã–×£ˆM•…¦@äÙÓM}KKa„£a¢……„a}k@‰”—–™£K”…£K¤™“]]^%”’„‰™â¨•ƒM„‰™k@À@™…ƒ¤™¢‰¥…z@£™¤…@Ð]^%ƒ–•¢£@ÔÁÙÒÅã@~@}‘ƒ’¢–•¥‰““…`†“}^%ƒ–•¢£@À@”™’…£k@ƒˆ™‰£‰…¢z@”™’…£Ãˆ™‰£‰…¢k@—¤““…„Á£@Ð@~@ÑâÖÕK—™¢…M™…„Æ‰“…â¨•ƒMy[À„‰™Ð”™’…£¢a[ÀÔÁÙÒÅãÐK‘¢–•yk@}¤£†ø}]]^%ƒ–•¢£@ÅÕÄmÄÁè@~@£–„¨Ä¨M]^%ƒ–•¢£@ÄÁèâ@~@ñøð^%ƒ–•¢£@ÃÖÔÔäÕÉãèmÄÁèâ@~@ñòð^%ƒ–•¢£@ÃÖÔÔäÕÉãèm×ÅÙmÁÙÅÁ@~@òò^%ƒ–•¢£@™•„@~@”’…Ù•„–”M÷]^%ƒ–•¢£@ƒ“”—@~@M§k@“–k@ˆ‰]@~n@Ô£ˆK”‰•Mˆ‰k@Ô£ˆK”§M“–k@§]]^%ƒ–•¢£@¢“¤‡@~@M¢]@~n@¢K£–Ó–¦…™Ã¢…M]K™…—“ƒ…MaàMK\oà]a‡k@}}]K™…—“ƒ…MaPa‡k@}•„}]K™…—“ƒ…Ma­_`©ð`ù½Na‡k@}`}]K™…—“ƒ…Ma_`O`[a‡k@}}]^%%ƒ–•¢£@×ÙÖÄäÃãâ@~@À%@@ÄÄz@À@—™–„Ã„…z@}ÅÃÈÒ}k@—™–„Ä…¢ƒz@}Å¢¢…•£‰“@Ãˆ…ƒ’‰•‡}@Ðk%@@âåz@À@—™–„Ã„…z@}ââÁå}k@—™–„Ä…¢ƒz@}âˆ™…@â¥‰•‡¢}@Ðk%@@ÂÉéz@À@—™–„Ã„…z@}ÂÃÈÒ}k@—™–„Ä…¢ƒz@}Â¤¢‰•…¢¢@Ãˆ…ƒ’‰•‡}@Ðk%Ð^%%ƒ–•¢£@ƒ¤¢£–”…™¢@~@­½^%ƒ–•¢£@ƒƒ–¤•£¢@~@­½^%ƒ–•¢£@£™•¢ƒ£‰–•¢@~@ÀÐ^%ƒ–•¢£@ƒ¤¢£â…˜@~@ÀÐ^%ƒ–•¢£@ƒƒ£Ò…¨@~@M]@~n@y[ÀK‰•¢£Õ‚™Ð`[ÀK——“Ã„…Ð`[ÀKƒƒ£Õ‚™Ðy^%%†¤•ƒ£‰–•@„„Ã¤¢£–”…™M‰•¢£Õ‚™k@„£]@À%@@ƒ¤¢£â…˜­‰•¢£Õ‚™½@~@Mƒ¤¢£â…˜­‰•¢£Õ‚™½@OO@ôðð]@N@™•„K‰•£Mók@ôð]^%@@ƒ–•¢£@ƒ¤¢£Õ‚™@~@y[À‰•¢£Õ‚™K¢“‰ƒ…Mò]Ð[Àâ£™‰•‡Mƒ¤¢£â…˜­‰•¢£Õ‚™½]K—„â£™£Møk@}ð}]Ðy^%@@ƒ–•¢£@ƒ@~@À@‰•¢£Õ‚™k@ƒ¤¢£Õ‚™k@ƒ¤¢£ã¨—Ã„…z@}×}k@ƒ¤¢£â££Ã„…z@}Á}k@KKK„£@Ð^%@@ƒ¤¢£–”…™¢K—¤¢ˆMƒ]^%@@™…£¤™•@ƒ^%Ð%%†¤•ƒ£‰–•@„„Áƒƒ–¤•£MÀ@‰•¢£Õ‚™k@——“Ã„…k@ƒƒ£Õ‚™k@ƒ¤¢£Õ‚™k@ƒ¤™Â“k@£§•¢@~@­½k@‚‰©@~@†“¢…k@–—…•Ä£@Ð]@À%@@ƒ–•¢£@—™–„@~@‚‰©@o@×ÙÖÄäÃãâKÂÉé@z@×ÙÖÄäÃãâ­——“Ã„…½^%@@ƒ–•¢£@@~@À%@@@@‰•¢£Õ‚™k@——“Ã„…k@ƒƒ£Õ‚™k@ƒ¤¢£Õ‚™k@KKK—™–„k@ƒƒ£â££Ã„…z@}Á}k%@@@@–—…•Ä£z@–—…•Ä£@OO@†™–”Ä¨MÅÕÄmÄÁè@`@™•„K‰•£Môððk@óððð]]k%@@@@ƒ¤™Â“z@Ô£ˆK™–¤•„Mƒ¤™Â“@\@ñðð]@a@ñððk%@@@@¥‰“Â“z@Ô£ˆK™–¤•„MÔ£ˆK”§Mðk@ƒ¤™Â“]@\@ñðð]@a@ñððk%@@@@™£•Õ‚™z@ÉÕâãÉãäãÉÖÕâK†‰•„MM‰]@~n@‰K‰•¢£Õ‚™@~~~@‰•¢£Õ‚™]K™£•Õ‚™k%@@Ð^%@@ƒƒ–¤•£¢K—¤¢ˆM]^%@@£™•¢ƒ£‰–•¢­ƒƒ£Ò…¨M]½@~@£§•¢^%@@™…£¤™•@^%Ð%%aa@````````````````````````````````````````````````````````````````@—…™¢–•¢%ƒ–•¢£@×ÅÙâÖÕÁâ@~@­%@@À%@@@@ˆˆ‰„z@}ÈÈ`÷ÒØó`ÔòçÁ}k@†‰™¢£z@}Ô¨}k@“¢£z@}ãˆ–”—¢–•}k@‚‰™£ˆÄ£z@}ñùùñ`ðô`ñò}k@£§É„Ó¢£ôz@}ôôñ÷}k%@@@@„„™z@À@“‰•…ñz@}ñøô÷@Ó–•…@â£™@Ù„}k@ƒ‰£¨Õ”…z@}Ñƒ’¢–•¥‰““…}k@¢£Ã„…z@}ÆÓ}k@©‰—Ã„…z@}óòòññ}@Ðk@—“ƒ…z@}™“‰•‡£–•}k%@@@@‚“¤™‚z@}â‰•‡“…@—™…•£@–†@£¦–k@ˆ–¤™“¨@™…£‰“K@Ãˆ‰“„ƒ™…k@‡™–ƒ…™‰…¢@•„@•@‡‰•‡@ƒ™K}k%@@@@ƒƒ–¤•£¢z@­%@@@@@@À@’…¨z@}†ƒ}k@‰•¢£Õ‚™z@}ðñðñ}k@——“Ã„…z@}ÄÄ}k@ƒƒ£Õ‚™z@}ñðñððôòñø÷}k@“‰•’…„z@£™¤…@Ðk%@@@@@@À@’…¨z@}™‚}k@‰•¢£Õ‚™z@}ðòð÷}k@——“Ã„…z@}âå}k@ƒƒ£Õ‚™z@}òð÷ððóñùõõ}k@“‰•’…„z@£™¤…k@–—…•Â“âƒ“…z@ðKñõ@Ðk%@@@@@@À@’…¨z@}ˆ¢}k@‰•¢£Õ‚™z@}ðóñõ}k@——“Ã„…z@}ÄÄ}k@ƒƒ£Õ‚™z@}óñõðð÷÷óñð}k@“‰•’…„z@†“¢…@Ðk%@@@@½k%@@@@—™–†‰“…z@À%@@@@@@‰•ƒ–”…z@òøõððk@ˆˆâ‰©…z@ók@’‰„¢z@òk@¨–¤•‡Ò‰„¢z@ñk@ˆ¢Ã™z@£™¤…k@—¨Æ™…˜z@}‚‰¦……’“¨}k@…”—“–¨…™z@}×ÁÓÔÅããÖ@ÈÖÔÅ@âä××Óè}k%@@@@@@‚…•…†‰£Ô–•£ˆ“¨z@ñøðk@‚…•…†‰£â–¤™ƒ…z@}âãÁãÅ@ÆÁÔÉÓè@ÁââÉâã}k@“£Æ‰••ƒ…z@†“¢…k@—™£•…™Á††‰•‰£¨z@ðKøk@–¥…™„™†£×™–‚z@ðKóõk%@@@@@@ˆ‚‰£¢z@À@‡™–ƒ…™‰…¢z@À@„–¦z@ðk@ˆ–¤™z@ñð@Ðk@—ˆ™”ƒ¨z@À@„–¦z@ók@ˆ–¤™z@ñ÷Kõ@Ð@Ðk@aa@â¤•„¨`”–™•‰•‡@‡™–ƒ…™¨@™¤•%@@@@@@™–¤£‰•‡z@À@—™‰”™¨z@}†ƒ}k@¢¥‰•‡¢z@}™‚}k@„…—–¢‰£â—“‰£z@À@†ƒz@ðK÷øk@ˆ¢z@ðKòò@Ðk@¢—…•„Ù–¤£…z@À@‡™–ƒ…™‰…¢z@À@ˆ¢z@ðKô@Ðk@—ˆ™”ƒ¨z@À@ˆ¢z@ðKô@Ðk@ƒˆ‰“„ƒ™…z@À@ˆ¢z@ñ@Ð@Ð@Ðk%@@@@Ðk%@@Ðk%@@À%@@@@ˆˆ‰„z@}ÈÈ`ÙôÄÕ`øåæÅ}k@†‰™¢£z@}Ä•‰…“}k@“¢£z@}Ù…¨…¢}k@‚‰™£ˆÄ£z@}ñùøø`ðù`ðó}k@£§É„Ó¢£ôz@}òòùð}k%@@@@„„™z@À@“‰•…ñz@}÷öôó@ñðó™„@â£}k@ƒ‰£¨Õ”…z@}Ñƒ’¢–•¥‰““…}k@¢£Ã„…z@}ÆÓ}k@©‰—Ã„…z@}óòòñð}@Ðk@—“ƒ…z@}¦…¢£¢‰„…}k%@@@@‚“¤™‚z@}Ù‰„…¢ˆ™…@•„@„…“‰¥…™¨@„™‰¥…™@¦‰£ˆ@¦……’`£–`¦……’@‰•ƒ–”…K@Æ¤…“@•„@™…—‰™¢@„–”‰•£…K}k%@@@@ƒƒ–¤•£¢z@­%@@@@@@À@’…¨z@}™‚}k@‰•¢£Õ‚™z@}ðòð÷}k@——“Ã„…z@}ÄÄ}k@ƒƒ£Õ‚™z@}òð÷ððõøøñò}k@“‰•’…„z@£™¤…@Ðk%@@@@@@À@’…¨z@}†ƒ}k@‰•¢£Õ‚™z@}ðñðñ}k@——“Ã„…z@}âå}k@ƒƒ£Õ‚™z@}ñðñððùððóô}k@“‰•’…„z@£™¤…k@–—…•Â“âƒ“…z@ðKó@Ðk%@@@@½k%@@@@—™–†‰“…z@À%@@@@@@‰•ƒ–”…z@óøðððk@ˆˆâ‰©…z@òk@’‰„¢z@ðk@ˆ¢Ã™z@£™¤…k@‰¢Ç‰‡z@£™¤…k@“£Æ‰••ƒ…z@£™¤…k@—™£•…™Á††‰•‰£¨z@ðK÷k%@@@@@@£¢£…z@À@†¤…“z@ñKók@¤£–z@ñKô@Ðk%@@@@@@ˆ‚‰£¢z@À@†¤…“z@À@„–¦z@ôk@ˆ–¤™z@÷Kõ@Ðk@‡™–ƒ…™‰…¢z@À@„–¦z@òk@ˆ–¤™z@ñù@Ð@Ðk%@@@@@@™–¤£‰•‡z@À@—™‰”™¨z@}™‚}k@¢¥‰•‡¢z@}†ƒ}@Ðk%@@@@Ðk%@@Ðk%@@À%@@@@ˆˆ‰„z@}ÈÈ`ÇùÃÅ`ó×Èã}k@†‰™¢£z@}Ç™ƒ…}k@“¢£z@}Ö’†–™}k@‚‰™£ˆÄ£z@}ñùõó`ðò`òñ}k@£§É„Ó¢£ôz@}÷÷øñ}k%@@@@„„™z@À@“‰•…ñz@}ñöñò@Õ@×…™“@â£}k@ƒ‰£¨Õ”…z@}Ñƒ’¢–•¥‰““…}k@¢£Ã„…z@}ÆÓ}k@©‰—Ã„…z@}óòòðö}@Ðk@—“ƒ…z@}¢—™‰•‡†‰…“„}k%@@@@‚“¤™‚z@}Ù…£‰™…„k@“‰¥‰•‡@–•@â–ƒ‰“@â…ƒ¤™‰£¨K@×™…¢ƒ™‰—£‰–•¢k@¤£‰“‰£‰…¢@•„@£ˆ…@‚¤¢K}k%@@@@ƒƒ–¤•£¢z@­%@@@@@@À@’…¨z@}¢‘}k@‰•¢£Õ‚™z@}ðõóó}k@——“Ã„…z@}ÄÄ}k@ƒƒ£Õ‚™z@}õóóððñòô÷ø}k@“‰•’…„z@£™¤…@Ðk%@@@@@@À@’…¨z@}¢¥}k@‰•¢£Õ‚™z@}ðõóó}k@——“Ã„…z@}âå}k@ƒƒ£Õ‚™z@}õóóððñòô÷ù}k@“‰•’…„z@£™¤…k@–—…•Â“âƒ“…z@ðKõ@Ðk%@@@@½k%@@@@—™–†‰“…z@À%@@@@@@‰•ƒ–”…z@òòðððk@ˆˆâ‰©…z@ñk@‰¢Ù…£‰™……z@£™¤…k@ˆ¢Ã™z@†“¢…k@–¦•¢È–”…z@†“¢…k@—™£•…™Á††‰•‰£¨z@ðKøk%@@@@@@£¢£…z@À@—ˆ™”ƒ¨z@ñKók@”…„‰ƒ“z@ñKò@Ðk%@@@@@@ˆ‚‰£¢z@À@—ˆ™”ƒ¨z@À@„–¦z@òk@ˆ–¤™z@ññ@Ðk@‡™–ƒ…™‰…¢z@À@„–¦z@ôk@ˆ–¤™z@ñðKõ@Ð@Ðk%@@@@@@™–¤£‰•‡z@À@—™‰”™¨z@}¢‘}k@¢¥‰•‡¢z@}¢¥}@Ðk%@@@@Ðk%@@Ðk%@@À%@@@@ˆˆ‰„z@}ÈÈ`Ñöæã`õÂÒÙ}k@†‰™¢£z@}Ñ”…¢}k@“¢£z@}æˆ‰£’…™}k@‚‰™£ˆÄ£z@}ñùøô`ññ`óð}k@£§É„Ó¢£ôz@}öðõó}k%@@@@„„™z@À@“‰•…ñz@}ññòôð@â•@Ñ–¢…@Â“¥„}k@ƒ‰£¨Õ”…z@}Ñƒ’¢–•¥‰““…}k@¢£Ã„…z@}ÆÓ}k@©‰—Ã„…z@}óòòòó}@Ðk@—“ƒ…z@}”•„™‰•}k%@@@@‚“¤™‚z@}Ô‰„„“…`¢ƒˆ––“@£…ƒˆ…™k@†”‰“¨@–†@†–¤™K@â£…„¨@—¨ƒˆ…ƒ’k@‚¤¢¨@ˆ–¤¢…ˆ–“„K}k%@@@@ƒƒ–¤•£¢z@­%@@@@@@À@’…¨z@}†ƒ}k@‰•¢£Õ‚™z@}ðñðñ}k@——“Ã„…z@}ÄÄ}k@ƒƒ£Õ‚™z@}ñðñððööòðó}k@“‰•’…„z@£™¤…@Ðk%@@@@@@À@’…¨z@}¢¥}k@‰•¢£Õ‚™z@}ðñðñ}k@——“Ã„…z@}âå}k@ƒƒ£Õ‚™z@}ñðñððööòðô}k@“‰•’…„z@£™¤…@Ðk%@@@@½k%@@@@—™–†‰“…z@À%@@@@@@‰•ƒ–”…z@öôðððk@ˆˆâ‰©…z@ôk@’‰„¢z@òk@ˆ¢Ã™z@£™¤…k@—¨Æ™…˜z@}¢…”‰”–•£ˆ“¨}k@…”—“–¨…™z@}ÄäåÁÓ@âÃÈÖÖÓâ}k@—™£•…™Á††‰•‰£¨z@ðKõõk%@@@@@@ˆ‚‰£¢z@À@‡™–ƒ…™‰…¢z@À@„–¦z@ök@ˆ–¤™z@ùKõ@Ðk@†¤…“z@À@„–¦z@ñk@ˆ–¤™z@ñ÷Kõ@Ð@Ðk%@@@@@@™–¤£‰•‡z@À@—™‰”™¨z@}†ƒ}k@¢¥‰•‡¢z@}¢¥}@Ðk%@@@@Ðk%@@Ðk%@@À%@@@@ˆˆ‰„z@}ÈÈ`×òèÕ`ùÆéÃ}k@†‰™¢£z@}×™‰¨}k@“¢£z@}Õ£™‘•}k@‚‰™£ˆÄ£z@}ñùø÷`ðö`ðø}k@£§É„Ó¢£ôz@}ùñòô}k%@@@@„„™z@À@“‰•…ñz@}ñõñõ@È…•„™‰ƒ’¢@Á¥…}k@ƒ‰£¨Õ”…z@}Ñƒ’¢–•¥‰““…}k@¢£Ã„…z@}ÆÓ}k@©‰—Ã„…z@}óòòð÷}@Ðk@—“ƒ…z@}¢•Ô™ƒ–}k%@@@@‚“¤™‚z@}â…•‰–™@…•‡‰•……™K@ã™¥…“k@„‰•‰•‡@•„@„…¢‰‡•@à¤òðñô@†…¦@…¥…™¨„¨@•……„¢@£–@™…¦™„K}k%@@@@ƒƒ–¤•£¢z@­%@@@@@@À@’…¨z@}ˆ¢}k@‰•¢£Õ‚™z@}ðóñõ}k@——“Ã„…z@}ÄÄ}k@ƒƒ£Õ‚™z@}óñõððññøôõ}k@“‰•’…„z@£™¤…@Ðk%@@@@@@À@’…¨z@}¢¥}k@‰•¢£Õ‚™z@}ðóñõ}k@——“Ã„…z@}âå}k@ƒƒ£Õ‚™z@}óñõððññøôö}k@“‰•’…„z@£™¤…@Ðk%@@@@½k%@@@@—™–†‰“…z@À%@@@@@@‰•ƒ–”…z@òñððððk@ˆˆâ‰©…z@ñk@ˆ¢Ã™z@£™¤…k@—¨Æ™…˜z@}”–•£ˆ“¨}k@…”—“–¨…™z@}ÂÁèÔÅÁÄÖæâ@ãÅÃÈ}k@—™£•…™Á††‰•‰£¨z@ðKók%@@@@@@£¢£…z@À@£™¥…“z@ñKôk@„‰•‰•‡z@ñKók@“¤§¤™¨z@ñKõ@Ðk%@@@@@@ˆ‚‰£¢z@À@‡™–ƒ…™‰…¢z@À@„–¦z@ók@ˆ–¤™z@ñù@Ð@Ðk%@@@@@@™–¤£‰•‡z@À@—™‰”™¨z@}ˆ¢}k@¢¥‰•‡¢z@}¢¥}@Ðk%@@@@Ðk%@@Ðk%½^%%ƒ–•¢£@‰„…•£‰£‰…¢@~@­½^%×ÅÙâÖÕÁâK†–™ÅƒˆMM—k@‰„§]@~n@À%@@ƒ–•¢£@™–¤£‰•‡@~@À%@@@@KKK—K—™–†‰“…K™–¤£‰•‡k%@@@@ƒƒ–¤•£¢z@—Kƒƒ–¤•£¢K”—MM]@~n@MÀ@’…¨z@K’…¨k@——“Ã„…z@K——“Ã„…k@–—…•Â“âƒ“…z@K–—…•Â“âƒ“…k@“‚…“z@ÉÕâãÉãäãÉÖÕâK†‰•„MM‰]@~n@‰K‰•¢£Õ‚™@~~~@K‰•¢£Õ‚™]K¢ˆ–™£Õ”…K£–ä——…™Ã¢…M]@Ð]]k%@@Ð^%@@ƒ–•¢£@‡…•…™£…„@~@‡…•…™£…È–¤¢…ˆ–“„MÀ@KKK—K—™–†‰“…k@™–¤£‰•‡@Ðk@À@¢……„z@õðð@N@‰„§@\@ñ÷k@…•„Ä¨z@ÅÕÄmÄÁèk@„¨¢z@ÄÁèâ@Ð]^%@@ƒ–•¢£@ƒ¤¢£Â¨É•¢£@~@ÀÐ^%@@ƒ–•¢£@“‰•’¢@~@­½^%@@†–™@Mƒ–•¢£@@–†@—Kƒƒ–¤•£¢]@À%@@@@ƒ¤¢£Â¨É•¢£­K‰•¢£Õ‚™½@OO~@„„Ã¤¢£–”…™MK‰•¢£Õ‚™k@À%@@@@@@•”…z@À@†™¢£Õ”…z@—K†‰™¢£k@“¢£Õ”…z@—K“¢£@Ðk@£§É„Ó¢£ôz@—K£§É„Ó¢£ôk@‚‰™£ˆÄ£z@—K‚‰™£ˆÄ£k@„„™z@—K„„™k%@@@@@@—ˆ–•…Õ‚™z@yùðôõõõ[Àâ£™‰•‡Mñððð@N@‰„§@\@ó÷]K¢“‰ƒ…M`ô]Ðyk@…”‰“Á„„™z@y[À—K†‰™¢£K£–Ó–¦…™Ã¢…M]ÐK[À—K“¢£K£–Ó–¦…™Ã¢…M]Ð|…§”—“…Kƒ–”yk%@@@@@@ƒ¤¢£â‰•ƒ…Ä£z@†™–”Ä¨MÅÕÄmÄÁè@`@™•„K‰•£M÷ððk@õððð]]k%@@@@Ð]^%@@@@ƒ–•¢£@‡@~@‡…•…™£…„K†‰•„MM§]@~n@§K’…¨@~~~@K’…¨]^%@@@@„„Áƒƒ–¤•£MÀ@‰•¢£Õ‚™z@K‰•¢£Õ‚™k@——“Ã„…z@K——“Ã„…k@ƒƒ£Õ‚™z@Kƒƒ£Õ‚™k@ƒ¤¢£Õ‚™z@ƒ¤¢£Â¨É•¢£­K‰•¢£Õ‚™½Kƒ¤¢£Õ‚™k@ƒ¤™Â“z@‡Kƒ¤™Â“k@£§•¢z@‡K£§•¢@Ð]^%@@@@‰†@MK“‰•’…„]@“‰•’¢K—¤¢ˆMÀ@‰•¢£Õ‚™z@K‰•¢£Õ‚™k@——“Ã„…z@K——“Ã„…k@ƒƒ£Õ‚™z@Kƒƒ£Õ‚™k@ƒ¤¢£Õ‚™z@ƒ¤¢£Â¨É•¢£­K‰•¢£Õ‚™½Kƒ¤¢£Õ‚™@Ð]^%@@Ð%@@ƒ–•¢£@¤•“‰•’…„@~@—Kƒƒ–¤•£¢K†‰“£…™MM]@~n@ZK“‰•’…„]K”—MM]@~n@MÀ@‰•¢£Õ‚™z@K‰•¢£Õ‚™k@——“Ã„…z@K——“Ã„…k@ƒƒ£Õ‚™z@Kƒƒ£Õ‚™k@£§É„Ó¢£ôz@—K£§É„Ó¢£ôk@©‰—Ã„…z@—K„„™K©‰—Ã„…@Ð]]^%@@‰„…•£‰£‰…¢K—¤¢ˆMÀ%@@@@ˆˆ‰„z@—Kˆˆ‰„k@†‰™¢£Õ”…z@—K†‰™¢£k@“¢£Õ”…z@—K“¢£k@‚“¤™‚z@—K‚“¤™‚k@©‰—Ã„…z@—K„„™K©‰—Ã„…k@—“ƒ…z@—K—“ƒ…k@£™¤…É•ƒ–”…z@—K—™–†‰“…K‰•ƒ–”…k%@@@@“–ƒ£‰–•z@À@“£z@”™’…£K•…‰‡ˆ‚–™ˆ––„¢­—K—“ƒ…½Kƒ…•£…™­ð½k@“•‡z@”™’…£K•…‰‡ˆ‚–™ˆ––„¢­—K—“ƒ…½Kƒ…•£…™­ñ½k@“‚…“z@—K—“ƒ…@Ðk%@@@@“‰•’¢k@„…”–ä•“‰•’…„z@¤•“‰•’…„k%@@Ð]^%Ð]^%%aa@````````````````````````````````````````````````````````````````@—™–‡™”k@—™£•…™@•„@ƒˆ™‰£¨@ƒƒ–¤•£¢%ƒ–•¢£@‚‰©Ã¤¢£–”…™@~@M‰•¢£Õ‚™k@•”…]@~n@„„Ã¤¢£–”…™M‰•¢£Õ‚™k@À%@@ƒ¤¢£ã¨—Ã„…z@}Â}k@•”…z@À@‚‰©Õ”…z@•”…@Ðk@„„™z@À@“‰•…ñz@}à¤òðñô}k@ƒ‰£¨Õ”…z@}Ñƒ’¢–•¥‰““…}k@¢£Ã„…z@}ÆÓ}k@©‰—Ã„…z@}óòòðò}@Ðk%@@ƒ¤¢£â‰•ƒ…Ä£z@†™–”Ä¨MÅÕÄmÄÁè@`@™•„K‰•£Mñõððk@öððð]]k%Ð]^%%ƒ–•¢£@—––“Ã¤¢£@~@‚‰©Ã¤¢£–”…™MÙÅæÁÙÄâm×ÖÖÓK‰•¢£Õ‚™k@ÙÅæÁÙÄâm×ÖÖÓK•”…]^%„„Áƒƒ–¤•£MÀ@KKKÙÅæÁÙÄâm×ÖÖÓk@ƒ¤¢£Õ‚™z@—––“Ã¤¢£Kƒ¤¢£Õ‚™k@ƒ¤™Â“z@òmõððmðððk@‚‰©z@£™¤…@Ð]^%ƒ–•¢£@†¤•„Ã¤¢£@~@‚‰©Ã¤¢£–”…™MÕÅÉÇÈÂÖÙmÆäÕÄK‰•¢£Õ‚™k@ÕÅÉÇÈÂÖÙmÆäÕÄK•”…]^%„„Áƒƒ–¤•£MÀ@KKKÕÅÉÇÈÂÖÙmÆäÕÄk@ƒ¤¢£Õ‚™z@†¤•„Ã¤¢£Kƒ¤¢£Õ‚™k@ƒ¤™Â“z@ðk@‚‰©z@£™¤…@Ð]^%%“…£@ƒƒ£â…˜@~@÷ððð^%ƒ–•¢£@•…§£Áƒƒ£@~@M‰•¢£Õ‚™]@~n@y[À‰•¢£Õ‚™K¢“‰ƒ…Mñ]Ððð[ÀNNƒƒ£â…˜ÐyK—„Å•„Mñðk@}ð}]K¢“‰ƒ…Mðk@ñð]^%%ƒ–•¢£@—™£•…™¢@~@×ÁÙãÕÅÙâK”—MM—]@~n@À%@@ƒ–•¢£@ƒ¤¢£@~@‚‰©Ã¤¢£–”…™M—K¢…££“…É•¢£k@—K•”…]^%@@ƒ–•¢£@ƒƒ£@~@„„Áƒƒ–¤•£MÀ@‰•¢£Õ‚™z@—K¢…££“…É•¢£k@——“Ã„…z@}ÄÄ}k@ƒƒ£Õ‚™z@•…§£Áƒƒ£M—K¢…££“…É•¢£]k@ƒ¤¢£Õ‚™z@ƒ¤¢£Kƒ¤¢£Õ‚™k@ƒ¤™Â“z@™•„K¤•‰†–™”Møðmðððk@öððmððð]k@‚‰©z@£™¤…@Ð]^%@@™…£¤™•@À%@@@@‰„z@—K‰„k@•”…z@—K•”…k@ƒ£…‡–™¨z@—Kƒ£…‡–™¨k@ƒ£…‡–™¨Ó‚…“z@ÃÁãÅÇÖÙÉÅâ­—Kƒ£…‡–™¨½K“‚…“k@”ƒƒz@—K”ƒƒk@‚“¤™‚z@—K‚“¤™‚k%@@@@”™ƒˆÉ„z@×ÁÙãÕÅÙmÔÅÙÃÈÁÕãmÉÄâ­—K‰„½k@—¨……Ã£Ã„…z@—K—¨……@OO@•¤““k@“–ƒ£‰–•z@—K“–ƒ£‰–•@OO@•¤““k%@@@@¢…££“…”…•£z@À@‰•¢£Õ‚™z@ƒƒ£K‰•¢£Õ‚™k@——“Ã„…z@ƒƒ£K——“Ã„…k@ƒƒ£Õ‚™z@ƒƒ£Kƒƒ£Õ‚™k@™£•Õ‚™z@ƒƒ£K™£•Õ‚™@Ðk%@@@@‰”‡…z@yƒ£`[À—Kƒ£…‡–™¨@~~~@}ˆ–¤¢…ˆ–“„}@o@}ˆ–”…}@z@—Kƒ£…‡–™¨Ðyk%@@Ð^%Ð]^%%aa@Ù…“@Ñƒ’¢–•¥‰““…@ƒˆ™‰£‰…¢@M—¤““…„@†™–”@ÉÙâ@„£]K@ãˆ…‰™@ƒƒ–¤•£¢@‰•@£ˆ…@†’…@ƒ–™…@™…@„…”–`–•“¨%aa@¢…££“…”…•£@ƒƒ–¤•£¢^@•–@™…“@†¤•„¢@”–¥…K%ƒ–•¢£@âÅããÓÅmÉÕâãâ@~@­}ðñðñ}k@}ðòð÷}k@}ðóñõ}k@}ðõóó}½^%ƒ–•¢£@ƒˆ™‰£‰…¢@~@”™’…£Ãˆ™‰£‰…¢K”—MMƒk@‰]@~n@À%@@ƒ–•¢£@‰•¢£@~@âÅããÓÅmÉÕâãâ­‰@l@âÅããÓÅmÉÕâãâK“…•‡£ˆ½^%@@ƒ–•¢£@ƒ¤¢£@~@‚‰©Ã¤¢£–”…™M‰•¢£k@ƒK•”…]^%@@ƒ–•¢£@ƒƒ£@~@„„Áƒƒ–¤•£MÀ@‰•¢£Õ‚™z@‰•¢£k@——“Ã„…z@}ÄÄ}k@ƒƒ£Õ‚™z@•…§£Áƒƒ£M‰•¢£]k@ƒ¤¢£Õ‚™z@ƒ¤¢£Kƒ¤¢£Õ‚™k@ƒ¤™Â“z@ðk@‚‰©z@£™¤…@Ð]^%@@™…£¤™•@À%@@@@‰„z@¢“¤‡MƒK•”…]k@•”…z@ƒK•”…k@“…‡“Õ”…z@ƒK‰™¢K“…‡“Õ”…k@…‰•z@ƒK…‰•k@ƒ¤¢…z@ƒKƒ¤¢…k@ƒ¤¢…Ó‚…“z@ÃÁäâÅâ­ƒKƒ¤¢…½k%@@@@”‰¢¢‰–•z@ƒK”‰¢¢‰–•k@¦…‚¢‰£…z@ƒK¦…‚¢‰£…k@‰”‡…z@ƒK‰”‡…k@‰”—ƒ£z@ƒK‰”—ƒ£k%@@@@„„™…¢¢z@ƒK„„™…¢¢k@”‰“‰•‡Ö•“¨z@a_—–@‚–§a‰K£…¢£MƒK‰™¢K„„™…¢¢]k@•£……z@ƒK‰™¢K•£……k@“£…¢£Æ‰“‰•‡z@ƒK‰™¢K“£…¢£Æ‰“‰•‡k%@@@@“–ƒ£‰–•z@À@“£z@ƒK“–ƒ£‰–•K“£k@“•‡z@ƒK“–ƒ£‰–•K“•‡k@——™–§‰”£…z@ZƒK“–ƒ£‰–•K‡…–ƒ–„…„@Ðk%@@@@”™’…£z@”™’…£K‰„k%@@@@¢…££“…”…•£z@À@‰•¢£Õ‚™z@ƒƒ£K‰•¢£Õ‚™k@——“Ã„…z@ƒƒ£K——“Ã„…k@ƒƒ£Õ‚™z@ƒƒ£Kƒƒ£Õ‚™k@™£•Õ‚™z@ƒƒ£K™£•Õ‚™k@¢‰”¤“£…„z@£™¤…@Ðk%@@Ð^%Ð]^%%aa@````````````````````````````````````````````````````````````````@¢¨•£ˆ…£‰ƒ@ƒ–””¤•‰£¨%aa@È–¤¢…ˆ–“„¢@ƒ™–¢¢@Ñƒ’¢–•¥‰““…@•…‰‡ˆ‚–™ˆ––„¢k@¢£–™…„@‰•@£ˆ…@ƒ–™…@¢@„…£…™”‰•‰¢£‰ƒ@‡…•…™£‰–•@™…ƒ‰—…¢%aa@M£ˆ…@ƒ–™…@…§—•„¢@£ˆ…”@‰•£–@£™•¢ƒ£‰–•¢@£@¢£™£¤—]@¢–@£ˆ…@—–—¤“£‰–•@¢£¨¢@¢”““@–•@„‰¢’K%ƒ–•¢£@ÃÙÖÃÒÆÖÙÄ@~@}ðñòóôõö÷øùÁÂÃÄÅÆÇÈÑÒÔÕ×ØÙâãåæçèé}^%ƒ–•¢£@ˆˆ‰„Ã–„…@~@M]@~n@yÈÈ`[ÀÁ™™¨K†™–”MÀ@“…•‡£ˆz@ô@Ðk@M]@~n@™•„K—‰ƒ’M­KKKÃÙÖÃÒÆÖÙÄ½]]K‘–‰•M}}]Ð`[ÀÁ™™¨K†™–”MÀ@“…•‡£ˆz@ô@Ðk@M]@~n@™•„K—‰ƒ’M­KKKÃÙÖÃÒÆÖÙÄ½]]K‘–‰•M}}]Ðy^%ƒ–•¢£@âãÙÅÅãâ@~@­}Ö’@â£}k@}×“”@Á¥…}k@}Ô‡•–“‰@Ä™}k@}Ã…„™@Ó•}k@}×‰•…@â£}k@}Ó‰¥…@Ö’@Ã£}k@}Ã¨—™…¢¢@Ù„}k@}Â¨@â£}k@}æ‰““–¦@æ¨}k@}Ä–‡¦––„@Ä™}½^%ƒ–•¢£@ƒ–””¤•‰£¨@~@­½^%ƒ–•¢£@¢‰”¤“£‰–•@~@À@¦‰•„–¦Ä¨¢z@ÃÖÔÔäÕÉãèmÄÁèâk@•–£…z@}â¨•£ˆ…£‰ƒ@ˆ–¤¢…ˆ–“„¢@¢£–™…„@¢@‡…•…™£‰–•@™…ƒ‰—…¢^@£ˆ…@ƒ–™…@…§—•„¢@£ˆ…”@‰•£–@£™•¢ƒ£‰–•¢@£@¢£™£¤—K}k@ˆ–¤¢…ˆ–“„¢z@­½@Ð^%“…£@ˆˆâ…˜@~@ð^%†–™@Mƒ–•¢£@­™…Ò…¨k@™…½@–†@Ö‚‘…ƒ£K…•£™‰…¢M”™’…£K•…‰‡ˆ‚–™ˆ––„¢]]@À%@@†–™@M“…£@‰@~@ð^@‰@L@ÃÖÔÔäÕÉãèm×ÅÙmÁÙÅÁ^@‰NNk@ˆˆâ…˜NN]@À%@@@@ƒ–•¢£@‰•ƒ–”…@~@Ô£ˆK™–¤•„Mƒ“”—M™•„K“–‡•–™”“MÔ£ˆK“–‡M™…K”…„‰•É•ƒ–”…]k@ðKõ]k@ñòðððk@ôððððð]]^%@@@@ƒ–•¢£@—™–†‰“…@~@—™–†‰“…Æ–™É•ƒ–”…M™•„k@‰•ƒ–”…]^%@@@@ƒ–•¢£@‰•¢£@~@™•„K—‰ƒ’MâÅããÓÅmÉÕâãâ]^%@@@@ƒ–•¢£@†‰™¢£Õ”…@~@™•„K—‰ƒ’MÆÉÙâãmÕÁÔÅâ]k@“¢£Õ”…@~@™•„K—‰ƒ’MÓÁâãmÕÁÔÅâ]^%@@@@ƒ–•¢£@ƒ¤¢£@~@„„Ã¤¢£–”…™M‰•¢£k@À%@@@@@@•”…z@À@†™¢£Õ”…z@†‰™¢£Õ”…k@“¢£Õ”…z@“¢£Õ”…@Ðk@£§É„Ó¢£ôz@â£™‰•‡M™•„K‰•£Mñðððk@ùùùù]]k%@@@@@@„„™z@À@“‰•…ñz@y[À™•„K‰•£Mñððk@ùùùù]Ð@[À™•„K—‰ƒ’MâãÙÅÅãâ]Ðyk@ƒ‰£¨Õ”…z@}Ñƒ’¢–•¥‰““…}k@¢£Ã„…z@}ÆÓ}k@©‰—Ã„…z@™…K©‰—@Ðk%@@@@@@ƒ¤¢£â‰•ƒ…Ä£z@†™–”Ä¨MÅÕÄmÄÁè@`@™•„K‰•£Móððk@öððð]]k@¢¨•£ˆ…£‰ƒz@£™¤…k%@@@@Ð]^%@@@@ƒ–•¢£@‚¢…@~@y[À‰•¢£K¢“‰ƒ…Mñ]Ð[Àâ£™‰•‡Mõððððð@N@ˆˆâ…˜@\@ò]K—„â£™£M÷k@}ð}]Ðy^%@@@@ƒ–•¢£@“‰•’¢@~@­%@@@@@@À@‰•¢£Õ‚™z@‰•¢£k@——“Ã„…z@}ÄÄ}k@ƒƒ£Õ‚™z@‚¢…k@ƒ¤¢£Õ‚™z@ƒ¤¢£Kƒ¤¢£Õ‚™@Ðk%@@@@@@À@‰•¢£Õ‚™z@‰•¢£k@——“Ã„…z@}âå}k@ƒƒ£Õ‚™z@â£™‰•‡MÕ¤”‚…™M‚¢…]@N@ñ]k@ƒ¤¢£Õ‚™z@ƒ¤¢£Kƒ¤¢£Õ‚™@Ðk%@@@@½^%@@@@†–™@Mƒ–•¢£@“@–†@“‰•’¢]@„„Áƒƒ–¤•£MÀ@KKK“k@ƒ¤™Â“z@ð@Ð]^%@@@@¢‰”¤“£‰–•Kˆ–¤¢…ˆ–“„¢K—¤¢ˆMÀ@ƒ¤¢£Õ‚™z@ƒ¤¢£Kƒ¤¢£Õ‚™k@‰•¢£Õ‚™z@‰•¢£k@ƒƒ–¤•£¢z@“‰•’¢K”—MM“]@~n@MÀ@’…¨z@“K——“Ã„…@~~~@}ÄÄ}@o@}„„}@z@}¢¥}k@——“Ã„…z@“K——“Ã„…k@ƒƒ£Õ‚™z@“Kƒƒ£Õ‚™@Ð]]k@—™–†‰“…k@¢……„z@ùððð@N@ˆˆâ…˜@Ð]^%@@@@ƒ–””¤•‰£¨K—¤¢ˆMÀ@ˆˆ‰„z@ˆˆ‰„Ã–„…M]k@†‰™¢£Õ”…k@“¢£Õ”…k@™…z@™…Ò…¨k@“‰•’¢k@£™¤…É•ƒ–”…z@‰•ƒ–”…@Ð]^%@@Ð%Ð%%ƒ–•¢£@–††…™¢@~@ÖÆÆÅÙâK”—MM–]@~n@À%@@ƒ–•¢£@—™£•…™@~@—™£•…™¢K†‰•„MM—]@~n@—K‰„@~~~@–K—™£•…™É„]^%@@™…£¤™•@À%@@@@KKK–k@ƒ£…‡–™¨z@—™£•…™Kƒ£…‡–™¨k@‰”‡…z@–K‰”‡…@OO@—™£•…™K‰”‡…k%@@@@“––’‚ƒ’Ä¨¢z@óðk@…§—‰™…¢É•Ä¨¢z@óð@N@™•„K‰•£Mðk@ôõ]k%@@@@“…‡ƒ¨Ã–„…z@yÈÈ[À—™£•…™K”ƒƒÐ[À–K‰„K¢“‰ƒ…Môk@ø]K£–ä——…™Ã¢…M]K™…—“ƒ…Ma­_Á`é½a‡k@}ç}]Ð[À™•„K‰•£Mñðk@ùù]Ðyk%@@Ð^%Ð]^%%ƒ–•¢£@–——–™£¤•‰£‰…¢@~@ƒˆ™‰£‰…¢%@@K†“£Ô—MMƒ]@~n@MâÁÔ×ÓÅmâÈÉÆãâ­ƒK…‰•½@OO@­½]K”—MM¢]@~n@MÀ@ƒˆ™‰£¨É„z@ƒK‰„k@KKK¢k@¢”—“…z@£™¤…@Ð]]]%@@K”—MM–k@‰]@~n@MÀ@‰„z@y–——`[Àâ£™‰•‡M‰@N@ñ]K—„â£™£Mók@}ð}]Ðyk@KKK–@Ð]]^%%aa@````````````````````````````````````````````````````````````````@¦™‰£…%ƒ–•¢£@”…£@~@À@¢Ö†Ä£z@†™–”Ä¨MÅÕÄmÄÁè]k@‡…•…™£…„Á£z@•…¦@Ä£…M]K£–ÉâÖâ£™‰•‡M]k@–™‡•‰©£‰–•É„z@}ÈÈÄÅÔÖ}k@†‰ƒ£‰–•“z@£™¤…k@¦‰•„–¦Ä¨¢z@ÄÁèâ@Ð^%ƒ–•¢£@ƒ–™…@~@À@”…£k@‰•¢£‰£¤£‰–•¢z@ÉÕâãÉãäãÉÖÕâk@ƒ¤¢£–”…™¢k@ƒƒ–¤•£¢k@£™•¢ƒ£‰–•¢k@¢‰”¤“£‰–•@Ð^%¦™‰£…Æ‰“…â¨•ƒMy[À„‰™Ð†‰¢`ƒ–™…K‘¢–•yk@ÑâÖÕK¢£™‰•‡‰†¨Mƒ–™…]]^%¦™‰£…Æ‰“…â¨•ƒMy[À„‰™Ðƒ£“–‡K‘¢–•yk@ÑâÖÕK¢£™‰•‡‰†¨MÀ%@@”™’…£z@À@KKK”™’…£k@ƒˆ™‰£‰…¢×¤““…„Á£z@—¤““…„Á£@Ðk@—™£•…™¢k@–††…™¢k@ƒˆ™‰£‰…¢k@–——–™£¤•‰£‰…¢k@ƒ¤¢…¢z@ÃÁäâÅâk%@@ƒ”—‰‡•¢z@ÃÁÔ×ÁÉÇÕâk@ƒ–””¤•‰£¨Ç–“z@ÃÖÔÔäÕÉãèmÇÖÁÓk@™…¦™„¢×––“z@ÙÅæÁÙÄâm×ÖÖÓk@•…‰‡ˆ‚–™Æ¤•„z@ÕÅÉÇÈÂÖÙmÆäÕÄk%Ðk@•¤““k@ò]]^%¦™‰£…Æ‰“…â¨•ƒMy[À„‰™Ð‰„…•£‰£‰…¢K‘¢–•yk@ÑâÖÕK¢£™‰•‡‰†¨MÀ@”…£k@‰„…•£‰£‰…¢k@ƒ–””¤•‰£¨@Ðk@•¤““k@ò]]^%%ƒ–•¢£@£§Ã–¤•£@~@Ö‚‘…ƒ£K¥“¤…¢M£™•¢ƒ£‰–•¢]K™…„¤ƒ…MMk@£]@~n@@N@£K“…•‡£ˆk@ð]^%ƒ–•¢–“…K“–‡Myâ££‰ƒ@ÄÂ@¦™‰££…•@M¢@–†@[À”…£K¢Ö†Ä£Ð]z@[ÀÉÕâãÉãäãÉÖÕâK“…•‡£ˆÐ@‰•¢£‰£¤£‰–•¢k@[Àƒ¤¢£–”…™¢K“…•‡£ˆÐ@ƒ¤¢£–”…™¢k@[Àƒƒ–¤•£¢K“…•‡£ˆÐ@ƒƒ–¤•£¢k@[À£§Ã–¤•£Ð@¢£–™…„@£™•¢ƒ£‰–•¢y]^%ƒ–•¢–“…K“–‡MyÃ–””¤•‰£¨z@[Àƒ–””¤•‰£¨K“…•‡£ˆÐ@¢¨•£ˆ…£‰ƒ@ˆ–¤¢…ˆ–“„¢@ƒ™–¢¢@[ÀÖ‚‘…ƒ£K’…¨¢M”™’…£K•…‰‡ˆ‚–™ˆ––„¢]K“…•‡£ˆÐ@[À”™’…£K•”…Ð@•…‰‡ˆ‚–™ˆ––„¢@M…§—•„…„@£@¢£™£¤—]y]^%ƒ–•¢–“…K“–‡MyÃ£“–‡z@[À—™£•…™¢K“…•‡£ˆÐ@—™£•…™¢k@[À–††…™¢K“…•‡£ˆÐ@–††…™¢k@[Àƒˆ™‰£‰…¢K“…•‡£ˆÐ@™…“@ƒˆ™‰£‰…¢k@[À–——–™£¤•‰£‰…¢K“…•‡£ˆÐ@¢”—“…@¥–“¤•£……™@¢ˆ‰†£¢y]^%†–™@Mƒ–•¢£@‰„@–†@‰„…•£‰£‰…¢]@À%@@ƒ–•¢£@‚“@~@‰„K“‰•’¢K”—MM“]@~n@ƒƒ–¤•£¢K†‰•„MM]@~n@Kƒƒ£Õ‚™@~~~@“Kƒƒ£Õ‚™]Kƒ¤™Â“]^%@@ƒ–•¢–“…K“–‡My@@[À‰„Kˆˆ‰„Ð@@[À‰„K†‰™¢£Õ”…K—„Å•„M÷]Ð@“‰•’…„@[À‰„K“‰•’¢K“…•‡£ˆÐk@‚“•ƒ…¢@[À‚“K”—MM‚]@~n@‚K£–Æ‰§…„Mð]]K‘–‰•M}@a@}]Ð[À‰„K„…”–ä•“‰•’…„K“…•‡£ˆ@o@yk@N[À‰„K„…”–ä•“‰•’…„K“…•‡£ˆÐ@¤•“‰•’…„y@z@}}Ðy]^%Ð%
+// Builds the static DB: the fake FIS core (institutions, customers, accounts, transactions),
+// the Helping Hands catalog (partners, offers, charities, volunteer shifts), demo identities and a
+// synthetic community of Jacksonville households.
+import { writeFileSync, mkdirSync, readFileSync } from 'node:fs';
+import { fileURLToPath } from 'node:url';
+import { generateHousehold, makeRandom, profileForIncome, PARTNER_MERCHANT_IDS } from './generator.js';
+import {
+  INSTITUTIONS, REWARDS_POOL, NEIGHBOR_FUND, PARTNERS, OFFERS, SAMPLE_SHIFTS, CAUSES, CAMPAIGNS, COMMUNITY_GOAL, FIRST_NAMES, LAST_NAMES,
+} from './catalog-data.js';
+import { CATEGORIES } from '../src/lib/mcc.js';
+import { todayDay, fromDay } from '../src/lib/dates.js';
+
+const dir = fileURLToPath(new URL('../data/seed/', import.meta.url));
+mkdirSync(dir, { recursive: true });
+const MARKET = 'jacksonville-fl';
+const { market, charities: marketCharities, pulledAt } = JSON.parse(readFileSync(`${dir}markets/${MARKET}.json`, 'utf8'));
+const END_DAY = todayDay();
+const DAYS = 180;
+const COMMUNITY_DAYS = 120;
+const COMMUNITY_PER_AREA = 22;
+const rnd = makeRandom(7);
+const clamp = (x, lo, hi) => Math.min(hi, Math.max(lo, x));
+const slug = (s) => s.toLowerCase().replace(/\(.*?\)/g, '').replace(/&/g, 'and').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+
+const PRODUCTS = {
+  DD: { prodCde: 'ECHK', prodDesc: 'Essential Checking' },
+  SV: { prodCde: 'SSAV', prodDesc: 'Share Savings' },
+  BIZ: { prodCde: 'BCHK', prodDesc: 'Business Checking' },
+};
+
+const customers = [];
+const accounts = [];
+const transactions = {};
+const custSeq = {};
+const acctKey = (a) => `${a.instNbr}-${a.applCde}-${a.acctNbr}`;
+
+function addCustomer(instNbr, data) {
+  custSeq[instNbr] = (custSeq[instNbr] || 400) + rnd.int(3, 40);
+  const custNbr = `${instNbr.slice(2)}${String(custSeq[instNbr]).padStart(8, '0')}`;
+  const c = { instNbr, custNbr, custTypCde: 'P', custStatCde: 'A', ...data };
+  customers.push(c);
+  return c;
+}
+
+function addAccount({ instNbr, applCde, acctNbr, custNbr, curBal, txns = [], biz = false, openDt }) {
+  const prod = biz ? PRODUCTS.BIZ : PRODUCTS[applCde];
+  const a = {
+    instNbr, applCde, acctNbr, custNbr, ...prod, acctStatCde: 'A',
+    openDt: openDt || fromDay(END_DAY - rnd.int(400, 3000)),
+    curBal: Math.round(curBal * 100) / 100,
+    availBal: Math.round(Math.max(0, curBal) * 100) / 100,
+    rtnNbr: INSTITUTIONS.find((i) => i.instNbr === instNbr).rtnNbr,
+  };
+  accounts.push(a);
+  transactions[acctKey(a)] = txns;
+  return a;
+}
+
+// ---------------------------------------------------------------- personas
+const PERSONAS = [
+  {
+    hhid: 'HH-7KQ3-M2XA', first: 'Maya', last: 'Thompson', birthDt: '1991-04-12', taxIdLast4: '4417',
+    addr: { line1: '1847 Lone Star Rd', cityNme: 'Jacksonville', stCde: 'FL', zipCde: '32211' }, place: 'arlington',
+    blurb: 'Single parent of two, hourly retail. Childcare, groceries and an aging car.',
+    accounts: [
+      { key: 'fc', instNbr: '0101', applCde: 'DD', acctNbr: '1010042187', linked: true },
+      { key: 'rb', instNbr: '0207', applCde: 'SV', acctNbr: '2070031955', linked: true, openBalScale: 0.15 },
+      { key: 'hs', instNbr: '0315', applCde: 'DD', acctNbr: '3150077310', linked: false },
+    ],
+    profile: {
+      income: 28500, hhSize: 3, kids: 2, youngKids: 1, hasCar: true, payFreq: 'biweekly', employer: 'PALMETTO HOME SUPPLY',
+      benefitMonthly: 180, benefitSource: 'STATE FAMILY ASSIST', altFinance: false, partnerAffinity: 0.8, overdraftProb: 0.35,
+      habits: { groceries: { dow: 0, hour: 10 }, pharmacy: { dow: 3, hour: 17.5 } }, // Sunday-morning grocery run
+      routing: { primary: 'fc', savings: 'rb', depositSplit: { fc: 0.78, hs: 0.22 }, spendRoute: { groceries: { hs: 0.4 }, pharmacy: { hs: 0.4 }, childcare: { hs: 1 } } },
+    },
+  },
+  {
+    hhid: 'HH-R4DN-8VWE', first: 'Daniel', last: 'Reyes', birthDt: '1988-09-03', taxIdLast4: '2290',
+    addr: { line1: '7643 103rd St', cityNme: 'Jacksonville', stCde: 'FL', zipCde: '32210' }, place: 'westside',
+    blurb: 'Rideshare and delivery driver with week-to-week income. Fuel and repairs dominate.',
+    accounts: [
+      { key: 'rb', instNbr: '0207', applCde: 'DD', acctNbr: '2070058812', linked: true },
+      { key: 'fc', instNbr: '0101', applCde: 'SV', acctNbr: '1010090034', linked: true, openBalScale: 0.3 },
+    ],
+    profile: {
+      income: 38000, hhSize: 2, kids: 0, hasCar: true, isGig: true, altFinance: true, partnerAffinity: 0.7,
+      taste: { fuel: 1.3, auto: 1.4 },
+      habits: { fuel: { dow: 4, hour: 7.5 }, groceries: { dow: 2, hour: 19 } },
+      routing: { primary: 'rb', savings: 'fc' },
+    },
+  },
+  {
+    hhid: 'HH-G9CE-3PHT', first: 'Grace', last: 'Okafor', birthDt: '1953-02-21', taxIdLast4: '7781',
+    addr: { line1: '1612 N Pearl St', cityNme: 'Jacksonville', stCde: 'FL', zipCde: '32206' }, place: 'springfield',
+    blurb: 'Retired, living on Social Security. Prescriptions, utilities and the bus.',
+    accounts: [
+      { key: 'sj', instNbr: '0533', applCde: 'DD', acctNbr: '5330012478', linked: true },
+      { key: 'sv', instNbr: '0533', applCde: 'SV', acctNbr: '5330012479', linked: true, openBalScale: 0.5 },
+    ],
+    profile: {
+      income: 22000, hhSize: 1, isRetiree: true, hasCar: false, ownsHome: false, partnerAffinity: 0.8,
+      taste: { pharmacy: 1.3, medical: 1.2 },
+      habits: { pharmacy: { dow: 2, hour: 11 }, groceries: { dow: 4, hour: 10.5 } },
+      routing: { primary: 'sj', savings: 'sv' },
+    },
+  },
+  {
+    hhid: 'HH-J6WT-5BKR', first: 'James', last: 'Whitaker', birthDt: '1984-11-30', taxIdLast4: '6053',
+    addr: { line1: '11240 San Jose Blvd', cityNme: 'Jacksonville', stCde: 'FL', zipCde: '32223' }, place: 'mandarin',
+    blurb: 'Middle-school teacher, family of four. Steady paycheck, busy household.',
+    accounts: [
+      { key: 'fc', instNbr: '0101', applCde: 'DD', acctNbr: '1010066203', linked: true },
+      { key: 'sv', instNbr: '0101', applCde: 'SV', acctNbr: '1010066204', linked: true },
+    ],
+    profile: {
+      income: 64000, hhSize: 4, kids: 2, hasCar: true, payFreq: 'semimonthly', employer: 'DUVAL SCHOOLS', partnerAffinity: 0.55,
+      habits: { groceries: { dow: 6, hour: 9.5 }, fuel: { dow: 1, hour: 17.5 } },
+      routing: { primary: 'fc', savings: 'sv' },
+    },
+  },
+  {
+    hhid: 'HH-P2YN-9FZC', first: 'Priya', last: 'Natarajan', birthDt: '1987-06-08', taxIdLast4: '9124',
+    addr: { line1: '1515 Hendricks Ave', cityNme: 'Jacksonville', stCde: 'FL', zipCde: '32207' }, place: 'sanMarco',
+    blurb: 'Senior engineer. Travel, dining and design \u2014 few everyday needs to reward.',
+    accounts: [
+      { key: 'hs', instNbr: '0315', applCde: 'DD', acctNbr: '3150011845', linked: true },
+      { key: 'sv', instNbr: '0315', applCde: 'SV', acctNbr: '3150011846', linked: true },
+    ],
+    profile: {
+      income: 210000, hhSize: 1, hasCar: true, payFreq: 'monthly', employer: 'BAYMEADOWS TECH', partnerAffinity: 0.3,
+      taste: { travel: 1.4, dining: 1.3, luxury: 1.5 },
+      habits: { groceries: { dow: 3, hour: 19 } },
+      routing: { primary: 'hs', savings: 'sv' },
+    },
+  },
+];
+
+const identities = [];
+PERSONAS.forEach((p, idx) => {
+  const routing = {
+    ...p.profile.routing,
+    accounts: p.accounts.map((a) => ({ key: a.key, applCde: a.applCde, openBalScale: a.openBalScale, label: INSTITUTIONS.find((i) => i.instNbr === a.instNbr).shortNme.toUpperCase() })),
+  };
+  const generated = generateHousehold({ ...p.profile, routing }, { seed: 500 + idx * 17, endDay: END_DAY, days: DAYS });
+  const custByInst = {};
+  const links = [];
+  for (const a of p.accounts) {
+    custByInst[a.instNbr] ||= addCustomer(a.instNbr, {
+      nme: { frstNme: p.first, lstNme: p.last }, taxIdLast4: p.taxIdLast4, birthDt: p.birthDt, addr: p.addr,
+      phoneNbr: `904555${String(1000 + idx * 37).slice(-4)}`, emailAddr: `${p.first.toLowerCase()}.${p.last.toLowerCase()}@example.com`,
+      custSinceDt: fromDay(END_DAY - rnd.int(700, 5000)),
+    });
+    const g = generated.find((x) => x.key === a.key);
+    addAccount({ instNbr: a.instNbr, applCde: a.applCde, acctNbr: a.acctNbr, custNbr: custByInst[a.instNbr].custNbr, curBal: g.curBal, txns: g.txns });
+    if (a.linked) links.push({ instNbr: a.instNbr, applCde: a.applCde, acctNbr: a.acctNbr, custNbr: custByInst[a.instNbr].custNbr });
+  }
+  const unlinked = p.accounts.filter((a) => !a.linked).map((a) => ({ instNbr: a.instNbr, applCde: a.applCde, acctNbr: a.acctNbr, taxIdLast4: p.taxIdLast4, zipCde: p.addr.zipCde }));
+  identities.push({
+    hhid: p.hhid, firstName: p.first, lastName: p.last, blurb: p.blurb, zipCde: p.addr.zipCde, place: p.place, trueIncome: p.profile.income,
+    location: { lat: market.neighborhoods[p.place].center[0], lng: market.neighborhoods[p.place].center[1], label: p.place },
+    links, demoUnlinked: unlinked,
+  });
+});
+
+// ---------------------------------------------------------------- program, partner and charity accounts
+const bizCustomer = (instNbr, name) => addCustomer(instNbr, {
+  custTypCde: 'B', nme: { bizNme: name }, addr: { line1: '\u2014', cityNme: 'Jacksonville', stCde: 'FL', zipCde: '32202' },
+  custSinceDt: fromDay(END_DAY - rnd.int(1500, 6000)),
+});
+
+const poolCust = bizCustomer(REWARDS_POOL.instNbr, REWARDS_POOL.nme);
+addAccount({ ...REWARDS_POOL, custNbr: poolCust.custNbr, curBal: 2_500_000, biz: true });
+const fundCust = bizCustomer(NEIGHBOR_FUND.instNbr, NEIGHBOR_FUND.nme);
+addAccount({ ...NEIGHBOR_FUND, custNbr: fundCust.custNbr, curBal: 0, biz: true });
+
+let acctSeq = 7000;
+const nextAcct = (instNbr) => `${instNbr.slice(1)}00${++acctSeq}`.padEnd(10, '0').slice(0, 10);
+
+const partners = PARTNERS.map((p) => {
+  const cust = bizCustomer(p.settleInst, p.name);
+  const acct = addAccount({ instNbr: p.settleInst, applCde: 'DD', acctNbr: nextAcct(p.settleInst), custNbr: cust.custNbr, curBal: rnd.uniform(80_000, 600_000), biz: true });
+  return {
+    id: p.id, name: p.name, category: p.category, categoryLabel: CATEGORIES[p.category].label, mcc: p.mcc, blurb: p.blurb,
+    mrchId: PARTNER_MERCHANT_IDS[p.id], payeeCatCde: p.payee || null, location: p.location || null,
+    settlement: { instNbr: acct.instNbr, applCde: acct.applCde, acctNbr: acct.acctNbr, rtnNbr: acct.rtnNbr },
+    image: `cat-${p.category === 'household' ? 'home' : p.category}`,
+  };
+});
+
+// Real Jacksonville charities (pulled from IRS data). Their accounts in the fake core are demo-only
+// settlement accounts; no real funds move.
+const SETTLE_INSTS = ['0101', '0207', '0315', '0533'];
+const charities = marketCharities.map((c, i) => {
+  const inst = SETTLE_INSTS[i % SETTLE_INSTS.length];
+  const cust = bizCustomer(inst, c.name);
+  const acct = addAccount({ instNbr: inst, applCde: 'DD', acctNbr: nextAcct(inst), custNbr: cust.custNbr, curBal: 0, biz: true });
+  return {
+    id: slug(c.name), name: c.name, legalName: c.irs.legalName, ein: c.ein, cause: c.cause, causeLabel: CAUSES[c.cause],
+    mission: c.mission, website: c.website, image: c.image, impact: c.impact,
+    address: c.address, mailingOnly: /^po box/i.test(c.irs.address), ntee: c.irs.ntee, latestFiling: c.irs.latestFiling,
+    location: { lat: c.location.lat, lng: c.location.lng, approximate: !c.location.geocoded },
+    market: market.id,
+    settlement: { instNbr: acct.instNbr, applCde: acct.applCde, acctNbr: acct.acctNbr, rtnNbr: acct.rtnNbr, simulated: true },
+  };
+});
+
+// ---------------------------------------------------------------- synthetic community
+// Households across Jacksonville neighborhoods, stored in the core as deterministic generation recipes
+// (the core expands them into transactions at startup) so the population stays small on disk.
+const CROCKFORD = '0123456789ABCDEFGHJKMNPQRSTVWXYZ';
+const hhidCode = () => `HH-${Array.from({ length: 4 }, () => rnd.pick([...CROCKFORD])).join('')}-${Array.from({ length: 4 }, () => rnd.pick([...CROCKFORD])).join('')}`;
+const STREETS = ['Oak St', 'Palm Ave', 'Magnolia Dr', 'Cedar Ln', 'Pine St', 'Live Oak Ct', 'Cypress Rd', 'Bay St', 'Willow Way', 'Dogwood Dr'];
+const community = [];
+const simulation = { windowDays: COMMUNITY_DAYS, note: 'Synthetic households stored as generation recipes; the core expands them into transactions at startup.', households: [] };
+let hhSeq = 0;
+for (const [areaKey, area] of Object.entries(market.neighborhoods)) {
+  for (let i = 0; i < COMMUNITY_PER_AREA; i++, hhSeq++) {
+    const income = Math.round(clamp(rnd.lognormal(Math.log(area.medianIncome), 0.5), 12000, 400000));
+    const profile = profileForIncome(rnd, income);
+    const inst = rnd.pick(SETTLE_INSTS);
+    const firstName = rnd.pick(FIRST_NAMES), lastName = rnd.pick(LAST_NAMES);
+    const cust = addCustomer(inst, {
+      nme: { frstNme: firstName, lstNme: lastName }, taxIdLast4: String(rnd.int(1000, 9999)),
+      addr: { line1: `${rnd.int(100, 9999)} ${rnd.pick(STREETS)}`, cityNme: 'Jacksonville', stCde: 'FL', zipCde: area.zip },
+      custSinceDt: fromDay(END_DAY - rnd.int(300, 6000)), synthetic: true,
+    });
+    const base = `${inst.slice(1)}${String(500000 + hhSeq * 2).padStart(7, '0')}`;
+    const links = [
+      { instNbr: inst, applCde: 'DD', acctNbr: base, custNbr: cust.custNbr },
+      { instNbr: inst, applCde: 'SV', acctNbr: String(Number(base) + 1), custNbr: cust.custNbr },
+    ];
+    for (const l of links) addAccount({ ...l, curBal: 0 });
+    simulation.households.push({ custNbr: cust.custNbr, instNbr: inst, accounts: links.map((l) => ({ key: l.applCde === 'DD' ? 'dd' : 'sv', applCde: l.applCde, acctNbr: l.acctNbr })), profile, seed: 9000 + hhSeq });
+    community.push({ hhid: hhidCode(), firstName, lastName, area: areaKey, links, trueIncome: income });
+  }
+}
+
+const offers = OFFERS.map((o) => {
+  const partner = partners.find((p) => p.id === o.partnerId);
+  return {
+    ...o, category: partner.category, image: o.image || partner.image,
+    lookbackDays: 30, expiresInDays: 30 + rnd.int(0, 45),
+    legacyCode: `HH${partner.mcc}${o.id.slice(4, 8).toUpperCase().replace(/[^A-Z]/g, 'X')}${rnd.int(10, 99)}`,
+  };
+});
+
+const opportunities = charities
+  .flatMap((c) => (SAMPLE_SHIFTS[c.ein] || []).map((s) => ({ charityId: c.id, ...s, sample: true })))
+  .map((o, i) => ({ id: `opp-${String(i + 1).padStart(3, '0')}`, ...o }));
+
+// ---------------------------------------------------------------- write
+const meta = { asOfDt: fromDay(END_DAY), generatedAt: new Date().toISOString(), organizationId: 'HHDEMO', fictional: true, windowDays: DAYS };
+const core = { meta, institutions: INSTITUTIONS, customers, accounts, transactions, simulation };
+writeFileSync(`${dir}fis-core.json`, JSON.stringify(core));
+writeFileSync(`${dir}catalog.json`, JSON.stringify({
+  market: { ...market, charitiesPulledAt: pulledAt }, partners, offers, charities, opportunities, causes: CAUSES,
+  campaigns: CAMPAIGNS, communityGoal: COMMUNITY_GOAL, rewardsPool: REWARDS_POOL, neighborFund: NEIGHBOR_FUND,
+}, null, 2));
+writeFileSync(`${dir}identities.json`, JSON.stringify({ meta, identities, community }, null, 2));
+
+const txCount = Object.values(transactions).reduce((a, t) => a + t.length, 0);
+console.log(`Static DB written (as of ${meta.asOfDt}): ${INSTITUTIONS.length} institutions, ${customers.length} customers, ${accounts.length} accounts, ${txCount} stored transactions`);
+console.log(`Community: ${community.length} synthetic households across ${Object.keys(market.neighborhoods).length} ${market.name} neighborhoods (expanded at startup)`);
+console.log(`Catalog: ${partners.length} partners, ${offers.length} offers, ${charities.length} real charities, ${opportunities.length} sample volunteer shifts`);
+for (const id of identities) {
+  const bal = id.links.map((l) => accounts.find((a) => a.acctNbr === l.acctNbr).curBal);
+  console.log(`  ${id.hhid}  ${id.firstName.padEnd(7)} linked ${id.links.length}, balances ${bal.map((b) => b.toFixed(0)).join(' / ')}${id.demoUnlinked.length ? `, +${id.demoUnlinked.length} unlinked` : ''}`);
+}

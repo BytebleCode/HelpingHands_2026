@@ -1,1 +1,166 @@
-aa@É•£…•£@”–„…“z@“–‡‰¢£‰ƒ@™…‡™…¢¢‰–•@£ˆ£@…¢£‰”£…¢@£ˆ…@ƒˆ•ƒ…@@ˆ–¤¢…ˆ–“„@‚¤¨¢@‰•@•@…¥…™¨„¨`•……„¢%aa@ƒ£…‡–™¨@„¤™‰•‡@@‡‰¥…•@£‰”…@‚“–ƒ’k@†™–”@£ˆ…@ƒ“¤…¢@‰•@‰•£…•£Æ…£¤™…¢K‘¢K@ã™‰•‰•‡@“‰¥…¢@‰•%aa@¢ƒ™‰—£¢a£™‰•`‰•£…•£K‘¢^@£ˆ‰¢@”–„¤“…@†‰£¢k@—™…„‰ƒ£¢@•„@…§—“‰•¢K@Ó–ƒ£‰–•@‰¢@•–£@@£™‰•‰•‡@‰•—¤£z%aa@‰£@‰¢@——“‰…„@“‰¥…@‚¨@£ˆ…@•¤„‡…@…•‡‰•…@•„@•…¥…™@¢£–™…„K%‰”—–™£@À@ÉÕãÅÕãmÆÅÁãäÙÅâk@ÉÕãÅÕãmÃÁãÅÇÖÙÉÅâk@ÂÓÖÃÒâk@‰•£…•£Æ…£¤™…¢k@”–”…•£Ã–•£…§£@Ð@†™–”@}Ka‰•£…•£Æ…£¤™…¢K‘¢}^%‰”—–™£@À@ÃÁãÅÇÖÙÉÅâ@Ð@†™–”@}Ka”ƒƒK‘¢}^%%ƒ–•¢£@ÒÅèâ@~@ÉÕãÅÕãmÆÅÁãäÙÅâK”—MM†]@~n@†K’…¨]^%ƒ–•¢£@¢‰‡”–‰„@~@M©]@~n@ñ@a@Mñ@N@Ô£ˆK…§—M`©]]^%%aa@â–“¥…@Á@§@~@‚@¦‰£ˆ@Ç¤¢¢‰•@…“‰”‰•£‰–•@•„@—™£‰“@—‰¥–£‰•‡K%†¤•ƒ£‰–•@¢–“¥…MÁk@‚]@À%@@ƒ–•¢£@•@~@‚K“…•‡£ˆ^%@@ƒ–•¢£@Ô@~@ÁK”—MM™–¦k@‰]@~n@­KKK™–¦k@‚­‰½½]^%@@†–™@M“…£@ƒ@~@ð^@ƒ@L@•^@ƒNN]@À%@@@@“…£@—@~@ƒ^%@@@@†–™@M“…£@™@~@ƒ@N@ñ^@™@L@•^@™NN]@‰†@MÔ£ˆK‚¢MÔ­™½­ƒ½]@n@Ô£ˆK‚¢MÔ­—½­ƒ½]]@—@~@™^%@@@@­Ô­ƒ½k@Ô­—½½@~@­Ô­—½k@Ô­ƒ½½^%@@@@†–™@M“…£@™@~@ƒ@N@ñ^@™@L@•^@™NN]@À%@@@@@@ƒ–•¢£@†@~@Ô­™½­ƒ½@a@Ô­ƒ½­ƒ½^%@@@@@@†–™@M“…£@’@~@ƒ^@’@L~@•^@’NN]@Ô­™½­’½@`~@†@\@Ô­ƒ½­’½^%@@@@Ð%@@Ð%@@ƒ–•¢£@§@~@•…¦@Á™™¨M•]K†‰““Mð]^%@@†–™@M“…£@™@~@•@`@ñ^@™@n~@ð^@™``]@À%@@@@“…£@¢@~@Ô­™½­•½^%@@@@†–™@M“…£@’@~@™@N@ñ^@’@L@•^@’NN]@¢@`~@Ô­™½­’½@\@§­’½^%@@@@§­™½@~@¢@a@Ô­™½­™½^%@@Ð%@@™…£¤™•@§^%Ð%%a\\%@\@™–¦¢z@­À@¥“¤…¢k@“‚…“@Ð½@à¤òñùò@†‰££…„@”–„…“K@Óò`™…‡¤“™‰©…„@“–‡‰¢£‰ƒ@™…‡™…¢¢‰–•@–•@¢£•„™„‰©…„@†…£¤™…¢k%@\@†‰£@¦‰£ˆ@Õ…¦£–•}¢@”…£ˆ–„@M‰£…™£‰¥…“¨@™…¦…‰‡ˆ£…„@“…¢£@¢˜¤™…¢]K%@\a%…§—–™£@†¤•ƒ£‰–•@†‰£Ó–‡‰¢£‰ƒM™–¦¢k@À@“”‚„@~@ñk@‰£…™£‰–•¢@~@òõ@Ð@~@ÀÐ]@À%@@ƒ–•¢£@•@~@™–¦¢K“…•‡£ˆ^%@@ƒ–•¢£@„@~@ÒÅèâK“…•‡£ˆ^%@@ƒ–•¢£@”…•@~@ÒÅèâK”—MM’]@~n@™–¦¢K™…„¤ƒ…MMk@™]@~n@@N@™K¥“¤…¢­’½k@ð]@a@•]^%@@ƒ–•¢£@¢£„@~@ÒÅèâK”—MM’k@‘]@~n@Ô£ˆK¢˜™£M™–¦¢K™…„¤ƒ…MMk@™]@~n@@N@M™K¥“¤…¢­’½@`@”…•­‘½]@\\@òk@ð]@a@•]@OO@ñ]^%@@ƒ–•¢£@é@~@™–¦¢K”—MM™]@~n@­ñk@KKKÒÅèâK”—MM’k@‘]@~n@M™K¥“¤…¢­’½@`@”…•­‘½]@a@¢£„­‘½]½]^%@@ƒ–•¢£@¨@~@™–¦¢K”—MM™]@~n@™K“‚…“]^%@@ƒ–•¢£@—@~@„@N@ñ^%@@“…£@¦@~@•…¦@Á™™¨M—]K†‰““Mð]^%@@ƒ–•¢£@‚¢…@~@¨K™…„¤ƒ…MMk@‚]@~n@@N@‚k@ð]@a@•^%@@¦­ð½@~@Ô£ˆK“–‡M‚¢…@a@Mñ@`@‚¢…]]^%%@@aa@Õ…¦£–•}¢@”…£ˆ–„z@…ƒˆ@¢£…—@¢–“¥…¢@MÈ@N@“”‚„\É]@¢£…—@~@‡™„‰…•£k@¦ˆ…™…@È@¦…‰‡ˆ¢@…ƒˆ@™–¦@‚¨%@@aa@”¤\Mñ`”¤]K@Ã–•¥…™‡…¢@‰•@@ˆ•„†¤“@–†@‰£…™£‰–•¢@†–™@@”–„…“@£ˆ‰¢@¢‰©…K%@@†–™@M“…£@‰£@~@ð^@‰£@L@‰£…™£‰–•¢^@‰£NN]@À%@@@@ƒ–•¢£@È@~@Á™™¨K†™–”MÀ@“…•‡£ˆz@—@Ðk@M]@~n@•…¦@Á™™¨M—]K†‰““Mð]]^%@@@@ƒ–•¢£@‡@~@•…¦@Á™™¨M—]K†‰““Mð]^%@@@@†–™@M“…£@‰@~@ð^@‰@L@•^@‰NN]@À%@@@@@@ƒ–•¢£@©‰@~@é­‰½^%@@@@@@“…£@¢@~@ð^%@@@@@@†–™@M“…£@@~@ð^@@L@—^@NN]@¢@N~@¦­½@\@©‰­½^%@@@@@@ƒ–•¢£@”¤@~@¢‰‡”–‰„M¢]^%@@@@@@ƒ–•¢£@¦£@~@Ô£ˆK”§M”¤@\@Mñ@`@”¤]k@ñ…`ù]^%@@@@@@ƒ–•¢£@™@~@¨­‰½@`@”¤^%@@@@@@†–™@M“…£@@~@ð^@@L@—^@NN]@À%@@@@@@@@‡­½@N~@©‰­½@\@™^%@@@@@@@@ƒ–•¢£@©@~@©‰­½@\@¦£^%@@@@@@@@†–™@M“…£@‚@~@^@‚@L@—^@‚NN]@È­½­‚½@N~@©@\@©‰­‚½^%@@@@@@Ð%@@@@Ð%@@@@†–™@M“…£@@~@ð^@@L@—^@NN]@†–™@M“…£@‚@~@ð^@‚@L@^@‚NN]@È­½­‚½@~@È­‚½­½^%@@@@†–™@M“…£@@~@ñ^@@L@—^@NN]@À@È­½­½@N~@“”‚„^@‡­½@`~@“”‚„@\@¦­½^@Ð@aa@‰•£…™ƒ…—£@‰¢@•–£@—…•“‰©…„%@@@@ƒ–•¢£@¢£…—@~@¢–“¥…MÈk@‡]^%@@@@¦@~@¦K”—MM¥k@]@~n@¥@N@¢£…—­½]^%@@@@‰†@MÔ£ˆK”§MKKK¢£…—K”—MÔ£ˆK‚¢]]@L@ñ…`ö]@‚™…’^%@@Ð%@@™…£¤™•@À%@@@@£¨—…z@}“–‡‰¢£‰ƒ`‰•£…•£}k%@@@@“”‚„k%@@@@‰•£…™ƒ…—£z@¦­ð½k%@@@@ƒ£…‡–™‰…¢z@ÉÕãÅÕãmÃÁãÅÇÖÙÉÅâk%@@@@‚“–ƒ’¢z@ÂÓÖÃÒâk%@@@@†…£¤™…¢z@ÒÅèâK”—MM’…¨k@‘]@~n@MÀ@’…¨k@”…•z@”…•­‘½k@¢£„z@¢£„­‘½k@¦…‰‡ˆ£z@¦­‘@N@ñ½@Ð]]k%@@Ð^%Ð%%a\\%@\@×™–‚‚‰“‰£¨@†–™@–•…@™–¦@–†@ƒ“¤…¢k@—“¤¢@…ƒˆ@ƒ“¤…}¢@ƒ–•£™‰‚¤£‰–•@£–@£ˆ…@“–‡`–„„¢@M¤¢…„@†–™@æˆ¨o]K%@\@Ô‰¢¢‰•‡@ƒ“¤…¢@†““@‚ƒ’@£–@£ˆ…@£™‰•‰•‡@”…•k@¢–@£ˆ…¨@ƒ–•£™‰‚¤£…@•–£ˆ‰•‡K%@\a%…§—–™£@†¤•ƒ£‰–•@—™…„‰ƒ£å“¤…¢M”–„…“k@¥“¤…¢]@À%@@“…£@©@~@”–„…“K‰•£…™ƒ…—£^%@@ƒ–•¢£@ƒ–•£™‰‚¤£‰–•¢@~@”–„…“K†…£¤™…¢K”—MM†]@~n@À%@@@@ƒ–•¢£@ƒ@~@†K¦…‰‡ˆ£@\@MMM¥“¤…¢­†K’…¨½@oo@†K”…•]@`@†K”…•]@a@†K¢£„]^%@@@@©@N~@ƒ^%@@@@™…£¤™•@À@’…¨z@†K’…¨k@ƒ–•£™‰‚¤£‰–•z@ƒ@Ð^%@@Ð]^%@@™…£¤™•@À@—™–‚‚‰“‰£¨z@¢‰‡”–‰„M©]k@“–‡‰£z@©k@ƒ–•£™‰‚¤£‰–•¢@Ð^%Ð%%aa@È–¦@…ƒˆ@ƒ£…‡–™¨@™…„¢@‰•@@¢…•£…•ƒ…K%ƒ–•¢£@åÅÙÂ@~@À%@@‡™–ƒ…™‰…¢z@}¢ˆ–—@†–™@‡™–ƒ…™‰…¢}k@†¤…“z@}†‰““@¤—}k@—ˆ™”ƒ¨z@}¢£–—@£@£ˆ…@—ˆ™”ƒ¨}k%@@ˆ–¤¢…ˆ–“„z@}—‰ƒ’@¤—@ˆ–”…@…¢¢…•£‰“¢}k@£™•¢‰£z@}™‰„…@£™•¢‰£}k%Ð^%%aa@×“‰•`Å•‡“‰¢ˆ@™…¢–•@†–™@@ƒ“¤…k@–™@•¤““@¦ˆ…•@£ˆ…™…@‰¢@•–£ˆ‰•‡@¦–™£ˆ@¢¨‰•‡K%†¤•ƒ£‰–•@„…¢ƒ™‰‚…M’…¨k@™¦k@„‰™…ƒ£‰–•]@À%@@ƒ–•¢£@¥…™‚@~@åÅÙÂ­™¦Kƒ£…‡–™¨½@OO@y‚¤¨@[ÀÃÁãÅÇÖÙÉÅâ­™¦Kƒ£…‡–™¨½K“‚…“K£–Ó–¦…™Ã¢…M]Ðy^%@@ƒ–•¢£@“‚…“@~@ÃÁãÅÇÖÙÉÅâ­™¦Kƒ£…‡–™¨½K“‚…“^%@@ƒ–•¢£@„¨¢@~@M•]@~n@y[ÀÔ£ˆK™–¤•„M•]Ð@„¨[ÀÔ£ˆK™–¤•„M•]@~~~@ñ@o@}}@z@}¢}Ðy^%@@ƒ–•¢£@„–¦âˆ™…@~@™¦K£™‰—¢@o@™¦K„–¦Ã–¤•£@a@™¦K£™‰—¢@z@ð^%@@ƒ–•¢£@‚“–ƒ’âˆ™…@~@™¦K—¤™ƒˆ¢…¢@o@™¦K‚“–ƒ’Ã–¤•£@a@™¦K—¤™ƒˆ¢…¢@z@ð^%@@ƒ–•¢£@—‰„@~@™¦K„¨¢â‰•ƒ…×¨@~~~@ð@o@}£–„¨}@z@™¦K„¨¢â‰•ƒ…×¨@~~~@ñ@o@}¨…¢£…™„¨}@z@y[À™¦K„¨¢â‰•ƒ…×¨Ð@„¨¢@‡–y^%@@¢¦‰£ƒˆ@M’…¨]@À%@@@@ƒ¢…@}„–¦Ó‰†£}z%@@@@@@‰†@M„‰™…ƒ£‰–•@~~~@}„–¦•}]@™…£¤™•@™¦K£™‰—¢@n~@ô@PP@„–¦âˆ™…@L@ðKðø@o@yè–¤@™™…“¨@[À¥…™‚Ð@–•@[À™¦K¦……’„¨Ð¢y@z@•¤““^%@@@@@@™…£¤™•@„–¦âˆ™…@n~@ðKóõ@o@yè–¤@¤¢¤““¨@[À¥…™‚Ð@–•@[À™¦K¦……’„¨Ð¢y@z@„–¦âˆ™…@n~@ðKò@o@yè–¤@–†£…•@[À¥…™‚Ð@–•@[À™¦K¦……’„¨Ð¢y@z@•¤““^%@@@@ƒ¢…@}‚“–ƒ’Ó‰†£}z%@@@@@@‰†@M„‰™…ƒ£‰–•@~~~@}„–¦•}]@™…£¤™•@™¦K—¤™ƒˆ¢…¢@n~@ô@PP@‚“–ƒ’âˆ™…@L@ðKðø@o@yè–¤@™™…“¨@[À¥…™‚Ð@‰•@£ˆ…@[À™¦K‚“–ƒ’Ó‚…“Ðy@z@•¤““^%@@@@@@™…£¤™•@‚“–ƒ’âˆ™…@n~@ðKô@o@yãˆ…@[À™¦K‚“–ƒ’Ó‚…“Ð@‰¢@¦ˆ…•@¨–¤@¤¢¤““¨@[À¥…™‚Ðy@z@•¤““^%@@@@ƒ¢…@}“–‡Ù£…}z%@@@@@@™…£¤™•@„‰™…ƒ£‰–•@~~~@}¤—}@PP@™¦K—…™æ……’@n~@ðKõ@o@yè–¤@[À¥…™‚Ð@‚–¤£@[À™¦K—…™æ……’K£–Æ‰§…„Mñ]Ð@£‰”…¢@@¦……’y@z@•¤““^%@@@@ƒ¢…@}£––â––•}z%@@@@@@™…£¤™•@„‰™…ƒ£‰–•@~~~@}„–¦•}@o@yè–¤@“™…„¨@[À¥…™‚@~~~@}†‰““@¤—}@o@}†‰““…„@¤—}@z@y¦…•£@M[À“‚…“K£–Ó–¦…™Ã¢…M]Ð]yÐ@[À™¦K¢‰•ƒ…@~~~@ð@o@}£–„¨}@z@y[À„¨¢M™¦K¢‰•ƒ…]Ð@‡–yÐy@z@•¤““^%@@@@ƒ¢…@}„¤…Ã“–¢…}z%@@@@ƒ¢…@}„¤…Ù–¤£‰•…}z%@@@@@@™…£¤™•@„‰™…ƒ£‰–•@~~~@}¤—}@PP@™¦K™£‰–@n~@ðKøõ@PP@™¦K™£‰–@L~@ñKô@o@yÄ¤…z@“¢£@£‰”…@¦¢@[À„¨¢M™¦K¢‰•ƒ…]Ð@‡–k@•„@¨–¤@¤¢¤““¨@‡–@…¥…™¨@[À„¨¢M™¦K¤¢¤“Ç—]Ðy@z@•¤““^%@@@@ƒ¢…@}—¨æ‰•„–¦}z%@@@@ƒ¢…@}—¨Ç™–ƒ…™¨}z%@@@@@@™…£¤™•@„‰™…ƒ£‰–•@~~~@}¤—}@o@y×¨„¨@¦¢@[À—‰„Ðk@¦ˆ…•@¨–¤@¤¢¤““¨@¢£–ƒ’@¤—y@z@•¤““^%@@@@ƒ¢…@}“–‡Ù¤•¦¨}z%@@@@@@™…£¤™•@yÁ‚–¤£@[À„¨¢M™¦K™¤•¦¨Ä¨¢]Ð@–†@”–•…¨@“…†£@£@¨–¤™@¤¢¤“@—ƒ…y^%@@@@ƒ¢…@}¥…“–ƒ‰£¨}z%@@@@@@™…£¤™•@™¦K¢—…•„÷@n@M™¦K¢—…•„óð@\@÷]@a@óð@o@}â—…•„‰•‡@‰¢@™¤••‰•‡@ˆ…„@–†@¨–¤™@¤¢¤“@—ƒ…@£ˆ‰¢@¦……’}@z@}â—…•„‰•‡@‰¢@“‰‡ˆ£…™@£ˆ•@¤¢¤“@£ˆ‰¢@¦……’}^%@@@@„…†¤“£z%@@@@@@™…£¤™•@•¤““^%@@Ð%Ð%%a\\@×™–‚‚‰“‰£¨@—“¤¢@£ˆ…@£–—@„™‰¥…™¢@‰•@—“‰•@Å•‡“‰¢ˆk@‰•@£ˆ…@¢”…@¢ˆ—…@¢@£ˆ…@‰•ƒ–”…@”–„…“}¢@„™‰¥…™¢K@\a%…§—–™£@†¤•ƒ£‰–•@…§—“‰•M”–„…“k@¥“¤…¢k@™¦k@À@£–—@~@ó@Ð@~@ÀÐ]@À%@@ƒ–•¢£@À@—™–‚‚‰“‰£¨k@ƒ–•£™‰‚¤£‰–•¢@Ð@~@—™…„‰ƒ£å“¤…¢M”–„…“k@¥“¤…¢]^%@@ƒ–•¢£@”…£@~@Ö‚‘…ƒ£K†™–”Å•£™‰…¢MÉÕãÅÕãmÆÅÁãäÙÅâK”—MM†]@~n@­†K’…¨k@†½]]^%@@ƒ–•¢£@„™‰¥…™¢@~@ƒ–•£™‰‚¤£‰–•¢%@@@@K†‰“£…™MMƒ]@~n@Z”…£­ƒK’…¨½Kˆ‰„„…•@PP@Ô£ˆK‚¢MƒKƒ–•£™‰‚¤£‰–•]@n@ðKðõ]%@@@@K¢–™£MMk@‚]@~n@Ô£ˆK‚¢M‚Kƒ–•£™‰‚¤£‰–•]@`@Ô£ˆK‚¢MKƒ–•£™‰‚¤£‰–•]]%@@@@K”—MMƒ]@~n@À%@@@@@@ƒ–•¢£@„‰™…ƒ£‰–•@~@ƒKƒ–•£™‰‚¤£‰–•@n@ð@o@}¤—}@z@}„–¦•}^%@@@@@@™…£¤™•@À@’…¨z@ƒK’…¨k@“‚…“z@”…£­ƒK’…¨½K“‚…“k@„‰™…ƒ£‰–•k@¦…‰‡ˆ£z@Ô£ˆK‚¢MƒKƒ–•£™‰‚¤£‰–•]k@£…§£z@„…¢ƒ™‰‚…MƒK’…¨k@™¦k@„‰™…ƒ£‰–•]@Ð^%@@@@Ð]%@@@@K†‰“£…™MM„¥]@~n@„¥K£…§£]%@@@@K¢“‰ƒ…Mðk@£–—]^%@@™…£¤™•@À@—™–‚‚‰“‰£¨k@„™‰¥…™¢@Ð^%Ð%%a\\%@\@âƒ–™…¢@…¥…™¨@‰•£…•£@ƒ£…‡–™¨@†–™@–•…@”–”…•£K@Ù…£¤™•¢@ƒ£…‡–™‰…¢@¢–™£…„@‚¨@—™–‚‚‰“‰£¨k@…ƒˆ@¦‰£ˆ%@\@‰£¢@—“‰•`Å•‡“‰¢ˆ@™…¢–•¢K@y‰•„…§y@ƒ–”…¢@†™–”@‚¤‰“„É•„…§@a@‰•„…§Æ™–”Ã–•£…§£K%@\a%…§—–™£@†¤•ƒ£‰–•@¢ƒ–™…Ô–”…•£M”–„…“k@‰•„…§k@À@„¨k@‚“–ƒ’@Ð]@À%@@ƒ–•¢£@¢ˆ™…„@~@”–”…•£Ã–•£…§£M‰•„…§k@„¨]^%@@™…£¤™•@”–„…“Kƒ£…‡–™‰…¢%@@@@K”—MMƒ£…‡–™¨]@~n@À%@@@@@@ƒ–•¢£@À@¥“¤…¢k@™¦@Ð@~@‰•£…•£Æ…£¤™…¢M‰•„…§k@ƒ£…‡–™¨k@„¨k@‚“–ƒ’k@¢ˆ™…„]^%@@@@@@ƒ–•¢£@À@—™–‚‚‰“‰£¨k@„™‰¥…™¢@Ð@~@…§—“‰•M”–„…“k@¥“¤…¢k@™¦]^%@@@@@@™…£¤™•@À@ƒ£…‡–™¨k@“‚…“z@ÃÁãÅÇÖÙÉÅâ­ƒ£…‡–™¨½K“‚…“k@—™–‚‚‰“‰£¨k@™…¢–•¢z@„™‰¥…™¢K†‰“£…™MM„¥]@~n@„¥K„‰™…ƒ£‰–•@~~~@}¤—}]K”—MM„¥]@~n@„¥K£…§£]k@„™‰¥…™¢@Ð^%@@@@Ð]%@@@@K¢–™£MMk@‚]@~n@‚K—™–‚‚‰“‰£¨@`@K—™–‚‚‰“‰£¨]^%Ð%
+// Intent model: logistic regression that estimates the chance a household buys in an everyday-needs
+// category during a given time block, from the clues in intentFeatures.js. Training lives in
+// scripts/train-intent.js; this module fits, predicts and explains. Location is not a training input:
+// it is applied live by the nudge engine and never stored.
+import { INTENT_FEATURES, INTENT_CATEGORIES, BLOCKS, intentFeatures, momentContext } from './intentFeatures.js';
+import { CATEGORIES } from './mcc.js';
+
+const KEYS = INTENT_FEATURES.map((f) => f.key);
+const sigmoid = (z) => 1 / (1 + Math.exp(-z));
+
+// Solve A x = b with Gaussian elimination and partial pivoting.
+function solve(A, b) {
+  const n = b.length;
+  const M = A.map((row, i) => [...row, b[i]]);
+  for (let c = 0; c < n; c++) {
+    let p = c;
+    for (let r = c + 1; r < n; r++) if (Math.abs(M[r][c]) > Math.abs(M[p][c])) p = r;
+    [M[c], M[p]] = [M[p], M[c]];
+    for (let r = c + 1; r < n; r++) {
+      const f = M[r][c] / M[c][c];
+      for (let k = c; k <= n; k++) M[r][k] -= f * M[c][k];
+    }
+  }
+  const x = new Array(n).fill(0);
+  for (let r = n - 1; r >= 0; r--) {
+    let s = M[r][n];
+    for (let k = r + 1; k < n; k++) s -= M[r][k] * x[k];
+    x[r] = s / M[r][r];
+  }
+  return x;
+}
+
+/**
+ * rows: [{ values, label }] \u2192 fitted model. L2-regularized logistic regression on standardized features,
+ * fit with Newton's method (iteratively reweighted least squares).
+ */
+export function fitLogistic(rows, { lambda = 1, iterations = 25 } = {}) {
+  const n = rows.length;
+  const d = KEYS.length;
+  const mean = KEYS.map((k) => rows.reduce((a, r) => a + r.values[k], 0) / n);
+  const std = KEYS.map((k, j) => Math.sqrt(rows.reduce((a, r) => a + (r.values[k] - mean[j]) ** 2, 0) / n) || 1);
+  const Z = rows.map((r) => [1, ...KEYS.map((k, j) => (r.values[k] - mean[j]) / std[j])]);
+  const y = rows.map((r) => r.label);
+  const p = d + 1;
+  let w = new Array(p).fill(0);
+  const base = y.reduce((a, b) => a + b, 0) / n;
+  w[0] = Math.log(base / (1 - base));
+
+  // Newton's method: each step solves (H + lambda*I) step = gradient, where H weighs each row by
+  // mu*(1-mu). Converges in a handful of iterations for a model this size.
+  for (let it = 0; it < iterations; it++) {
+    const H = Array.from({ length: p }, () => new Array(p).fill(0));
+    const g = new Array(p).fill(0);
+    for (let i = 0; i < n; i++) {
+      const zi = Z[i];
+      let s = 0;
+      for (let a = 0; a < p; a++) s += w[a] * zi[a];
+      const mu = sigmoid(s);
+      const wt = Math.max(mu * (1 - mu), 1e-9);
+      const r = y[i] - mu;
+      for (let a = 0; a < p; a++) {
+        g[a] += zi[a] * r;
+        const za = zi[a] * wt;
+        for (let b = a; b < p; b++) H[a][b] += za * zi[b];
+      }
+    }
+    for (let a = 0; a < p; a++) for (let b = 0; b < a; b++) H[a][b] = H[b][a];
+    for (let a = 1; a < p; a++) { H[a][a] += lambda; g[a] -= lambda * w[a]; } // intercept is not penalized
+    const step = solve(H, g);
+    w = w.map((v, a) => v + step[a]);
+    if (Math.max(...step.map(Math.abs)) < 1e-6) break;
+  }
+  return {
+    type: 'logistic-intent',
+    lambda,
+    intercept: w[0],
+    categories: INTENT_CATEGORIES,
+    blocks: BLOCKS,
+    features: KEYS.map((key, j) => ({ key, mean: mean[j], std: std[j], weight: w[j + 1] })),
+  };
+}
+
+/**
+ * Probability for one row of clues, plus each clue's contribution to the log-odds (used for "Why?").
+ * Missing clues fall back to the training mean, so they contribute nothing.
+ */
+export function predictValues(model, values) {
+  let z = model.intercept;
+  const contributions = model.features.map((f) => {
+    const c = f.weight * (((values[f.key] ?? f.mean) - f.mean) / f.std);
+    z += c;
+    return { key: f.key, contribution: c };
+  });
+  return { probability: sigmoid(z), logit: z, contributions };
+}
+
+// How each category reads in a sentence.
+const VERB = {
+  groceries: 'shop for groceries', fuel: 'fill up', pharmacy: 'stop at the pharmacy',
+  household: 'pick up home essentials', transit: 'ride transit',
+};
+
+// Plain-English reason for a clue, or null when there is nothing worth saying.
+function describe(key, raw, direction) {
+  const verb = VERB[raw.category] || `buy ${CATEGORIES[raw.category].label.toLowerCase()}`;
+  const label = CATEGORIES[raw.category].label;
+  const days = (n) => `${Math.round(n)} day${Math.round(n) === 1 ? '' : 's'}`;
+  const dowShare = raw.trips ? raw.dowCount / raw.trips : 0;
+  const blockShare = raw.purchases ? raw.blockCount / raw.purchases : 0;
+  const paid = raw.daysSincePay === 0 ? 'today' : raw.daysSincePay === 1 ? 'yesterday' : `${raw.daysSincePay} days ago`;
+  switch (key) {
+    case 'dowLift':
+      if (direction === 'down') return raw.trips >= 4 && dowShare < 0.08 ? `You rarely ${verb} on ${raw.weekday}s` : null;
+      return dowShare >= 0.35 ? `You usually ${verb} on ${raw.weekday}s` : dowShare >= 0.2 ? `You often ${verb} on ${raw.weekday}s` : null;
+    case 'blockLift':
+      if (direction === 'down') return raw.purchases >= 4 && blockShare < 0.08 ? `You rarely ${verb} in the ${raw.blockLabel}` : null;
+      return blockShare >= 0.4 ? `The ${raw.blockLabel} is when you usually ${verb}` : null;
+    case 'logRate':
+      return direction === 'up' && raw.perWeek >= 0.5 ? `You ${verb} about ${raw.perWeek.toFixed(1)} times a week` : null;
+    case 'tooSoon':
+      return direction === 'down' ? `You already ${verb === 'fill up' ? 'filled up' : `went (${label.toLowerCase()})`} ${raw.since === 0 ? 'today' : `${days(raw.since)} ago`}` : null;
+    case 'dueClose':
+    case 'dueRoutine':
+      return direction === 'up' && raw.ratio >= 0.85 && raw.ratio <= 1.4 ? `Due: last time was ${days(raw.since)} ago, and you usually go every ${days(raw.usualGap)}` : null;
+    case 'payWindow':
+    case 'payGrocery':
+      return direction === 'up' ? `Payday was ${paid}, when you usually stock up` : null;
+    case 'logRunway':
+      return `About ${days(raw.runwayDays)} of money left at your usual pace`;
+    case 'velocity':
+      return raw.spend7 > (raw.spend30 * 7) / 30 ? 'Spending is running ahead of your usual pace this week' : 'Spending is lighter than usual this week';
+    default:
+      return null;
+  }
+}
+
+/** Probability plus the top drivers in plain English, in the same shape as the income model's drivers. */
+export function explain(model, values, raw, { top = 3 } = {}) {
+  const { probability, contributions } = predictValues(model, values);
+  const meta = Object.fromEntries(INTENT_FEATURES.map((f) => [f.key, f]));
+  const drivers = contributions
+    .filter((c) => !meta[c.key].hidden && Math.abs(c.contribution) > 0.05)
+    .sort((a, b) => Math.abs(b.contribution) - Math.abs(a.contribution))
+    .map((c) => {
+      const direction = c.contribution > 0 ? 'up' : 'down';
+      return { key: c.key, label: meta[c.key].label, direction, weight: Math.abs(c.contribution), text: describe(c.key, raw, direction) };
+    })
+    .filter((dv) => dv.text)
+    .slice(0, top);
+  return { probability, drivers };
+}
+
+/**
+ * Scores every intent category for one moment. Returns categories sorted by probability, each with
+ * its plain-English reasons. `index` comes from buildIndex / indexFromContext.
+ */
+export function scoreMoment(model, index, { day, block }) {
+  const shared = momentContext(index, day);
+  return model.categories
+    .map((category) => {
+      const { values, raw } = intentFeatures(index, category, day, block, shared);
+      const { probability, drivers } = explain(model, values, raw);
+      return { category, label: CATEGORIES[category].label, probability, reasons: drivers.filter((dv) => dv.direction === 'up').map((dv) => dv.text), drivers };
+    })
+    .sort((a, b) => b.probability - a.probability);
+}
