@@ -12,7 +12,7 @@ and every path is relative, so the site works from whatever folder Apache serves
 | Files | Encoding (in git and on z/OS) |
 |---|---|
 | Website: `index.html`, `assets/`, `api/`, `manifest.webmanifest`, `icon.svg` | **EBCDIC IBM-1047** |
-| `.htaccess`, `zos-setup.sh`, `apache/helping-hands.conf` | **EBCDIC IBM-1047** |
+| `zos-setup.sh` | **EBCDIC IBM-1047** |
 | Images and fonts | binary (unchanged) |
 | `README.md`, `README-ZOS.md`, `.gitattributes`, `.gitignore`, `tools/` | readable ASCII/UTF-8 |
 
@@ -37,25 +37,30 @@ to the day of the snapshot.
 
 ## Install
 
-Requires Apache httpd or IBM HTTP Server on z/OS, with `mod_charset_lite`.
+This assumes Apache on z/OS is already set up the usual way: it serves `index.html` for a folder
+and converts EBCDIC text files to ASCII for browsers, as it does for your other sites. No Apache
+configuration is needed for this site.
 
-1. Get the files onto z/OS: `git clone -b mainframe-version git@github.com:BytebleCode/HelpingHands_2026.git`,
-   or copy the folder over in **binary** mode (sftp/scp binary, or tar). Never use ASCII/text
+1. Put the folder where Apache serves files, for example `<DocumentRoot>/helping-hands`:
+   `git clone -b mainframe-version https://github.com/BytebleCode/HelpingHands_2026.git helping-hands`,
+   or copy the folder there in **binary** mode (sftp/scp binary, or tar). Never use ASCII/text
    transfer mode, because that would convert files that are already EBCDIC.
-2. Tag the files: `sh ./zos-setup.sh`
-3. Point Apache at the folder. Either:
-   - **Inside an existing DocumentRoot:** load `mod_charset_lite` and allow `.htaccess` there
-     (`AllowOverride FileInfo Indexes`). Then open `http://<host>/<folder>/`.
-   - **Anywhere else:** add these lines to `httpd.conf`, restart Apache, and open
-     `http://<host>/helping-hands/`.
+2. Tag the files: `sh ./zos-setup.sh` (IBM-1047 text, binary images and fonts)
+3. Open `http://<host>:<port>/helping-hands/` and pick a demo member. Apache serves `index.html`.
 
-         Define HH_ROOT /u/youruser/HelpingHands_2026
-         Include /u/youruser/HelpingHands_2026/apache/helping-hands.conf
+The data files in `api/` work whether or not Apache converts JSON. Many setups only convert
+`text/*` types, so the app reads each file's raw bytes and decodes EBCDIC itself when needed.
+HTML, CSS and JavaScript rely on Apache's normal conversion.
 
-`.htaccess` converts text files from IBM-1047 to ISO8859-1 as Apache sends them, sends images
-and fonts unchanged, and hides `tools/`, `apache/`, the READMEs and `.git`. If your Apache build
-already converts tagged files on its own, remove the `CharsetSourceEnc` / `CharsetDefault` lines
-from `.htaccess`, or text will be converted twice.
+**If pages come up blank or garbled**, Apache isn't converting those files. With `mod_charset_lite`,
+add this for the folder in `httpd.conf`. It converts `text/*` files only, so images and fonts go
+out unchanged, and the `AddType` line makes sure JavaScript counts as text:
+
+    <Directory "/path/to/helping-hands">
+        CharsetSourceEnc IBM-1047
+        CharsetDefault ISO8859-1
+        AddType text/javascript .js
+    </Directory>
 
 ## Refreshing the snapshot
 
@@ -68,5 +73,4 @@ checkout of this branch:
 the server, and switches it to `#/` routes and relative paths. It then runs `main`'s server in a
 scratch copy and captures every read with `tools/freeze/capture.mjs`. Finally `tools/export.mjs`
 writes the full branch tree, encoded as above, to the output folder. Copy that over this checkout
-and commit. The readable sources of `.htaccess`, `zos-setup.sh` and the Apache config are in
-`tools/zos/`.
+and commit. The readable source of `zos-setup.sh` is in `tools/zos/`.

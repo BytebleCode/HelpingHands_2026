@@ -1,5 +1,6 @@
 import { useCallback, useEffect, useRef, useState } from 'react';
 import { frozenPath } from './frozenPath.js';
+import { decodeJson } from './ebcdic.js';
 
 // Frozen build for static hosting (Apache): every read comes from a JSON snapshot captured from
 // the real server, so nothing a member does is saved.
@@ -31,7 +32,7 @@ export async function api(path, { method = 'GET', body } = {}) {
   else throw Object.assign(new Error(READ_ONLY), { status: 405 });
 
   const res = await fetch(url);
-  const data = res.ok ? await res.json().catch(() => null) : null;
+  const data = res.ok ? await res.arrayBuffer().then(decodeJson).catch(() => null) : null;
   if (!data) {
     const error = path === '/session' ? 'No member with that Helping Hands ID' : 'Not available in this demo snapshot';
     throw Object.assign(new Error(error), { status: res.ok ? 500 : res.status });

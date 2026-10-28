@@ -13,4 +13,3 @@ find . -type f ! \( $MEDIA -o $READABLE \) ! -path './.git/*' -exec chtag -tc IB
 set +f
 
 echo "Files tagged. Entrance: $(pwd)/index.html"
-echo "Apache setup: see README-ZOS.md (or include apache/helping-hands.conf from httpd.conf)."

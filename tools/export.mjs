@@ -1,4 +1,4 @@
-// Writes the branch tree. Everything z/OS reads (the site, .htaccess, setup script, Apache config)
+// Writes the branch tree. Everything z/OS reads (the site and the setup script)
 // is encoded in EBCDIC IBM-1047; docs, git config and these tools stay readable.
 // Usage: node export.mjs <mainCheckout> <distDir> <branchCheckout> <outDir>
 import { execFileSync } from 'node:child_process';
@@ -51,9 +51,7 @@ function readable(rel, src) {
 const site = walk(distDir);
 if (!site.includes('index.html')) throw new Error(`no index.html in ${distDir}`);
 for (const f of site) ebcdic(f, join(distDir, f));
-ebcdic('.htaccess', join(branch, 'tools/zos/.htaccess'));
 ebcdic('zos-setup.sh', join(branch, 'tools/zos/zos-setup.sh'));
-ebcdic('apache/helping-hands.conf', join(branch, 'tools/zos/helping-hands.conf'));
 
 readable('README.md', join(main, 'README.md'));
 for (const f of ['README-ZOS.md', '.gitattributes', '.gitignore']) readable(f, join(branch, f));

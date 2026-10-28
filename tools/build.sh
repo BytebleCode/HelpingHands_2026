@@ -15,7 +15,7 @@ PORT=${CAPTURE_PORT:-4399}
 git -C "$MAIN" archive HEAD | tar -x -C "$WORK"
 ln -s "$MAIN/node_modules" "$WORK/node_modules"
 for d in client server; do [ -d "$MAIN/$d/node_modules" ] && ln -s "$MAIN/$d/node_modules" "$WORK/$d/node_modules"; done
-cp "$HERE/tools/freeze/api.js" "$HERE/tools/freeze/frozenPath.js" "$WORK/client/src/lib/"
+cp "$HERE/tools/freeze/api.js" "$HERE/tools/freeze/frozenPath.js" "$HERE/tools/freeze/ebcdic.js" "$WORK/client/src/lib/"
 
 # patch <file> <from> <to>: replaces every occurrence, and fails if main no longer has <from>.
 patch() {
