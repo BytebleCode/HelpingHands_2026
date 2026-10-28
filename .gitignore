@@ -1,6 +1,4 @@
+# The built site in client/dist is the deliverable on this branch, so it is tracked.
 node_modules/
-dist/
-server/data/runtime/
 .DS_Store
 *.log
-.env
