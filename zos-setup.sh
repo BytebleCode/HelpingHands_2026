@@ -1,14 +1,1 @@
-#!/bin/sh
-# One-time setup after cloning this branch with z/OS git (zopen), which converts and tags
-# text files as IBM-1047 on checkout. This re-applies the tags in case the files arrived
-# another way. No Node.js or npm is needed: Apache serves client/dist as static files.
-cd "$(dirname "$0")" || exit 1
-
-MEDIA="-name *.jpg -o -name *.jpeg -o -name *.png -o -name *.gif -o -name *.ico -o -name *.woff -o -name *.woff2 -o -name *.ttf"
-set -f
-find . -type f \( $MEDIA \) ! -path ./.git/* -exec chtag -b {} +
-find . -type f -name '*.md' ! -path ./.git/* -exec chtag -tc UTF-8 {} +
-find . -type f ! \( $MEDIA -o -name '*.md' \) ! -path ./.git/* -exec chtag -tc IBM-1047 {} +
-set +f
-chmod +x zos-setup.sh
-echo "Files tagged. Point Apache at $(pwd)/client/dist using apache/helping-hands.conf"
+{Za‚‰•a¢ˆ%{@Ö•…`£‰”…@¢…£¤—@†£…™@ƒ“–•‰•‡@–™@ƒ–—¨‰•‡@£ˆ‰¢@‚™•ƒˆ@£–@©aÖâ@äÕÉçK%{@ãˆ…@¦…‚¢‰£…@†‰“…¢@™…@“™…„¨@ÅÂÃÄÉÃ@MÉÂÔ`ñğô÷]^@£ˆ‰¢@£‡¢@£ˆ…”@¢–@©aÖâ@£––“¢@’•–¦@‰£K%{@ä¢‡…z@¢ˆ@Ka©–¢`¢…£¤—K¢ˆ%ƒ„@[M„‰™•”…@[ğ]@OO@…§‰£@ñ%%¢…£@`†%ÔÅÄÉÁ~`•”…@\K‘—‡@`–@`•”…@\K‘—…‡@`–@`•”…@\K—•‡@`–@`•”…@\K‡‰†@`–@`•”…@\K‰ƒ–@`–@`•”…@\K¦–††@`–@`•”…@\K¦–††ò@`–@`•”…@\K££†%ÙÅÁÄÁÂÓÅ~`•”…@\K”„@`–@`—£ˆ@Ka£––“¢a\@`–@`•”…@K‡‰£££™‰‚¤£…¢@`–@`•”…@K‡‰£‰‡•–™…%†‰•„@K@`£¨—…@†@àM@[ÔÅÄÉÁ@à]@Z@`—£ˆ@}KaK‡‰£a\}@`…§…ƒ@ƒˆ£‡@`‚@ÀĞ@N%†‰•„@K@`£¨—…@†@àM@[ÙÅÁÄÁÂÓÅ@à]@Z@`—£ˆ@}KaK‡‰£a\}@`…§…ƒ@ƒˆ£‡@`£ƒ@ÉâÖøøõù`ñ@ÀĞ@N%†‰•„@K@`£¨—…@†@Z@àM@[ÔÅÄÉÁ@`–@[ÙÅÁÄÁÂÓÅ@à]@Z@`—£ˆ@}KaK‡‰£a\}@`…§…ƒ@ƒˆ£‡@`£ƒ@ÉÂÔ`ñğô÷@ÀĞ@N%¢…£@N†%%…ƒˆ–@Æ‰“…¢@£‡‡…„K@Å•£™•ƒ…z@[M—¦„]a‰•„…§Kˆ£”“%…ƒˆ–@Á—ƒˆ…@¢…£¤—z@¢……@ÙÅÁÄÔÅ`éÖâK”„@M–™@‰•ƒ“¤„…@—ƒˆ…aˆ…“—‰•‡`ˆ•„¢Kƒ–•†@†™–”@ˆ££—„Kƒ–•†]K%

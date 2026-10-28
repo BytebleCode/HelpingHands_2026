@@ -1,15 +1,12 @@
-# z/OS git (zopen) converts text to EBCDIC IBM-1047 on checkout and back on commit.
-# Git on other platforms ignores zos-working-tree-encoding, so files stay readable there.
-* text eol=lf zos-working-tree-encoding=ibm-1047
+# Files served or run on z/OS are stored in EBCDIC (IBM-1047), so git must never convert,
+# diff or merge them as text.
+* binary
 
-# Markdown keeps its UTF-8 punctuation, so it is tagged UTF-8 instead of converted.
-*.md zos-working-tree-encoding=utf-8
+# These stay readable (ASCII/UTF-8): docs, git config, and the workstation build tools.
+*.md text diff eol=lf
+.gitattributes text diff eol=lf
+.gitignore text diff eol=lf
+tools/** text diff eol=lf
 
-*.jpg binary
-*.jpeg binary
-*.png binary
-*.gif binary
-*.ico binary
-*.woff binary
-*.woff2 binary
-*.ttf binary
+# Image credits are part of the website, so they are EBCDIC like the rest of it.
+images/*.md binary
