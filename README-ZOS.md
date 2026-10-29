@@ -35,7 +35,7 @@ Everything in the README walkthrough on `main` works, with the same results each
   repeat (48-hour rule) and offers *Open it again*.
 - **Demo console**: *Simulate purchase* posts a card purchase to the fake FIS core as a memo post
   and awards points when it's an essential with an active offer.
-- **Rewards, giving, Neighbor Funds, volunteering, account linking and cash-out** all work. For
+- **Rewards, giving, Neighbor Funds, account linking and cash-out** all work. For
   example, Priya giving 1,000 points to Arlington reaches 10 households, and Maya's Home then shows
   *+100 points from the Arlington Neighbor Fund*.
 - **Consistent everywhere**: every page reads from the same in-browser state, so balances,
