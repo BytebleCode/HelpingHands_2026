@@ -1,8 +1,9 @@
 # Helping Hands on z/OS (Apache, EBCDIC)
 
-This branch is a **static, read-only snapshot** of Helping Hands for Apache on z/OS. There's no
-Node.js server. Every API response the app needs was captured from the real server on `main` and
-saved as a JSON file under `api/`, so Apache serves the whole demo as plain files.
+This branch runs Helping Hands on Apache on z/OS as **plain static files**, with no Node.js
+server. The server code from `main` is bundled into the page and runs in the browser, together with
+its fake FIS core and the synthetic Jacksonville data, so the whole demo works, including the
+moment simulator and the demo console.
 
 **`index.html` is the entrance.** Pages are `index.html#/rewards`, `index.html#/give` and so on,
 and every path is relative, so the site works from whatever folder Apache serves it from.
@@ -11,7 +12,7 @@ and every path is relative, so the site works from whatever folder Apache serves
 
 | Files | Encoding (in git and on z/OS) |
 |---|---|
-| Website: `index.html`, `assets/`, `api/`, `manifest.webmanifest`, `icon.svg` | **EBCDIC IBM-1047** |
+| Website: `index.html`, `assets/`, `data/` | **EBCDIC IBM-1047** |
 | `zos-setup.sh` | **EBCDIC IBM-1047** |
 | Images and fonts | binary (unchanged) |
 | `README.md`, `README-ZOS.md`, `.gitattributes`, `.gitignore`, `tools/` | readable ASCII/UTF-8 |
@@ -25,19 +26,30 @@ never converts them. GitHub shows them as binary files. Characters IBM-1047 can'
 quotes, dashes and arrows, are written as `\uXXXX` escapes (HTML entities in HTML), so the app
 still shows the same text.
 
-## What works
+## The demo
 
-- Signing in as any of the five demo members, plus the `index.html?member=HH-XXXX-XXXX` deep link
-- Every page: Home, Rewards, Give, Volunteer (all radius and cause filters), Account, and Demo,
-  including the model views and the FIS API explorer for every sample account
-- Each member's data as it looked right after sign-in when the snapshot was taken
+Everything in the README walkthrough on `main` works, with the same results each time:
 
-## What doesn't
+- **Moment simulator** (Demo tab): *Likeliest moment* / *Best time here* put Maya at Greenleaf Grocer
+  and pop a nudge with *Why?* reasons, *Activate offer* and *Use points*. Checking again shows no
+  repeat (48-hour rule) and offers *Open it again*.
+- **Demo console**: *Simulate purchase* posts a card purchase to the fake FIS core as a memo post
+  and awards points when it's an essential with an active offer.
+- **Rewards, giving, Neighbor Funds, volunteering, account linking and cash-out** all work. For
+  example, Priya giving 1,000 points to Arlington reaches 10 households, and Maya's Home then shows
+  *+100 points from the Arlington Neighbor Fund*.
+- **Consistent everywhere**: every page reads from the same in-browser state, so balances,
+  activity and FIS postings agree across Home, Rewards, Give, Account and Demo.
 
-Nothing a member does is saved. Activating an offer, giving, volunteering, linking an account,
-cashing out, pay-with-points, the purchase simulator, reset, and nudge checks all show
-*"This demo is a read-only snapshot, so changes can't be saved."* Dates and balances are fixed
-to the day of the snapshot.
+**Demo date.** The demo's "today" is fixed at **Monday, Oct 26, 2026**. On `main` the synthetic
+community is regenerated to end on the real date, so incomes and neighborhood counts drift day to
+day; on some days Arlington has too few lower-income households for the Neighbor Fund step. With
+a fixed date, every demo shows the same data. To pick another date, rebuild with
+`DEMO_DATE=YYYY-MM-DD` (see below).
+
+**Saved per browser.** Demo activity is kept in each viewer's browser (`localStorage`), so it
+survives reloads but isn't shared between people or devices. *Reset demo* in the demo console puts
+everything back to the start. A private window always starts fresh.
 
 ## Install
 
@@ -52,7 +64,7 @@ configuration is needed for this site.
 2. Tag the files: `sh ./zos-setup.sh` (IBM-1047 text, binary images and fonts)
 3. Open `http://<host>:<port>/helping-hands/` and pick a demo member. Apache serves `index.html`.
 
-The data files in `api/` work whether or not Apache converts JSON. Many setups only convert
+The data files in `data/` work whether or not Apache converts JSON. Many setups only convert
 `text/*` types, so the app reads each file's raw bytes and decodes EBCDIC itself when needed.
 HTML, CSS and JavaScript rely on Apache's normal conversion.
 
@@ -66,15 +78,16 @@ out unchanged, and the `AddType` line makes sure JavaScript counts as text:
         AddType text/javascript .js
     </Directory>
 
-## Refreshing the snapshot
+## Rebuilding
 
 On a workstation with Node.js, using a checkout of `main` (with `npm install` done) and a
 checkout of this branch:
 
     sh tools/build.sh /path/to/main /tmp/hh-mainframe
+    DEMO_DATE=2026-11-12 sh tools/build.sh /path/to/main /tmp/hh-mainframe   # another demo date
 
-`build.sh` builds the client with `tools/freeze/api.js`, which reads snapshots instead of calling
-the server, and switches it to `#/` routes and relative paths. It then runs `main`'s server in a
-scratch copy and captures every read with `tools/freeze/capture.mjs`. Finally `tools/export.mjs`
-writes the full branch tree, encoded as above, to the output folder. Copy that over this checkout
-and commit. The readable source of `zos-setup.sh` is in `tools/zos/`.
+`build.sh` bundles `main`'s client and server together with the browser stand-ins in
+`tools/browser/` (Express, `fs`, `url` and `crypto` shims, plus `server.js`, which loads the seed
+data from `data/`). It switches the client to `#/` routes and relative paths and fixes the demo
+date. Then `tools/export.mjs` writes the full branch tree to the output folder, encoded as above.
+Copy that over this checkout and commit. The readable source of `zos-setup.sh` is in `tools/zos/`.
