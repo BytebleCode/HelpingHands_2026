@@ -903,7 +903,7 @@
       "website": "https://www.firstcoasthabitat.org",
       "image": "cat-utilities",
       "impact": {
-        "unit": "volunteer build hours",
+        "unit": "build hours",
         "perDollar": 0.05
       },
       "address": "40 E Adams St, Jacksonville, FL 32202",
