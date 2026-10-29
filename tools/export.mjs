@@ -20,6 +20,12 @@ const toAscii = {
 };
 
 const iconv = (from, to, input) => execFileSync('iconv', ['-f', from, '-t', to], { input });
+// z/OS and glibc disagree on newlines in IBM-1047: z/OS converts NL (0x15) to and from ASCII
+// LF, while glibc uses 0x25. Swapping the two bytes gives z/OS's convention, which Apache and the
+// shell on z/OS expect; without it every line break reaches the browser as 0x85 and breaks the JS.
+const swapNewlines = (buf) => buf.map((b) => (b === 0x25 ? 0x15 : b === 0x15 ? 0x25 : b));
+const toZos = (text) => swapNewlines(iconv('ISO8859-1', 'IBM1047', text));
+const fromZos = (bytes) => iconv('IBM1047', 'ISO8859-1', swapNewlines(bytes)).toString('latin1');
 const walk = (dir) => readdirSync(dir, { recursive: true }).filter((f) => statSync(join(dir, f)).isFile());
 const report = { ebcdic: 0, binary: 0, readable: 0 };
 
@@ -37,8 +43,9 @@ function ebcdic(rel, src) {
     if (!toAscii[ext]) throw new Error(`non-ASCII text in ${rel} and no escape rule for ${ext || 'this file type'}`);
     text = text.replace(NON_ASCII, toAscii[ext]);
   }
-  const bytes = iconv('ISO8859-1', 'IBM1047', text);
-  if (iconv('IBM1047', 'ISO8859-1', bytes).toString('latin1') !== text) throw new Error(`IBM-1047 round trip changed ${rel}`);
+  const bytes = toZos(text);
+  if (fromZos(bytes) !== text) throw new Error(`IBM-1047 round trip changed ${rel}`);
+  if (text.includes('\n') && bytes.includes(0x25)) throw new Error(`${rel} has glibc-style 0x25 newlines`);
   writeFileSync(place(rel), bytes);
   report.ebcdic++;
 }

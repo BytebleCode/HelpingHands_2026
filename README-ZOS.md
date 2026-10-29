@@ -16,6 +16,10 @@ and every path is relative, so the site works from whatever folder Apache serves
 | Images and fonts | binary (unchanged) |
 | `README.md`, `README-ZOS.md`, `.gitattributes`, `.gitignore`, `tools/` | readable ASCII/UTF-8 |
 
+Line breaks use z/OS's EBCDIC newline (NL, `0x15`), which z/OS converts to an ASCII line feed.
+Linux's `iconv` writes `0x25` instead, which z/OS turns into byte `0x85` and breaks the JavaScript,
+so don't re-encode these files with `iconv` on Linux. Use `tools/build.sh`, which handles this.
+
 The EBCDIC files are committed already encoded, and `.gitattributes` marks them binary so git
 never converts them. GitHub shows them as binary files. Characters IBM-1047 can't hold, like curly
 quotes, dashes and arrows, are written as `\uXXXX` escapes (HTML entities in HTML), so the app
