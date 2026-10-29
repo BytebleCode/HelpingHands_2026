@@ -88,33 +88,6 @@ export const CAUSES = {
 // Pooled gifts to model-detected neighbors are held here until recipients use them.
 export const NEIGHBOR_FUND = { instNbr: '0420', applCde: 'DD', acctNbr: '4200009002', nme: 'Helping Hands Neighbor Fund' };
 
-// Sample volunteer shifts for the demo, keyed by charity EIN. Real roles live on each charity's site.
-// dayOffset is relative to "today" (applied when the server reads it).
-export const SAMPLE_SHIFTS = {
-  '46-5014769': [
-    { title: 'Warehouse Food Sort', dayOffset: 1, start: '09:00', hours: 3, spots: 30, taken: 18, familyFriendly: true, skills: ['Lifting', 'Teamwork'], desc: 'Sort and pack donated food for partner pantries.' },
-    { title: 'Mobile Pantry Distribution', dayOffset: 6, start: '08:30', hours: 3, spots: 20, taken: 9, familyFriendly: true, skills: ['Customer service'], desc: 'Help neighbors pick up fresh produce and staples.' },
-  ],
-  '59-6002104': [{ title: 'Lunch Service', dayOffset: 2, start: '11:00', hours: 2, spots: 10, taken: 6, familyFriendly: false, skills: ['Food handling'], desc: 'Serve a hot midday meal in the downtown dining room.' }],
-  '59-3229898': [{ title: 'Donation Center Shift', dayOffset: 4, start: '10:00', hours: 3, spots: 8, taken: 3, familyFriendly: false, skills: ['Organization'], desc: 'Sort clothing and hygiene donations for residents.' }],
-  '59-2880071': [{ title: 'Saturday Build Crew', dayOffset: 8, start: '08:00', hours: 6, spots: 15, taken: 7, familyFriendly: false, skills: ['Tools', '16+'], desc: 'Frame, paint and finish homes alongside future homeowners.' }],
-  '75-3002172': [{ title: 'Patient Welcome Desk', dayOffset: 5, start: '08:30', hours: 4, spots: 4, taken: 2, familyFriendly: false, skills: ['Bilingual a plus'], desc: 'Greet patients and help with intake paperwork.' }],
-  '59-2625008': [{ title: 'Home-Cooked Dinner Team', dayOffset: 3, start: '16:30', hours: 3, spots: 8, taken: 4, familyFriendly: true, skills: ['Cooking'], desc: 'Cook and serve dinner for families staying at the House.' }],
-  '59-2437003': [{ title: 'Client Intake Support', dayOffset: 7, start: '09:00', hours: 3, spots: 5, taken: 2, familyFriendly: false, skills: ['Patience', 'Computer basics'], desc: 'Help families prepare paperwork for emergency assistance.' }],
-  '59-1814635': [{ title: 'Donation Drive Sorting', dayOffset: 10, start: '10:00', hours: 2, spots: 12, taken: 5, familyFriendly: false, skills: ['Organization'], desc: 'Sort essentials for families in shelter. Location shared after volunteer screening.' }],
-  '59-0683256': [{ title: 'Mentor Info Session', dayOffset: 9, start: '18:00', hours: 1.5, spots: 25, taken: 11, familyFriendly: false, skills: ['21+'], desc: 'Learn how to become a Big and meet the match team.' }],
-  '59-6167630': [{ title: 'Homework Help Hour', dayOffset: 2, start: '15:30', hours: 2, spots: 10, taken: 4, familyFriendly: false, skills: ['Math', 'Reading'], desc: 'Help club members with homework after school.' }],
-  '27-1456179': [{ title: 'Senior Check-in Calls', dayOffset: 1, start: '13:00', hours: 1, spots: 20, taken: 7, familyFriendly: false, skills: ['Conversation'], desc: 'Friendly phone check-ins with older adults living alone.' }],
-  '80-0962807': [{ title: 'Mock Interview Panel', dayOffset: 12, start: '17:30', hours: 2, spots: 6, taken: 2, familyFriendly: false, skills: ['Hiring experience'], desc: 'Coach veterans through practice interviews.' }],
-  '59-0624410': [
-    { title: 'Dog Walking & Socializing', dayOffset: 1, start: '08:00', hours: 2, spots: 12, taken: 7, familyFriendly: true, skills: ['Animals'], desc: 'Walk and socialize adoptable dogs.' },
-    { title: 'Adoption Event Helper', dayOffset: 9, start: '11:00', hours: 4, spots: 10, taken: 3, familyFriendly: true, skills: ['Customer service'], desc: 'Help families meet their new companions.' },
-  ],
-  '01-0709158': [{ title: 'Pet Food Bank Packing', dayOffset: 4, start: '09:30', hours: 2, spots: 14, taken: 6, familyFriendly: true, skills: ['None needed'], desc: 'Pack pet food for families who need a hand feeding their pets.' }],
-  '59-3611338': [{ title: 'River Cleanup', dayOffset: 6, start: '08:00', hours: 3, spots: 40, taken: 21, familyFriendly: true, skills: ['Outdoors'], desc: 'Pick up litter along the St. Johns River shoreline.' }],
-  '47-2342111': [{ title: 'Creek Restoration Day', dayOffset: 13, start: '08:30', hours: 3, spots: 25, taken: 8, familyFriendly: true, skills: ['Outdoors', 'Tools'], desc: 'Plant natives and clear invasives along Hogans Creek.' }],
-};
-
 // Name pools for the synthetic community households.
 export const FIRST_NAMES = ['Aaliyah', 'Andre', 'Angela', 'Brandon', 'Carmen', 'Chris', 'Danielle', 'Darnell', 'Elena', 'Eric', 'Fatima', 'Gabriel', 'Hannah', 'Isaiah', 'Jasmine', 'Javier', 'Keisha', 'Kevin', 'Latoya', 'Luis', 'Megan', 'Marcus', 'Nadia', 'Nathan', 'Olivia', 'Omar', 'Paige', 'Rashad', 'Rosa', 'Samuel', 'Tanya', 'Terrence', 'Uma', 'Victor', 'Whitney', 'Xavier', 'Yolanda', 'Zach', 'Bianca', 'Derek', 'Ivy', 'Malik', 'Noor', 'Trevor'];
 export const LAST_NAMES = ['Adams', 'Baker', 'Brooks', 'Campbell', 'Carter', 'Cruz', 'Diaz', 'Edwards', 'Foster', 'Garcia', 'Green', 'Hall', 'Harris', 'Hughes', 'Jackson', 'Jenkins', 'Kim', 'Lee', 'Lewis', 'Martin', 'Mitchell', 'Morales', 'Nguyen', 'Owens', 'Patel', 'Perez', 'Price', 'Reed', 'Rivera', 'Robinson', 'Sanders', 'Scott', 'Simmons', 'Torres', 'Turner', 'Walker', 'Ward', 'Washington', 'Watson', 'Williams', 'Wright', 'Young'];

@@ -56,7 +56,7 @@ router.get('/overview', wrap(async (req, res) => {
     totals: {
       institutions: core.institutions.length, customers: core.customers.length, accounts: accounts.length, transactions: txTotal,
       simulatedHouseholds: core.simulated, personas: store.people().length, partners: catalog.partners.length,
-      offers: catalog.offers.length, charities: catalog.charities.length, shifts: catalog.opportunities.length,
+      offers: catalog.offers.length, charities: catalog.charities.length,
     },
     dateRange: { from: first, to: last },
     institutions,

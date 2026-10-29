@@ -6,7 +6,6 @@ import Welcome from './pages/Welcome.jsx';
 import Home from './pages/Home.jsx';
 import Rewards from './pages/Rewards.jsx';
 import Give from './pages/Give.jsx';
-import Volunteer from './pages/Volunteer.jsx';
 import Account from './pages/Account.jsx';
 import Demo from './pages/Demo.jsx';
 
@@ -27,7 +26,6 @@ export default function App() {
         <Route index element={<Home />} />
         <Route path="rewards" element={<Rewards />} />
         <Route path="give" element={<Give />} />
-        <Route path="volunteer" element={<Volunteer />} />
         <Route path="account" element={<Account />} />
         <Route path="demo" element={<Demo />} />
       </Route>

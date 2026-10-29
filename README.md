@@ -20,7 +20,7 @@ income‑aware benefits, charitable giving, and community volunteering.
 
 ---
 
-**What's built:** a working web app and installable iPhone app (PWA) backed by a **simulated FIS core** that uses FIS-style data formats. It has needs-only offers chosen from real transaction history, income-tiered reward multipliers, multi-bank account linking by Helping Hands ID, real Jacksonville charities, Neighbor Funds that route gifts to model-detected lower-income households, nearby volunteer shifts, and gamified giving. The site itself adapts to income: savings-first for lower-income members, giving-first for higher-income ones.
+**What's built:** a working web app and installable iPhone app (PWA) backed by a **simulated FIS core** that uses FIS-style data formats. It has needs-only offers chosen from real transaction history, income-tiered reward multipliers, multi-bank account linking by Helping Hands ID, real Jacksonville charities, Neighbor Funds that route gifts to model-detected lower-income households, and gamified giving. The site itself adapts to income: savings-first for lower-income members, giving-first for higher-income ones.
 
 ## Run it
 
@@ -55,16 +55,15 @@ Open http://localhost:5173 and pick a demo member.
 3. Switch to **Maya** in the Demo tab (Cornerstone, 3×, *savings first*). Her Home shows the gift from the Arlington Neighbor Fund. Maya was one of the 10.
 4. **Rewards:** activate *Greenleaf Grocer*. It matches a grocery run she made last week (coupons are retroactive), and the partner settles through an FIS transfer. Wants are withheld.
 5. **Give:** give to **Feeding Northeast Florida**, a real food bank with its IRS EIN shown. Harvest Table matches it 1:1.
-6. **Volunteer:** sign up for a shift near Arlington and check in. Each hour adds 500 impact.
-7. **Moment of intent (Demo tab, as Maya):** the heatmap shows when she usually shops for groceries (Sunday mornings stand out). Press *Likeliest moment*: the simulator puts her at Greenleaf Grocer that morning and a nudge pops up with *Why?* reasons and two actions: activate the offer or pay with points (posted through FIS). Press *Check this moment* again: no new pop-up (no repeats within 48 hours), but *Open it again* brings the earlier nudge back, and Home's *Your nudges* list keeps every nudge for 7 days. Move *Where* to Meridian Fuel and press *Best time here* to see her best fill-up time. Try Tuesday 8 PM at the same store: no nudge, 1% chance.
-8. **Demo tab again:** *How the model reads Maya* shows each spending signal pushing her estimate, where she lands in the community, the actual-vs-predicted scatter, need by neighborhood, the raw FIS API explorer, and the purchase simulator.
+6. **Moment of intent (Demo tab, as Maya):** the heatmap shows when she usually shops for groceries (Sunday mornings stand out). Press *Likeliest moment*: the simulator puts her at Greenleaf Grocer that morning and a nudge pops up with *Why?* reasons and two actions: activate the offer or pay with points (posted through FIS). Press *Check this moment* again: no new pop-up (no repeats within 48 hours), but *Open it again* brings the earlier nudge back, and Home's *Your nudges* list keeps every nudge for 7 days. Move *Where* to Meridian Fuel and press *Best time here* to see her best fill-up time. Try Tuesday 8 PM at the same store: no nudge, 1% chance.
+7. **Demo tab again:** *How the model reads Maya* shows each spending signal pushing her estimate, where she lands in the community, the actual-vs-predicted scatter, need by neighborhood, the raw FIS API explorer, and the purchase simulator.
 
 ## How it works
 
 ```
 React PWA ──/api──▶ Helping Hands API ──fisClient (HTTP)──▶ Fake FIS core /fis/v1 ──▶ static JSON DB
                     identity · income model · recommender     customers · accounts · transactions
-                    wallet · points · donations · volunteer   memo posts · transfers · ownership checks
+                    wallet · points · donations              memo posts · transfers · ownership checks
                     neighbor funds · experience modes         + 264 synthetic households (expanded at start)
 ```
 
@@ -79,11 +78,11 @@ React PWA ──/api──▶ Helping Hands API ──fisClient (HTTP)──▶ 
 - **Experience modes:** Cornerstone and Foundation members get *savings first* (boosted offers lead). Keystone gets *save & give*. Pillar and Summit get *giving first*: Neighbor Funds, matches and charities lead, offers move down, and the nav puts Give ahead of Rewards.
 - **Neighbor Funds:** a scoring job runs the model over every household through the FIS adapter. Donors pick an area (a neighborhood or the whole city) and a group (lower-income or lowest-income tiers), and points are split evenly. Groups under 10 households can't be targeted, and donors only see totals.
 - **Coupons are backwards compatible:** they're card-linked (no new POS hardware), purchases from the 30 days *before* activation count, and a Code 39 barcode covers legacy registers.
-- **Gamification without leaderboards:** impact score = points given + volunteer hours × 500. It drives levels, monthly streaks, badges (including *Good Neighbor*), partner matches and a community goal, with no dollar rankings.
+- **Gamification without leaderboards:** impact score = points given. It drives levels, monthly streaks, badges (including *Good Neighbor*), partner matches and a community goal, with no dollar rankings.
 
 ## Notes
 
-- **Charities are real** (names, EINs and IRS addresses from public records). Everything else is fictional: people, households, banks, merchants and routing numbers. Gifts, settlement accounts, volunteer shifts and impact figures are simulated for the demo; no money reaches any charity.
+- **Charities are real** (names, EINs and IRS addresses from public records). Everything else is fictional: people, households, banks, merchants and routing numbers. Gifts, settlement accounts and impact figures are simulated for the demo; no money reaches any charity.
 - Neighborhood income levels are illustrative inputs to the synthetic population, not census data.
 - Showing an inferred income is sensitive. The app frames it as a benefit tier, explains the drivers, hides the dollar estimate by default and offers a review path. A real launch would need a fair-lending review and opt-in for Neighbor Fund eligibility.
 - Photography is from Unsplash (see `client/public/images/CREDITS.md`).

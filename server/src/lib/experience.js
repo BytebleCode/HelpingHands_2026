@@ -4,21 +4,21 @@
 export const EXPERIENCES = {
   save: {
     key: 'save', label: 'Savings first',
-    summary: 'Leads with boosted essentials offers and cash-out. Giving is framed around time and small gifts.',
+    summary: 'Leads with boosted essentials offers and cash-out. Giving is framed around small gifts.',
     homeLead: 'Boosted offers for essentials', pointsUse: 'Cash out or keep for essentials',
-    nav: ['home', 'rewards', 'give', 'volunteer', 'account'],
+    nav: ['home', 'rewards', 'give', 'account'],
   },
   balance: {
     key: 'balance', label: 'Save & give',
     summary: 'Offers first, with Neighbor Funds and matches close behind.',
     homeLead: 'Offers, then ways to give', pointsUse: 'Split between saving and giving',
-    nav: ['home', 'rewards', 'give', 'volunteer', 'account'],
+    nav: ['home', 'rewards', 'give', 'account'],
   },
   give: {
     key: 'give', label: 'Giving first',
     summary: 'Leads with neighborhoods that need help most, partner matches and charities. Offers move down the page.',
     homeLead: 'Neighbor Funds and matched giving', pointsUse: 'Give to neighbors and charities',
-    nav: ['home', 'give', 'volunteer', 'rewards', 'account'],
+    nav: ['home', 'give', 'rewards', 'account'],
   },
 };
 

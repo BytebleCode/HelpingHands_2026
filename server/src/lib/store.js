@@ -1,4 +1,4 @@
-// Helping Hands application state (identities, points, activations, donations, volunteer signups).
+// Helping Hands application state (identities, points, activations, donations).
 // Seeded from data/seed/*.json; mutations persist to data/runtime/app-state.json.
 import { readFileSync, writeFileSync, existsSync, mkdirSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
@@ -14,7 +14,7 @@ export const incomeModel = JSON.parse(readFileSync(seedPath('income-model.json')
 const { identities, community } = JSON.parse(readFileSync(seedPath('identities.json'), 'utf8'));
 export const personaTruth = Object.fromEntries(identities.map((i) => [i.hhid, i.trueIncome]));
 export const communityMembers = community;
-const STATE_VERSION = 2;
+const STATE_VERSION = 3;
 
 export const newId = (prefix) => `${prefix}_${randomUUID().replaceAll('-', '').slice(0, 12)}`;
 const daysAgoTs = (n, hour = 15) => `${fromDay(todayDay() - n)}T${String(hour).padStart(2, '0')}:00:00.000Z`;
@@ -23,19 +23,17 @@ const daysAgoTs = (n, hour = 15) => `${fromDay(todayDay() - n)}T${String(hour).p
 const HISTORY = {
   'HH-7KQ3-M2XA': {
     donations: [[52, 'feeding-northeast-florida', 500], [24, 'ronald-mcdonald-house-jacksonville', 400]],
-    volunteer: [[31, 'opp-001', 3]],
   },
   'HH-G9CE-3PHT': {
     donations: [[88, 'eldersource', 300], [58, 'volunteers-in-medicine-jacksonville', 300], [27, 'eldersource', 350]],
-    volunteer: [[40, 'opp-012', 1], [12, 'opp-012', 1]],
   },
-  'HH-R4DN-8VWE': { donations: [[35, 'everypet', 600]], volunteer: [] },
-  'HH-J6WT-5BKR': { donations: [], volunteer: [] },
-  'HH-P2YN-9FZC': { donations: [[64, 'big-brothers-big-sisters-of-northeast-florida', 12000], [20, 'st-johns-riverkeeper', 8000]], volunteer: [] },
+  'HH-R4DN-8VWE': { donations: [[35, 'everypet', 600]] },
+  'HH-J6WT-5BKR': { donations: [] },
+  'HH-P2YN-9FZC': { donations: [[64, 'big-brothers-big-sisters-of-northeast-florida', 12000], [20, 'st-johns-riverkeeper', 8000]] },
 };
 
 function initialState() {
-  const s = { version: STATE_VERSION, people: {}, points: {}, earned: {}, activations: {}, donations: [], signups: [], neighborAllocations: {} };
+  const s = { version: STATE_VERSION, people: {}, points: {}, earned: {}, activations: {}, donations: [], neighborAllocations: {} };
   for (const id of identities) {
     s.people[id.hhid] = {
       hhid: id.hhid, firstName: id.firstName, lastName: id.lastName, blurb: id.blurb, zipCde: id.zipCde, location: id.location,
@@ -46,12 +44,9 @@ function initialState() {
     s.points[id.hhid] = { balance: 0, ledger: [] };
     s.earned[id.hhid] = {};
     s.activations[id.hhid] = {};
-    const h = HISTORY[id.hhid] || { donations: [], volunteer: [] };
+    const h = HISTORY[id.hhid] || { donations: [] };
     for (const [ago, charityId, pts] of h.donations) {
       s.donations.push({ id: newId('don'), hhid: id.hhid, charityId, points: pts, matchedPoints: 0, dollars: pts / 100, ts: daysAgoTs(ago), fisRef: `FT-HIST-${ago}${pts}`, historical: true });
-    }
-    for (const [ago, oppId, hours] of h.volunteer) {
-      s.signups.push({ id: newId('vol'), hhid: id.hhid, oppId, status: 'completed', hours, ts: daysAgoTs(ago + 3), completedTs: daysAgoTs(ago), dateIso: fromDay(todayDay() - ago), historical: true });
     }
   }
   return s;

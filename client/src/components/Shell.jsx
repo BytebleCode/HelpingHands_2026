@@ -1,6 +1,6 @@
 import { NavLink, Outlet, useLocation, useNavigate } from 'react-router-dom';
 import { useEffect } from 'react';
-import { House, Ticket, HeartHandshake, HandHelping, CircleUserRound, LogOut, FlaskConical } from 'lucide-react';
+import { House, Ticket, HeartHandshake, CircleUserRound, LogOut, FlaskConical } from 'lucide-react';
 import { BrandMark, Progress } from './ui.jsx';
 import { useSession } from '../lib/session.jsx';
 import { pts, money2 } from '../lib/format.js';
@@ -10,10 +10,9 @@ const NAV_ITEMS = {
   home: { to: '/', label: 'Home', icon: House, end: true },
   rewards: { to: '/rewards', label: 'Rewards', icon: Ticket },
   give: { to: '/give', label: 'Give', icon: HeartHandshake },
-  volunteer: { to: '/volunteer', label: 'Volunteer', icon: HandHelping },
   account: { to: '/account', label: 'Account', icon: CircleUserRound },
 };
-const DEFAULT_ORDER = ['home', 'rewards', 'give', 'volunteer', 'account'];
+const DEFAULT_ORDER = ['home', 'rewards', 'give', 'account'];
 
 export function Brand() {
   return (
@@ -31,7 +30,7 @@ export default function Shell() {
   useEffect(() => { window.scrollTo({ top: 0 }); }, [pathname]);
   if (!me) return null;
   const initials = `${me.firstName[0]}${me.lastName[0]}`;
-  // Giving-first members see Give and Volunteer ahead of Rewards.
+  // Giving-first members see Give ahead of Rewards.
   const NAV = (me.experience?.nav || DEFAULT_ORDER).map((k) => NAV_ITEMS[k]);
   const giving = me.experience?.key === 'give';
 

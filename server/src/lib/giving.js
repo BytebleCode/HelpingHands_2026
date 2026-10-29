@@ -1,13 +1,10 @@
 // Donations (routed to charities' FIS-core accounts) and the giving journey: impact score, levels,
-// streaks, badges, partner matching and the community goal. Volunteering counts toward impact so
-// members with little money to spare can progress too. No absolute-dollar leaderboards.
+// streaks, badges, partner matching and the community goal. No absolute-dollar leaderboards.
 import { store, catalog, newId } from './store.js';
 import { fis } from './fisClient.js';
 import { HttpError } from './context.js';
 import { POINTS_PER_DOLLAR } from './rewards.js';
 import { todayDay, fromDay } from './dates.js';
-
-export const HOUR_VALUE = 500; // impact points per volunteer hour
 
 export const LEVELS = [
   { key: 'kindred', name: 'Kindred', min: 0 },
@@ -19,18 +16,14 @@ export const LEVELS = [
 
 const BADGES = [
   { key: 'first-gift', name: 'First Gift', desc: 'Made your first donation', test: (j) => j.gifts >= 1 },
-  { key: 'neighbor', name: 'Neighbor', desc: 'Completed a volunteer shift', test: (j) => j.shifts >= 1 },
-  { key: 'community-builder', name: 'Community Builder', desc: 'Gave both rewards and time', test: (j) => j.gifts >= 1 && j.shifts >= 1 },
   { key: 'explorer', name: 'Explorer', desc: 'Supported three different causes', test: (j) => j.causes >= 3 },
   { key: 'steady-hand', name: 'Steady Hand', desc: 'Gave three months in a row', test: (j) => j.streak >= 3 },
   { key: 'matched', name: 'Multiplied', desc: 'Unlocked a partner match', test: (j) => j.matched > 0 },
   { key: 'cause-champion', name: 'Cause Champion', desc: 'Five gifts to a single cause', test: (j) => j.maxPerCause >= 5 },
-  { key: 'time-giver', name: 'Time Giver', desc: 'Ten volunteer hours', test: (j) => j.hours >= 10 },
   { key: 'good-neighbor', name: 'Good Neighbor', desc: 'Gave to a Neighbor Fund', test: (j) => j.neighborGifts >= 1 },
 ];
 
 const charityById = () => Object.fromEntries(catalog.charities.map((c) => [c.id, c]));
-const oppById = () => Object.fromEntries(catalog.opportunities.map((o) => [o.id, o]));
 const monthKey = (iso) => iso.slice(0, 7);
 
 function monthStreak(months) {
@@ -45,13 +38,10 @@ function monthStreak(months) {
 
 export function journey(hhid) {
   const charities = charityById();
-  const opps = oppById();
   const gifts = store.state.donations.filter((d) => d.hhid === hhid);
-  const shifts = store.state.signups.filter((s) => s.hhid === hhid && s.status === 'completed');
   const donated = gifts.reduce((a, g) => a + g.points, 0);
   const matched = gifts.reduce((a, g) => a + (g.matchedPoints || 0), 0);
-  const hours = shifts.reduce((a, s) => a + s.hours, 0);
-  const impactScore = Math.round(donated + hours * HOUR_VALUE);
+  const impactScore = Math.round(donated);
 
   const levelIdx = LEVELS.reduce((idx, l, i) => (impactScore >= l.min ? i : idx), 0);
   const level = LEVELS[levelIdx];
@@ -61,9 +51,9 @@ export function journey(hhid) {
   const causeOf = (g) => (g.kind === 'neighbor' ? 'neighbors' : charities[g.charityId]?.cause);
   const perCause = {};
   for (const g of gifts) perCause[causeOf(g)] = (perCause[causeOf(g)] || 0) + 1;
-  const streak = monthStreak([...gifts.map((g) => monthKey(g.ts)), ...shifts.map((s) => monthKey(s.completedTs))]);
+  const streak = monthStreak(gifts.map((g) => monthKey(g.ts)));
   const neighborGifts = gifts.filter((g) => g.kind === 'neighbor');
-  const stats = { gifts: gifts.length, shifts: shifts.length, hours, matched, streak, neighborGifts: neighborGifts.length, causes: Object.keys(perCause).length, maxPerCause: Math.max(0, ...Object.values(perCause)) };
+  const stats = { gifts: gifts.length, matched, streak, neighborGifts: neighborGifts.length, causes: Object.keys(perCause).length, maxPerCause: Math.max(0, ...Object.values(perCause)) };
   const badges = BADGES.map((b) => ({ key: b.key, name: b.name, desc: b.desc, earned: b.test(stats) }));
 
   // Tangible impact, e.g. "126 meals", including partner matches.
@@ -78,16 +68,13 @@ export function journey(hhid) {
     const units = ((g.points + (g.matchedPoints || 0)) / POINTS_PER_DOLLAR) * c.impact.perDollar;
     impact[c.impact.unit] = (impact[c.impact.unit] || 0) + units;
   }
-  const history = [
-    ...gifts.map((g) => ({
-      type: 'gift', kind: g.kind || 'charity', id: g.id, ts: g.ts, points: g.points, matchedPoints: g.matchedPoints || 0, dollars: g.dollars, fisRef: g.fisRef,
-      charity: g.kind === 'neighbor' ? `${g.areaName} Neighbor Fund` : charities[g.charityId]?.name, recipients: g.recipients,
-    })),
-    ...shifts.map((s) => ({ type: 'volunteer', id: s.id, ts: s.completedTs, charity: charities[opps[s.oppId]?.charityId]?.name, title: opps[s.oppId]?.title, hours: s.hours })),
-  ].sort((a, b) => b.ts.localeCompare(a.ts));
+  const history = gifts.map((g) => ({
+    type: 'gift', kind: g.kind || 'charity', id: g.id, ts: g.ts, points: g.points, matchedPoints: g.matchedPoints || 0, dollars: g.dollars, fisRef: g.fisRef,
+    charity: g.kind === 'neighbor' ? `${g.areaName} Neighbor Fund` : charities[g.charityId]?.name, recipients: g.recipients,
+  })).sort((a, b) => b.ts.localeCompare(a.ts));
 
   return {
-    impactScore, donatedPoints: donated, matchedPoints: matched, volunteerHours: hours, hourValue: HOUR_VALUE,
+    impactScore, donatedPoints: donated, matchedPoints: matched,
     neighborHouseholds: neighborGifts.reduce((a, g) => a + g.recipients, 0),
     level: { ...level, index: levelIdx }, nextLevel: next, progress: Math.min(1, progress), toNext: next ? next.min - impactScore : 0,
     levels: LEVELS, streak, badges,

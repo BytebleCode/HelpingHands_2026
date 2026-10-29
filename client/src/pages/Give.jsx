@@ -1,12 +1,12 @@
 import { useMemo, useState } from 'react';
-import { Gift, HandHelping, Users, Compass, CalendarCheck, Sparkles, Award, Clock, Flame, MapPin, Landmark, HeartHandshake, ExternalLink, Home as HomeIcon, ShieldCheck } from 'lucide-react';
+import { Gift, Users, Compass, CalendarCheck, Sparkles, Award, Flame, MapPin, Landmark, HeartHandshake, ExternalLink, Home as HomeIcon, ShieldCheck } from 'lucide-react';
 import { Hero, SectionHead, Progress, Img, Modal, PageLoading, PageError, Notice } from '../components/ui.jsx';
 import { NeighborGiftModal, NeedList } from '../components/Neighbors.jsx';
 import { api, useApi } from '../lib/api.js';
 import { useSession, useToast } from '../lib/session.jsx';
 import { pts, money, money2, shortDate, plural, relTime } from '../lib/format.js';
 
-const BADGE_ICON = { 'first-gift': Gift, neighbor: HandHelping, 'community-builder': Users, explorer: Compass, 'steady-hand': CalendarCheck, matched: Sparkles, 'cause-champion': Award, 'time-giver': Clock, 'good-neighbor': HomeIcon };
+const BADGE_ICON = { 'first-gift': Gift, explorer: Compass, 'steady-hand': CalendarCheck, matched: Sparkles, 'cause-champion': Award, 'good-neighbor': HomeIcon };
 
 const impactLine = (c, dollars) => {
   const n = dollars * c.impact.perDollar;
@@ -79,7 +79,7 @@ export function DonateModal({ charity, balance, campaigns, onClose, onDone }) {
           <button className="btn btn-primary" onClick={onClose}>Done</button>
         </div>
       ) : max < 100 ? (
-        <p className="muted">You need at least 100 points to give. You can also give time. Volunteer shifts count toward your impact.</p>
+        <p className="muted">You need at least 100 points to give. Everyday purchases and offers earn points quickly.</p>
       ) : (
         <>
           <p className="muted">{charity.mission}</p>
@@ -199,7 +199,7 @@ export default function Give() {
         <hr className="divider" />
         <div className="grid-3" style={{ gap: 'var(--s4)' }}>
           <div className="stat"><div className="label">Points given</div><div className="value num">{pts(j.donatedPoints)}</div></div>
-          <div className="stat"><div className="label">Volunteer hours</div><div className="value num">{j.volunteerHours}</div></div>
+          <div className="stat"><div className="label">Partner matches</div><div className="value num">{pts(j.matchedPoints)}</div></div>
           <div className="stat"><div className="label">Neighbors helped</div><div className="value num">{pts(j.neighborHouseholds)}</div></div>
         </div>
         {j.impact.length > 0 && (
@@ -207,7 +207,7 @@ export default function Give() {
             {j.impact.map((i) => <span key={i.unit} className="badge gold">{pts(i.amount)} {i.unit}</span>)}
           </div>
         )}
-        <p className="small muted mt-4">An hour of volunteering adds {pts(j.hourValue)} to your impact score, the same as a $5 gift. There are no dollar leaderboards here.</p>
+        <p className="small muted mt-4">Every point you give adds one to your impact score. There are no dollar leaderboards here.</p>
       </div>
 
       <div className="stack gap-5">
@@ -235,7 +235,7 @@ export default function Give() {
         title={givingFirst ? <>Your rewards can<br /><span className="italic">lift your neighbors.</span></> : <>Turn rewards into<br /><span className="italic">meals, shelter and stories.</span></>}
         sub={givingFirst
           ? `Your ${me.tier.name} tier earns ${me.tier.multiplier}× on essentials. Your points go furthest with Jacksonville households the model finds need them most, or with the local charities below.`
-          : 'Give points to real Jacksonville nonprofits, or give your time. Partners match gifts to the causes they champion.'}>
+          : 'Give points to real Jacksonville nonprofits. Partners match gifts to the causes they champion.'}>
         <div className="hero-stats">
           <div className="hero-stat"><div className="label">Available to give</div><div className="value num">{pts(data.points)}</div><div className="sub">{money2(data.points / 100)}</div></div>
           <div className="hero-stat"><div className="label">Impact score</div><div className="value num">{pts(j.impactScore)}</div><div className="sub">{j.level.name}</div></div>
@@ -266,18 +266,18 @@ export default function Give() {
         </section>
 
         <section className="section">
-          <SectionHead label="History" title="Your gifts & time" />
+          <SectionHead label="History" title="Your gifts" />
           <div className="card pad">
             {j.history.length === 0 ? <div className="empty small">Your first gift will appear here.</div> : (
               <div className="list">
                 {j.history.map((h) => (
                   <div key={h.id} className="list-item">
-                    <div className="list-icon gold">{h.type === 'gift' ? (h.kind === 'neighbor' ? <Users /> : <HeartHandshake />) : <HandHelping />}</div>
+                    <div className="list-icon gold">{h.kind === 'neighbor' ? <Users /> : <HeartHandshake />}</div>
                     <div className="grow">
-                      <div className="small">{h.type === 'gift' ? (h.kind === 'neighbor' ? `${h.charity} · ${h.recipients} households` : `Gift to ${h.charity}`) : `${h.title} · ${h.charity}`}</div>
-                      <div className="small muted">{relTime(h.ts)}{h.type === 'gift' && h.matchedPoints ? ` · matched ${money2(h.matchedPoints / 100)}` : ''}{h.fisRef && !h.fisRef.startsWith('FT-HIST') ? ` · FIS ${h.fisRef}` : ''}</div>
+                      <div className="small">{h.kind === 'neighbor' ? `${h.charity} · ${h.recipients} households` : `Gift to ${h.charity}`}</div>
+                      <div className="small muted">{relTime(h.ts)}{h.matchedPoints ? ` · matched ${money2(h.matchedPoints / 100)}` : ''}{h.fisRef && !h.fisRef.startsWith('FT-HIST') ? ` · FIS ${h.fisRef}` : ''}</div>
                     </div>
-                    <div className="num muted">{h.type === 'gift' ? `${pts(h.points)} pts` : `${h.hours} hr`}</div>
+                    <div className="num muted">{`${pts(h.points)} pts`}</div>
                   </div>
                 ))}
               </div>

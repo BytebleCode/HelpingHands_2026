@@ -155,7 +155,7 @@ function DemoConsole({ onChange }) {
     } catch (e) { toast.error(e); } finally { setBusy(false); }
   };
   const reset = async () => {
-    if (!window.confirm('Reset all demo activity (points, offers, gifts, signups and FIS postings)?')) return;
+    if (!window.confirm('Reset all demo activity (points, offers, gifts and FIS postings)?')) return;
     await api('/admin/reset', { method: 'POST' });
     signOut();
     navigate('/welcome');

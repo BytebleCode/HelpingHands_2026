@@ -14,7 +14,6 @@ everything else at `w=1200`, `q=70`, `fm=jpg`).
 | hero-home.jpg | Mahdi | https://unsplash.com/photos/golden-light-beam-across-a-lamp-and-plant-6ZZ71gUJGhw |
 | hero-rewards.jpg | Lisa Summerour | https://unsplash.com/photos/orange-and-green-chili-peppers-djL1Ky_aBow |
 | hero-give.jpg | Alejandra Ezquerro | https://unsplash.com/photos/two-persons-holding-fruits-tYdgOQk72iA |
-| hero-volunteer.jpg | Giuseppe Famiani | https://unsplash.com/photos/Tq0gR4kAs2g |
 | hero-account.jpg | Jp Valery | https://unsplash.com/photos/a-yellow-light-shines-on-a-tiled-wall-rRYpnT8KVck |
 | hero-demo.jpg | Richard Sagredo (Main Street Bridge, Jacksonville, FL) | https://unsplash.com/photos/the-sun-is-setting-over-a-bridge-over-a-body-of-water-Zi9mGonH_24 |
 | hero-neighbors.jpg | Stefan Szankowski | https://unsplash.com/photos/suburban-street-with-houses-at-sunset-gIEHX6-0F50 |

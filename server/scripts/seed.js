@@ -1,11 +1,11 @@
 // Builds the static DB: the fake FIS core (institutions, customers, accounts, transactions),
-// the Helping Hands catalog (partners, offers, charities, volunteer shifts), demo identities and a
+// the Helping Hands catalog (partners, offers, charities), demo identities and a
 // synthetic community of Jacksonville households.
 import { writeFileSync, mkdirSync, readFileSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { generateHousehold, makeRandom, profileForIncome, PARTNER_MERCHANT_IDS } from './generator.js';
 import {
-  INSTITUTIONS, REWARDS_POOL, NEIGHBOR_FUND, PARTNERS, OFFERS, SAMPLE_SHIFTS, CAUSES, CAMPAIGNS, COMMUNITY_GOAL, FIRST_NAMES, LAST_NAMES,
+  INSTITUTIONS, REWARDS_POOL, NEIGHBOR_FUND, PARTNERS, OFFERS, CAUSES, CAMPAIGNS, COMMUNITY_GOAL, FIRST_NAMES, LAST_NAMES,
 } from './catalog-data.js';
 import { CATEGORIES } from '../src/lib/mcc.js';
 import { todayDay, fromDay } from '../src/lib/dates.js';
@@ -244,16 +244,12 @@ const offers = OFFERS.map((o) => {
   };
 });
 
-const opportunities = charities
-  .flatMap((c) => (SAMPLE_SHIFTS[c.ein] || []).map((s) => ({ charityId: c.id, ...s, sample: true })))
-  .map((o, i) => ({ id: `opp-${String(i + 1).padStart(3, '0')}`, ...o }));
-
 // ---------------------------------------------------------------- write
 const meta = { asOfDt: fromDay(END_DAY), generatedAt: new Date().toISOString(), organizationId: 'HHDEMO', fictional: true, windowDays: DAYS };
 const core = { meta, institutions: INSTITUTIONS, customers, accounts, transactions, simulation };
 writeFileSync(`${dir}fis-core.json`, JSON.stringify(core));
 writeFileSync(`${dir}catalog.json`, JSON.stringify({
-  market: { ...market, charitiesPulledAt: pulledAt }, partners, offers, charities, opportunities, causes: CAUSES,
+  market: { ...market, charitiesPulledAt: pulledAt }, partners, offers, charities, causes: CAUSES,
   campaigns: CAMPAIGNS, communityGoal: COMMUNITY_GOAL, rewardsPool: REWARDS_POOL, neighborFund: NEIGHBOR_FUND,
 }, null, 2));
 writeFileSync(`${dir}identities.json`, JSON.stringify({ meta, identities, community }, null, 2));
@@ -261,7 +257,7 @@ writeFileSync(`${dir}identities.json`, JSON.stringify({ meta, identities, commun
 const txCount = Object.values(transactions).reduce((a, t) => a + t.length, 0);
 console.log(`Static DB written (as of ${meta.asOfDt}): ${INSTITUTIONS.length} institutions, ${customers.length} customers, ${accounts.length} accounts, ${txCount} stored transactions`);
 console.log(`Community: ${community.length} synthetic households across ${Object.keys(market.neighborhoods).length} ${market.name} neighborhoods (expanded at startup)`);
-console.log(`Catalog: ${partners.length} partners, ${offers.length} offers, ${charities.length} real charities, ${opportunities.length} sample volunteer shifts`);
+console.log(`Catalog: ${partners.length} partners, ${offers.length} offers, ${charities.length} real charities`);
 for (const id of identities) {
   const bal = id.links.map((l) => accounts.find((a) => a.acctNbr === l.acctNbr).curBal);
   console.log(`  ${id.hhid}  ${id.firstName.padEnd(7)} linked ${id.links.length}, balances ${bal.map((b) => b.toFixed(0)).join(' / ')}${id.demoUnlinked.length ? `, +${id.demoUnlinked.length} unlinked` : ''}`);

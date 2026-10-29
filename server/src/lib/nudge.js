@@ -20,7 +20,7 @@ import { fileURLToPath } from 'node:url';
 import { catalog, store, newId } from './store.js';
 import { recommend, POINTS_PER_DOLLAR } from './rewards.js';
 import { HttpError } from './context.js';
-import { haversineMiles } from './volunteer.js';
+import { haversineMiles } from './geo.js';
 import { indexFromContext, blockOfHour, BLOCKS, WEEKDAYS, INTENT_CATEGORIES } from './intentFeatures.js';
 import { scoreMoment } from './intentModel.js';
 import { toDay, fromDay } from './dates.js';

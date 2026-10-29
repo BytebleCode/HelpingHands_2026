@@ -2,7 +2,7 @@
   "name": "helping-hands",
   "private": true,
   "version": "0.1.0",
-  "description": "Needs-focused rewards, giving and volunteering on an FIS-style core banking platform.",
+  "description": "Needs-focused rewards, giving on an FIS-style core banking platform.",
   "workspaces": [
     "server",
     "client"

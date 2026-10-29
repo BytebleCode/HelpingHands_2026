@@ -1,7 +1,7 @@
 {
   "name": "Helping Hands",
   "short_name": "Helping Hands",
-  "description": "Needs-first rewards, giving and volunteering.",
+  "description": "Needs-first rewards and giving.",
   "start_url": "/",
   "display": "standalone",
   "orientation": "portrait",

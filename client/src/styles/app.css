@@ -296,9 +296,6 @@ input[type='range'].range::-moz-range-thumb { width: 16px; height: 16px; border-
 .level-track span { flex: 1; height: 3px; border-radius: 2px; background: var(--border); }
 .level-track span.on { background: var(--gold); }
 
-.date-block { width: 58px; flex: none; text-align: center; border-right: 1px solid var(--border); padding-right: var(--s4); }
-.date-block .d { font-family: var(--font-display); font-size: 32px; line-height: 1; }
-.date-block .m { font-size: 11px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--gold); }
 
 .scale { position: relative; margin: var(--s6) 0 var(--s2); }
 .scale-track { display: grid; grid-template-columns: repeat(5, 1fr); gap: 4px; }
@@ -359,9 +356,7 @@ input[type='range'].range::-moz-range-thumb { width: 16px; height: 16px; border-
 .spin { animation: spin 1s linear infinite; }
 @keyframes spin { to { transform: rotate(360deg); } }
 /* Display numerals: proportional figures so Cormorant's narrow "1" doesn't leave gaps */
-.serif.num, .offer-value .big.num, .hero-stat .value.num, .stat .value.num, .wallet-mini .pts.num, .date-block .d.num { font-variant-numeric: lining-nums proportional-nums; }
-.shift-row { padding: var(--s5); align-items: flex-start; }
-@media (max-width: 719px) { .shift-row { padding: var(--s4); gap: var(--s3); } .date-block { width: 50px; padding-right: var(--s3); } }
+.serif.num, .offer-value .big.num, .hero-stat .value.num, .stat .value.num, .wallet-mini .pts.num { font-variant-numeric: lining-nums proportional-nums; }
 
 /* ---------- data viz ---------- */
 .viz-box { position: relative; width: 100%; }

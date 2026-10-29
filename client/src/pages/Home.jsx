@@ -1,16 +1,16 @@
 import { useState } from 'react';
 import { Link } from 'react-router-dom';
-import { ArrowRight, CalendarDays, MapPin, Flame, Gift, Ticket, HeartHandshake, ArrowDownLeft, HandHelping, Landmark, Users, CreditCard } from 'lucide-react';
-import { Hero, SectionHead, Progress, Img, PageLoading, PageError } from '../components/ui.jsx';
+import { ArrowRight, Flame, Gift, Ticket, HeartHandshake, ArrowDownLeft, Landmark, Users, CreditCard } from 'lucide-react';
+import { Hero, SectionHead, Progress, PageLoading, PageError } from '../components/ui.jsx';
 import { OfferCard, OfferModal, useOfferActions } from '../components/Offers.jsx';
 import { NeighborGiftModal, NeedList } from '../components/Neighbors.jsx';
 import { MomentOptIn, RecentNudges } from '../components/Nudge.jsx';
 import { CharityCard, DonateModal } from './Give.jsx';
 import { useApi } from '../lib/api.js';
 import { useSession } from '../lib/session.jsx';
-import { greeting, pts, money, money2, longDate, shortDate, time12, relTime, plural, pct } from '../lib/format.js';
+import { greeting, pts, money, money2, shortDate, relTime, plural, pct } from '../lib/format.js';
 
-const LEDGER_ICON = { everyday: Ticket, offer: Gift, donation: HeartHandshake, cashout: Landmark, volunteer: HandHelping, 'neighbor-gift': Users, 'pay-with-points': CreditCard };
+const LEDGER_ICON = { everyday: Ticket, offer: Gift, donation: HeartHandshake, cashout: Landmark, 'neighbor-gift': Users, 'pay-with-points': CreditCard };
 
 export function ActivityList({ items }) {
   if (!items?.length) return <div className="empty small">No activity yet.</div>;
@@ -46,7 +46,6 @@ export default function Home() {
   if (error && !data) return <PageError error={error} onRetry={reload} />;
   const j = data.me.journey;
   const mode = me.experience?.key || 'save';
-  const shift = data.nextShift || data.nearbyShift;
   const selected = data.picks.find((o) => o.id === selectedId);
   const done = () => { reload({ quiet: true }); neighbors.reload({ quiet: true }); refreshMe(); };
 
@@ -112,7 +111,7 @@ export default function Home() {
     </section>
   );
 
-  const journeyAndShift = (
+  const journey = (
     <section className="section split" key="journey">
       <div className="card pad stack gap-4">
         <div className="row between">
@@ -124,25 +123,13 @@ export default function Home() {
           <div className="muted small mt-2">Impact score <span className="num" style={{ color: 'var(--text)' }}>{pts(j.impactScore)}</span>{j.nextLevel ? ` · ${pts(j.toNext)} to ${j.nextLevel.name}` : ' · highest level'}</div>
         </div>
         <Progress value={j.progress} />
-        <p className="small muted">Every point you give counts, and so does every hour you volunteer. Generosity here isn't measured by the size of your paycheck.</p>
+        <p className="small muted">Every point you give counts, whether it's 100 or 10,000. Generosity here isn't measured by the size of your paycheck.</p>
         <div className="row gap-3 wrap">
           <Link to="/give" className="btn btn-primary">Give rewards</Link>
-          <Link to="/volunteer" className="btn btn-secondary">Give time</Link>
         </div>
       </div>
-      {shift ? (
-        <Link to="/volunteer" className="card interactive">
-          <div className="media"><Img name={shift.charity.image} /><span className="tag badge gold">{data.nextShift ? 'You’re signed up' : 'Near you'}</span></div>
-          <div className="card-body">
-            <div className="label">{shift.charity.name}</div>
-            <h3 className="card-title">{shift.title}</h3>
-            <div className="row gap-4 wrap small muted mt-1">
-              <span className="row gap-1"><CalendarDays size={14} />{longDate(shift.dateIso)} · {time12(shift.start)}</span>
-              <span className="row gap-1"><MapPin size={14} />{shift.charity.mailingOnly ? 'Location shared after signup' : `${shift.distance} mi`}</span>
-            </div>
-          </div>
-        </Link>
-      ) : <div className="empty">No upcoming shifts nearby.</div>}
+      {/* The nearest real nonprofit, so there's always a one-tap way to give. */}
+      {data.charities[0] && <CharityCard c={data.charities[0]} campaigns={data.campaigns} onGive={setDonateTo} />}
     </section>
   );
 
@@ -168,9 +155,9 @@ export default function Home() {
   );
 
   const layouts = {
-    save: [received, offers('Selected for your essentials', 'Curated from your purchases'), journeyAndShift, communityGoal, activity],
-    balance: [received, offers('Selected for your essentials', 'Curated from your purchases'), needSection, journeyAndShift, activity],
-    give: [needSection, charities, journeyAndShift, offers('Your essentials offers', `${me.tier.name} tier · ${me.tier.multiplier}×`), activity],
+    save: [received, offers('Selected for your essentials', 'Curated from your purchases'), journey, communityGoal, activity],
+    balance: [received, offers('Selected for your essentials', 'Curated from your purchases'), needSection, journey, activity],
+    give: [needSection, charities, journey, offers('Your essentials offers', `${me.tier.name} tier · ${me.tier.multiplier}×`), activity],
   };
 
   const hero = mode === 'give' ? (

@@ -7,7 +7,7 @@ import { TIERS } from '../lib/incomeModel.js';
 import { recommend, activate, sync, cashOut, payWithPoints, POINTS_PER_DOLLAR, EVERYDAY_PTS_PER_DOLLAR } from '../lib/rewards.js';
 import { checkNudge, weekView, placesFor, recentNudges } from '../lib/nudge.js';
 import { journey, campaigns, community, donate } from '../lib/giving.js';
-import { listVolunteer, signup, cancel, checkIn, haversineMiles, originFor } from '../lib/volunteer.js';
+import { haversineMiles, originFor } from '../lib/geo.js';
 import { experienceFor } from '../lib/experience.js';
 import { neighborAreas, giveToNeighbors } from '../lib/community.js';
 import { core } from '../fis/store.js';
@@ -66,13 +66,10 @@ router.get('/me', member(async (req, res) => res.json({ me: meView(req.ctx) })))
 router.get('/home', member(async (req, res) => {
   const ctx = req.ctx;
   const rec = recommend(ctx);
-  const vol = listVolunteer(ctx, { radius: 30 });
   res.json({
     me: meView(ctx),
     picks: rec.offers.filter((o) => o.status !== 'active').slice(0, 6),
     activeOffers: rec.offers.filter((o) => o.status === 'active').length,
-    nextShift: vol.mySignups.find((o) => o.signup.status === 'registered') || null,
-    nearbyShift: vol.opportunities.find((o) => o.spotsLeft > 0 && !o.signup) || null,
     community: community(),
     campaigns: campaigns().filter((c) => c.remainingPoints > 0),
     activity: store.state.points[ctx.hhid].ledger.slice(0, 6),
@@ -203,12 +200,6 @@ router.get('/giving', member(async (req, res) => {
 router.post('/giving/donations', member(async (req, res) => res.status(201).json(await donate(req.ctx, req.body || {}))));
 router.get('/neighbors', member(async (req, res) => res.json(await neighborAreas())));
 router.post('/neighbors/gifts', member(async (req, res) => res.status(201).json(await giveToNeighbors(req.ctx, req.body || {}))));
-
-// ------------------------------------------------------------------ volunteer
-router.get('/volunteer', member(async (req, res) => res.json(listVolunteer(req.ctx, req.query))));
-router.post('/volunteer/:oppId/signup', member(async (req, res) => res.status(201).json(signup(req.ctx, req.params.oppId))));
-router.delete('/volunteer/signups/:id', member(async (req, res) => res.json(cancel(req.ctx, req.params.id))));
-router.post('/volunteer/signups/:id/checkin', member(async (req, res) => res.json(checkIn(req.ctx, req.params.id, req.body?.hours))));
 
 // ------------------------------------------------------------------ demo sandbox
 // Posts a purchase into the fake core as a card authorization (memo post), then syncs rewards.
